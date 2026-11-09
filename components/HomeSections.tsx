@@ -95,7 +95,7 @@ const PkArt = [
   /* 3 rank: growing bars with star */
   <svg key="a3" viewBox="0 0 240 120" className="pk-svg" aria-hidden="true">
     <rect className="pk-bar b1" x="66" y="64" width="30" height="46" rx="9" fill="#fff" opacity=".7" />
-    <rect className="pk-bar b2" x="105" y="34" width="30" height="76" rx="9" className="pk-fill" />
+    <rect x="105" y="34" width="30" height="76" rx="9" className="pk-bar b2 pk-fill" />
     <rect className="pk-bar b3" x="144" y="50" width="30" height="60" rx="9" fill="#fff" />
     <g className="pk-bob"><path d="M120 6l5 10 11 1.6-8 7.7 1.9 11L120 31l-9.9 5.3 1.9-11-8-7.7 11-1.6z" fill="#fff" stroke="currentColor" strokeWidth="2" strokeLinejoin="round" /></g>
     <circle cx="36" cy="76" r="8" fill="#fff" className="pk-float f2" /><circle cx="206" cy="34" r="6" fill="#fff" opacity=".8" className="pk-float f1" />
