@@ -1,0 +1,16 @@
+# Old WordPress URLs (Cloudflare reads this file)
+/page/:n/ / 301
+/category/:slug/page/:n/ /category/:slug/ 301
+/category/electronics/dashcam/ /category/dashcam/ 301
+/category/electronics/air-conditioner/ /category/air-conditioner/ 301
+/category/electronics/led-tv/ /category/smart-tv/ 301
+/category/led-tv/ /category/smart-tv/ 301
+/category/mobiles-accessories/ /category/accessories/ 301
+/category/top-10/ /category/best/ 301
+/category/blogs/ /category/buying-guides/ 301
+/category/electronics/ /category/ 301
+/sitemap_index.xml /sitemap.xml 301
+/favicon.ico /favicon/favicon.ico 301
+/%f0%9f%94%a5-iphone-overheating-explained-causes-fixes-and-how-to-prevent-it/ /iphone-overheating-explained-causes-fixes-and-how-to-prevent-it/ 301
+/voltas-ac-error-codes-and-solutions-2023/ /voltas-ac-error-codes-and-solutions/ 301
+/why-the-macbook-air-m1-is-still-a-brilliant-buy-in-2025/ /why-the-macbook-air-m1-is-still-a-brilliant-buy/ 301

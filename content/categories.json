@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "air-conditioner",
+    "title": "Air Conditioners",
+    "kind": "topic",
+    "group": "home-appliances",
+    "sortOrder": 10,
+    "showInNav": true,
+    "description": "Honest buying guides, comparisons and fixes for split and window ACs in India, from tonnage and BEE star ratings to common faults like water leakage."
+  },
+  {
+    "slug": "refrigerator",
+    "title": "Refrigerators",
+    "kind": "topic",
+    "group": "home-appliances",
+    "sortOrder": 11,
+    "showInNav": true,
+    "description": "Refrigerator buying guides for Indian homes: single door, double door, side-by-side and French door models, with capacity, energy rating and cooling features explained."
+  },
+  {
+    "slug": "air-purifier",
+    "title": "Air Purifiers",
+    "kind": "topic",
+    "group": "home-appliances",
+    "sortOrder": 12,
+    "showInNav": true,
+    "description": "Air purifier guides and reviews for Indian homes and cars, covering HEPA filters, room size, running cost and what a purifier can and cannot do."
+  },
+  {
+    "slug": "smart-tv",
+    "title": "Smart TVs",
+    "kind": "topic",
+    "group": "tv-audio",
+    "sortOrder": 20,
+    "showInNav": true,
+    "description": "Smart TV reviews and buying guides for India, from budget 4K sets to OLED, covering panels, sound, apps and how to choose the right size."
+  },
+  {
+    "slug": "soundbar",
+    "title": "Soundbars",
+    "kind": "topic",
+    "group": "tv-audio",
+    "sortOrder": 21,
+    "showInNav": true,
+    "description": "Soundbar and home theatre picks for Indian living rooms, with channels, wattage, connectivity and the trade-offs between budget and premium models."
+  },
+  {
+    "slug": "earbuds",
+    "title": "Earbuds",
+    "kind": "topic",
+    "group": "tv-audio",
+    "sortOrder": 22,
+    "showInNav": true,
+    "description": "True wireless earbuds and neckbands compared on sound, battery, calls and comfort, with picks across Indian budgets."
+  },
+  {
+    "slug": "laptops",
+    "title": "Laptops",
+    "kind": "topic",
+    "group": "mobiles-computing",
+    "sortOrder": 31,
+    "showInNav": true,
+    "description": "Laptop buying guides for students, professionals and creators in India, with specs, trade-offs and what to check before you buy."
+  },
+  {
+    "slug": "dashcam",
+    "title": "Dashcams",
+    "kind": "topic",
+    "group": "car-mobility",
+    "sortOrder": 40,
+    "showInNav": true,
+    "description": "Dash cam reviews, comparisons and buying advice for Indian roads, covering resolution, night recording, parking mode and storage."
+  },
+  {
+    "slug": "automobile",
+    "title": "Car Gadgets",
+    "kind": "topic",
+    "group": "car-mobility",
+    "sortOrder": 41,
+    "showInNav": true,
+    "description": "Gadgets and accessories for your car, from jump starters and pressure washers to air purifiers, picked on listed specs and real-world use."
+  },
+  {
+    "slug": "gaming",
+    "title": "Gaming",
+    "kind": "topic",
+    "group": "gaming-accessories",
+    "sortOrder": 50,
+    "showInNav": true,
+    "description": "Gaming laptops, consoles, controllers and accessories explained, with picks for Indian budgets and what to look for in each."
+  },
+  {
+    "slug": "accessories",
+    "title": "Phones & Accessories",
+    "kind": "topic",
+    "group": "mobiles-computing",
+    "sortOrder": 30,
+    "showInNav": true,
+    "description": "Chargers, cables, GaN adapters, microphones and everyday phone accessories, compared on wattage, build and what your devices actually support."
+  },
+  {
+    "slug": "best",
+    "title": "Best Of",
+    "kind": "format",
+    "sortOrder": 100,
+    "showInNav": true,
+    "description": "Ranked best-of guides with pros, cons and who should skip each pick, built from listed specs and published reviews."
+  },
+  {
+    "slug": "buying-guides",
+    "title": "Buying Guides",
+    "kind": "format",
+    "sortOrder": 102,
+    "showInNav": false,
+    "description": "Plain-English guides that explain what matters when buying a gadget or appliance, so you can compare models with confidence."
+  },
+  {
+    "slug": "review",
+    "title": "Reviews",
+    "kind": "format",
+    "sortOrder": 103,
+    "showInNav": true,
+    "description": "Product reviews that say what we tested and what we only researched, with a clear verdict on who each product suits."
+  },
+  {
+    "slug": "comparisons",
+    "title": "Comparisons",
+    "kind": "format",
+    "sortOrder": 104,
+    "showInNav": true,
+    "description": "Head-to-head comparisons of popular models and brands, laid out side by side so you can stop going back and forth."
+  },
+  {
+    "slug": "fix-it",
+    "title": "Fix-It",
+    "kind": "format",
+    "sortOrder": 107,
+    "showInNav": true,
+    "description": "Step-by-step fixes for common faults and error codes in everyday appliances and gadgets."
+  },
+  {
+    "slug": "news",
+    "title": "News",
+    "kind": "format",
+    "sortOrder": 105,
+    "showInNav": true,
+    "description": "Launches and updates from the Indian gadget market, with what they mean for buyers."
+  },
+  {
+    "slug": "home-kitchen",
+    "title": "Home & Kitchen",
+    "kind": "topic",
+    "group": "home-appliances",
+    "sortOrder": 15,
+    "showInNav": true,
+    "description": "Appliances for the home and kitchen in India, including heaters, dishwashers and chimneys, with buying guides and how-to advice."
+  },
+  {
+    "slug": "camera",
+    "title": "Cameras",
+    "kind": "topic",
+    "group": "mobiles-computing",
+    "sortOrder": 40,
+    "showInNav": true,
+    "description": "Camera and gimbal reviews and comparisons for creators and travellers in India, from pocket cameras to action cams."
+  },
+  {
+    "slug": "smartphones",
+    "title": "Smartphones",
+    "kind": "topic",
+    "group": "mobiles-computing",
+    "sortOrder": 27,
+    "showInNav": true,
+    "description": "Smartphone buying guides and comparisons for Indian budgets, with the specs, camera, battery and software trade-offs that matter before you buy."
+  },
+  {
+    "slug": "tablet",
+    "title": "Tablets",
+    "kind": "topic",
+    "group": "mobiles-computing",
+    "sortOrder": 28,
+    "showInNav": true,
+    "description": "Tablet guides for study, entertainment and work in India, with display, performance, battery and connectivity explained."
+  },
+  {
+    "slug": "smartwatch",
+    "title": "Smartwatches",
+    "kind": "topic",
+    "group": "mobiles-computing",
+    "sortOrder": 29,
+    "showInNav": true,
+    "description": "Smartwatch and fitness band guides for Indian budgets, covering display, battery life, calling, health tracking and app support."
+  }
+]

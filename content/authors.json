@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "editorial-team",
+    "name": "TheNextGadgets Editorial Team",
+    "role": "Editorial team",
+    "bio": "We research, compare and explain gadgets for buyers in India."
+  },
+  {
+    "slug": "lucilla",
+    "name": "Lucilla",
+    "role": "Writer",
+    "bio": "Writes buying guides, comparisons and fix-it guides for TheNextGadgets."
+  },
+  {
+    "slug": "daniel",
+    "name": "Daniel",
+    "role": "Writer",
+    "bio": "Writes buying guides, comparisons and fix-it guides for TheNextGadgets."
+  }
+]
