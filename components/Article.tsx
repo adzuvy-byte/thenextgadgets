@@ -110,7 +110,7 @@ export function Article({post, settings}: {post: any; settings: SiteSettings}) {
       </header>
 
       <div className="container article-grid">
-        <main className="article-main">
+        <div className="article-main">
           <VerdictBox verdict={post.quickVerdict} settings={settings} />
 
           {topPicks.length ? (
@@ -160,7 +160,7 @@ export function Article({post, settings}: {post: any; settings: SiteSettings}) {
             </section>
           ) : null}
 
-        </main>
+        </div>
 
         <aside className="article-aside">
           <div className="aside-sticky">

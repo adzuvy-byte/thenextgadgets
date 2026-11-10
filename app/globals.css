@@ -1379,3 +1379,6 @@ a.ap-card:hover { background: #e3eaf6; border-color: #b9c7e2; }
 .ap-thumb { flex: 0 0 36px; width: 36px; height: 36px; border-radius: 10px; background: #fff; border: 1px solid #d7dfec; display: inline-flex; align-items: center; justify-content: center; overflow: hidden; }
 .ap-thumb img { width: 100%; height: 100%; object-fit: contain; display: block; mix-blend-mode: multiply; }
 .productbox-media img, .pc-media img { aspect-ratio: 1 / 1; }
+
+/* contrast fix for the header wordmark subtitle */
+.site-header .wm-text .wm-2 { color: #b45309; }

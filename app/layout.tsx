@@ -50,7 +50,7 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
           Skip to content
         </a>
         <Header />
-        <div id="content">{children}</div>
+        <main id="content">{children}</main>
         <Footer settings={settings} />
         {I.googleAnalyticsId ? (
           <>

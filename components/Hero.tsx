@@ -26,7 +26,7 @@ export function Hero({lead, side}: {lead: any; side: any[]}) {
 
         <div className="hx-grid">
           <article className="hx-lead">
-            <Link href={`/${lead.slug}/`} className="hx-art fade-in" aria-hidden="true" tabIndex={-1}>
+            <Link href={`/${lead.slug}/`} className="hx-art" aria-hidden="true" tabIndex={-1}>
               <Cover type={lead.postType} category={lead.category?.slug} categoryTitle={lead.category?.title} seed={lead.slug} headline={lead.coverTitle} picks={lead.picks} size="lg" />
             </Link>
             <div className="hx-body">
@@ -46,6 +46,7 @@ export function Hero({lead, side}: {lead: any; side: any[]}) {
           </article>
 
           <aside className="hx-rail">
+            <h2 className="sr-only">Top stories</h2>
             <div className="hx-rail-h fade-in"><span>Top stories</span><i /></div>
             {side.map((p: any, i: number) => (
               <article key={p._id} className="hx-item fade-in" style={{animationDelay: `${220 + i * 110}ms`}}>
