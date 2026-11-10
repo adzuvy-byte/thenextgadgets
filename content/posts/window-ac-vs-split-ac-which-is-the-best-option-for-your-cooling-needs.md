@@ -35,6 +35,18 @@ A Window Air Conditioner is a single unit that is typically installed in a windo
 3. **Aesthetic Impact**: The unit protrudes from the window or wall, which can be visually unappealing and may block natural light.
 4. **Limited Placement Options**: Installation is restricted to windows or specific wall openings, which may not always be convenient.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Related pick"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## What is a Split AC?
 
 A Split Air Conditioner consists of two main components: an indoor unit and an outdoor unit. The indoor unit contains the evaporator and cooling fan, while the outdoor unit houses the compressor and condenser. These two units are connected by refrigerant lines and electrical wiring.

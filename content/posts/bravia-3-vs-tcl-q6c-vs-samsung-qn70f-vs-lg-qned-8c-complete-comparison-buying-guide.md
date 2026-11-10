@@ -22,6 +22,24 @@ coverTitle: Four 4K TVs, *compared*
 
 This article compares four mid-to-premium 4K TV choices you’ll see  shopping lists: **Sony Bravia 3** (entry/mid Sony 4K), **TCL Q6C** (QD-MiniLED with aggressive local dimming and high refresh), **Samsung QN70F** (Neo-QLED / Mini-LED 4K with Samsung Vision AI), and **LG QNED 8C** (LG’s Gen-8 QNED with α7 AI Processor). I give model specs, explain strengths & weaknesses, and then compare every TV head-to-head so you can pick the right TV for movies, gaming or bright-room viewing. (Sources: Sony, TCL, Samsung, LG product pages and independent reviews.)
 
+```product
+product: sony-bravia-3-ii-55-inch-k-55xr30m2
+badge: "Related pick"
+note: "Listed on Amazon.in: Sony 139 cm (55 inches) Smartchoice BRAVIA 3II Ultra HD Smart LED Google TV K-55XR30M2. Check the live price and exact model before buying."
+```
+
+```product
+product: tcl-55q6c-qd
+badge: "Related pick"
+note: "Listed on Amazon.in: TCL 55Q6C 55 Inch QD-Mini LED 4K Google TV. Check the live price and exact model before buying."
+```
+
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
 ## At a glance — quick spec table
 
 | Feature | Sony Bravia 3 | TCL Q6C | Samsung QN70F | LG QNED 8C |

@@ -14,6 +14,12 @@ freshness: fresh
 coverTitle: iPhone Overheating *Explained*
 ---
 
+```product
+product: apple-iphone-17-256gb
+badge: "Useful for this"
+note: "Listed on Amazon.in: Apple iPhone 17 256 GB. Check the live price and exact model before buying."
+```
+
 ## Introduction: Why iPhones Overheat and Why You Shouldn’t Ignore It
 
 If you’ve ever felt your iPhone getting too hot to touch, you’re not alone. iPhone overheating is a common issue that can happen to any model — from the iPhone 15 and 16 to the latest **iPhone 17 Pro and 17 Pro Max**.

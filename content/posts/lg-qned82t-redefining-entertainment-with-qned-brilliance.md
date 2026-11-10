@@ -22,6 +22,16 @@ The LG QNED82Tis a feature-packed 55-inch 4K smart TV that seamlessly blends cut
 
 In the ever-evolving world of televisions, LG continues to lead with its cutting-edge technology and premium designs. The **LG QNED AI QNED82T 4K Smart TV** is a testament to LG's innovation, offering a powerful combination of advanced picture technology, smart features, and sleek aesthetics. If you’re planning to upgrade your home entertainment setup, this model deserves a closer look.
 
+```product
+product: lg-55qned82bla-55-inch-qned-evo-mini-led-tv-2026
+badge: "Featured"
+note: "LG 55-inch QNED82 Mini LED TV (55QNED82BLA)."
+specs:
+- "Size: 55-inch"
+- "Panel: QNED evo Mini LED"
+- "Year: 2026"
+```
+
 ## Key Highlights of LG QNED82T 6A
 
 ## 1. Stunning Visuals with QNED Technology

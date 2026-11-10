@@ -18,6 +18,25 @@ coverTitle: Philips AC1711 & AC1715 *filters*
 
 Philips AC1711 Filter & Philips AC1715 Filter – Complete Guide
 
+```product
+product: philips-ac1711-air-purifier
+badge: "Philips"
+note: "Covers rooms up to about 380 sq ft (36 m\u00b2)."
+specs:
+- "Coverage: 380 sq ft (36 m\u00b2)"
+- "Filtration: HEPA, 99.97% of pollen and dust"
+```
+
+```product
+product: philips-ac1715-smart-air-purifier
+badge: "Philips smart"
+note: "Smart model for rooms up to 36 m\u00b2."
+specs:
+- "Coverage: 36 m\u00b2"
+- "Filtration: HEPA, 99.97% of pollen and dust"
+- "Control: Smart app"
+```
+
 ## What Is the Philips FY1700 Filter for AC1711 & AC1715?
 
 The **Philips FY1700** is the **official replacement filter** designed for both:

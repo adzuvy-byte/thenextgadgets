@@ -24,6 +24,12 @@ In this review, we’ll break down why this specific model—despite lacking "sm
 
 Whether you live in a metro city with high PM2.5 levels or simply want cleaner, healthier air indoors, the **Honeywell Air Touch V3 Air Purifier for Home** delivers strong performance with minimal noise and low maintenance.
 
+```product
+product: honeywell-4-stage-h13-hepa-air-purifier-589-sq-ft-wifi-9h74
+badge: "Related pick"
+note: "Listed on Amazon.in: Honeywell 4-Stage H13 HEPA Air Purifier (589 sq ft, WiFi). Check the live price and exact model before buying."
+```
+
 ## The "5-Stage" Secret: Why It Beats Standard Purifiers
 
 Most budget purifiers use a basic 3-stage system. Honeywell has doubled down on the V3 with a **5-stage process** that targets more than just dust:

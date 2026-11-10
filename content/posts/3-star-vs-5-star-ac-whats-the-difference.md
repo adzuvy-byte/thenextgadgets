@@ -17,6 +17,18 @@ coverTitle: 3 Star *vs* 5 Star AC
 
 Air conditioners are a common appliance in most homes, especially in countries with hot and humid climates. They are essential for maintaining a comfortable temperature inside the house and provide relief from the scorching heat outside. When it comes to buying an air conditioner, one of the most crucial factors to consider is the energy efficiency rating. In India, ACs come in two energy efficiency ratings - 3 Star and 5 Star. In this article, we will discuss the difference between 3 Star and 5 Star AC.
 
+```product
+product: blue-star-1-5-ton-3-star-split-ac-txqc
+badge: "Related pick"
+note: "Listed on Amazon.in: Blue Star 1.5 Ton 3 Star Inverter Split AC (New Star Rated). Check the live price and exact model before buying."
+```
+
+```product
+product: blue-star-1-5-ton-5-star-split-ac-16ht
+badge: "Related pick"
+note: "Listed on Amazon.in: Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). Check the live price and exact model before buying."
+```
+
 ### 3 Star vs 5 Star AC: What's the Difference?
 
 ### Energy Efficiency Rating

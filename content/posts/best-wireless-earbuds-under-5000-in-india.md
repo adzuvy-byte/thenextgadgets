@@ -131,21 +131,18 @@ items:
   - Galaxy AI features likely work best on a Samsung phone
   skipIf: you use a non-Samsung phone and want its extra features.
 - product: boat-nirvana-ivy-anc
-  badge: 50dB hybrid ANC, head tracking
-  verdict: A boAt TWS with 50dB hybrid ANC, 360° spatial audio with dynamic head tracking, fast charge, app support and Bluetooth 5.3. Head tracking is a rarer feature at this price.
+  badge: 50dB hybrid ANC, spatial audio
+  verdict: The boAt Nirvana Zenith Pro lists 50dB hybrid adaptive ANC, spatial audio and LDAC support, with up to 80 hours of playback. Rated 3.9/5 by 1,989 buyers on Amazon.in when we checked (2026-11-10); the price was around ₹2,699.
   specs:
-  - 'ANC: 50dB hybrid'
-  - 'Audio: 360° spatial with dynamic head tracking'
-  - 'Bluetooth: 5.3'
-  - 'Charging: fast'
-  - 'Support: app'
+  - 'ANC: 50dB hybrid adaptive'
+  - 'Audio: Spatial audio, LDAC'
+  - 'Playback: up to 80 hours'
   pros:
-  - Head-tracked spatial audio
-  - 50dB hybrid ANC
-  - App support
+  - Strong ANC claim for the price
+  - LDAC support
+  - Long playback
   cons:
-  - The title does not state battery life, so check the listing
-  skipIf: battery life is your priority.
+  - Fewer reviews than older boAt models
 - product: sony-wf-c510-tws
   badge: Sony, no ANC, small
   verdict: A small, comfortable Sony TWS with an ambient sound mode (not ANC), IPX4, quick charge, multipoint connectivity, a customisable EQ and up to 22 hours of battery. A good fit for small ears and for people who do not need noise cancelling.

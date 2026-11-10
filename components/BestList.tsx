@@ -1,15 +1,16 @@
 import Link from 'next/link'
+import {amazonImg} from '@/lib/img'
 import type {SiteSettings} from '@/lib/settings'
 import {AFFILIATE_REL, buttonLabel, productHref} from '@/lib/affiliate'
 import {BuyButton} from './BuyButton'
 
-export function BestList({block, settings}: {block: any; settings: SiteSettings}) {
+export function BestList({block, settings, offset = 0}: {block: any; settings: SiteSettings; offset?: number}) {
   const items: any[] = (block.items ?? []).filter((it: any) => it.product)
   if (!items.length) return null
   const hasRating = items.some((it) => it.rating != null)
   return (
     <section className="best">
-      {block.heading ? <h2 id="picks">{block.heading}</h2> : null}
+      {block.heading ? <h2 id={offset ? undefined : 'picks'}>{block.heading}</h2> : null}
 
       {block.showSummaryTable !== false ? (
         <div className="table-wrap">
@@ -33,7 +34,7 @@ export function BestList({block, settings}: {block: any; settings: SiteSettings}
                   <tr key={i}>
                     <td>{i + 1}</td>
                     <td>
-                      <a href={`#pick-${i + 1}`} className="strong">
+                      <a href={`#pick-${offset + i + 1}`} className="strong">
                         {it.product.name}
                       </a>
                     </td>
@@ -67,7 +68,7 @@ export function BestList({block, settings}: {block: any; settings: SiteSettings}
         const brand = p.brand || String(p.name).split(' ')[0]
         const lead = i === 0
         return (
-          <article key={i} id={`pick-${i + 1}`} className={`pickcard${lead ? ' pickcard-lead' : ''}`}>
+          <article key={i} id={`pick-${offset + i + 1}`} className={`pickcard${lead ? ' pickcard-lead' : ''}`}>
             <header className="pc-head">
               <span className="pc-rank" aria-label={`Number ${i + 1}`}>
                 <small>No.</small>
@@ -86,7 +87,7 @@ export function BestList({block, settings}: {block: any; settings: SiteSettings}
               <div className={`pc-top${p.image ? ' has-media' : ''}`}>
                 {p.image ? (
                   <div className="pc-media">
-                    <img src={p.image} alt={p.imageAlt || p.name} loading="lazy" decoding="async" />
+                    <img src={amazonImg(p.image, 500)} alt={p.imageAlt || p.name} width={260} height={260} loading="lazy" decoding="async" />
                   </div>
                 ) : null}
                 {specs.length ? (

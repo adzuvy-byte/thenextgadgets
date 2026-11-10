@@ -28,6 +28,30 @@ In this guide, we break down and **rank the top AC brands in India for 2025** ba
 
 Let’s find out which AC brand is the best fit for your home or office.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: daikin-1-5-ton-3-star-split-ac-s6zd
+badge: "Related pick"
+note: "Listed on Amazon.in: Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50U). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Related pick"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
+```product
+product: carrier-1-5-ton-5-star-split-ac-3bsk
+badge: "Related pick"
+note: "Listed on Amazon.in: Carrier 1.5 Ton 5 Star Flexicool Inverter Split AC (CAI18EE5R36F0). Check the live price and exact model before buying."
+```
+
 ## 1. LG – Best Overall AC Brand in India
 
 ### Why LG Stands Out:

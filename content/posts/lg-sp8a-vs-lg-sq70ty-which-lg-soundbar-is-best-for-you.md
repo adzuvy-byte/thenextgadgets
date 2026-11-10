@@ -20,6 +20,18 @@ coverTitle: LG SP8A *vs* LG SQ70TY
 
 Choosing the right **LG soundbar** can elevate your home entertainment experience, whether you're watching movies, gaming, or listening to music. Two popular options in India, the **LG SP8A** and **LG SQ70TY**, offer advanced features like **Dolby Atmos, wireless subwoofers, and AI sound optimization**. But which one is better suited for your needs? Let's break down the differences and help you make an informed decision.
 
+```product
+product: lg-s55t-3-1-soundbar-wireless-subwoofer
+badge: "Related pick"
+note: "Listed on Amazon.in: LG S55T 3.1 ch Soundbar with Wireless Subwoofer. Check the live price and exact model before buying."
+```
+
+```product
+product: lg-s90ty-5-1-3-dolby-atmos-soundbar
+badge: "Related pick"
+note: "Listed on Amazon.in: LG S90TY 570W 5.1.3 Channel Dolby Atmos Soundbar. Check the live price and exact model before buying."
+```
+
 ## 1. Overview of LG SP8A and LG SQ70TY
 
 ### LG SP8A: A Balanced and Immersive Experience

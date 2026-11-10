@@ -21,6 +21,18 @@ Blooming does not necessarily mean your TV is defective. In many cases, it is a 
 
 The important part is understanding **why blooming happens in the first place**, because simply turning up or down the TV's brightness won't necessarily solve it.
 
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
+```product
+product: tcl-55q6c-qd
+badge: "Useful for this"
+note: "Listed on Amazon.in: TCL 55Q6C 55 Inch QD-Mini LED 4K Google TV. Check the live price and exact model before buying."
+```
+
 ## What Is TV Blooming?
 
 TV blooming is the visible glow or halo that can appear around a bright object against a dark background.

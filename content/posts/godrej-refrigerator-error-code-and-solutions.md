@@ -17,6 +17,12 @@ coverTitle: Godrej fridge *error codes*
 
 If you're facing issues with your Godrej refrigerator, this comprehensive guide covers various error codes and their solutions. Learn how to troubleshoot common problems and get your refrigerator working smoothly again!
 
+```product
+product: godrej-223l-3-star-double-door-with-5-year-warranty-bdtr
+badge: "Useful for this"
+note: "Listed on Amazon.in: Godrej 223L 3 Star Double Door with 5-Year Warranty. Check the live price and exact model before buying."
+```
+
 ### Introduction
 
 Godrej refrigerators, celebrated for their unwavering reliability and impeccable performance, are undoubtedly a prized possession in many households. However, like all household appliances, they are not invulnerable to the occasional hiccup. In such times of need, understanding the cryptic language of error codes that might grace your Godrej refrigerator's display is a valuable skill. This knowledge can swiftly lead you to the root of the issue, and, more importantly, the remedy.

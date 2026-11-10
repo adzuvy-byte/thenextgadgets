@@ -20,6 +20,18 @@ coverTitle: LG SP8A *Soundbar*
 
 If you’re looking for a soundbar that delivers exceptional audio performance without stretching your budget, the LG SP8A Soundbar is an excellent choice. Combining advanced features, impressive sound quality, and a competitive price, the SP8A is a standout in the mid-range soundbar market. Let’s dive into why this soundbar is the perfect addition to your home entertainment setup.
 
+```product
+product: lg-s55t-3-1-soundbar-wireless-subwoofer
+badge: "Related pick"
+note: "Listed on Amazon.in: LG S55T 3.1 ch Soundbar with Wireless Subwoofer. Check the live price and exact model before buying."
+```
+
+```product
+product: lg-sf1a-2-0-compact-soundbar
+badge: "Related pick"
+note: "Listed on Amazon.in: LG SF1A 30W 2.0 Channel Compact Soundbar. Check the live price and exact model before buying."
+```
+
 ## Top Features of the LG SP8A Soundbar
 
 ## 1. Immersive 3.1.2 Channel Audio

@@ -18,6 +18,24 @@ We’ve all been there — your once-speedy laptop now takes minutes to boot, fr
 
 In this detailed guide, we’ll explore **why laptops slow down**, how to **fix performance issues**, and why upgrading to an **SSD and additional RAM** can dramatically transform your laptop’s speed and longevity.
 
+```product
+product: lenovo-ideapad-slim-3-ryzen-5-7520u-16gb
+badge: "Useful for this"
+note: "Listed on Amazon.in: Lenovo IdeaPad Slim 3 AMD Ryzen 5 7520U, 16GB, 512GB SSD, 15.6 inch FHD. Check the live price and exact model before buying."
+```
+
+```product
+product: hp-15-i5-1334u-16gb-512gb
+badge: "Useful for this"
+note: "Listed on Amazon.in: HP 15 Intel Core i5-1334U, 16GB DDR4, 512GB SSD, 15.6 inch FHD. Check the live price and exact model before buying."
+```
+
+```product
+product: crucial-p3-plus-1tb-ct1000p3pssd8
+badge: "Useful for this"
+note: "Listed on Amazon.in: Crucial P3 Plus 1TB PCIe 4.0 3D NAND NVMe M.2 SSD, up to 5000MB/s (CT1000P3PSSD8). Check the live price and exact model before buying."
+```
+
 ## 🔹 1. Identify What’s Slowing Your Laptop Down
 
 Before jumping into fixes, it’s essential to understand *why* your laptop is running slow. The common culprits include:

@@ -29,6 +29,18 @@ faq:
 
 Ulanzi and Digitek are two of the most common tripod brands that Indian creators come across, especially on Amazon.in. They sit in different places. Ulanzi is known for compact, creator-focused gear. Digitek is an Indian brand known for affordable tripods, lights and accessories that are easy to find. This comparison is about how the two brands generally position themselves, not about one specific model, because both sell many tripods at different prices. Always check the exact model's load rating, height and reviews before you buy.
 
+```product
+product: digitek-dtr-550-lw-67-inch-tripod-with-360-ball-head-d7ms
+badge: "Related pick"
+note: "Listed on Amazon.in: Digitek DTR-550 LW 67-inch Tripod with 360\u00b0 Ball Head. Check the live price and exact model before buying."
+```
+
+```product
+product: digitek-dtr-420lw-tripod-4-26ft-with-holder-94jx
+badge: "Related pick"
+note: "Listed on Amazon.in: Digitek DTR-420LW Tripod 4.26ft with Holder. Check the live price and exact model before buying."
+```
+
 ## The short answer
 
 - **Choose Ulanzi** if you want compact, travel-friendly and modular gear for phones, mirrorless cameras and vlogging rigs.

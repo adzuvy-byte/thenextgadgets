@@ -18,6 +18,12 @@ coverTitle: LG QNED92 *reviewed*
 
 > **Note:** This article is based on the manufacturer's published specifications and listings. We have not tested this product ourselves.
 
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
 ## What makes the LG QNED92 MiniLED important
 
 The **LG QNED92** is LG’s premium *QNED Mini-LED* 4K TV aimed at buyers who want very bright HDR highlights, precise local dimming, gaming features (HDMI 2.1 / 120–144Hz support depending on size), and LG’s WebOS smart platform. It sits in direct competition with Samsung’s Neo-QLED QN90F and premium Sony models like the Bravia 7 — delivering excellent contrast and colour volume thanks to Mini-LED backlighting and quantum dot + NanoCell colour processing. If you want high peak brightness for HDR, solid local dimming and a gaming-friendly feature set with the convenience of WebOS, the QNED92 is one of the Best LG options .

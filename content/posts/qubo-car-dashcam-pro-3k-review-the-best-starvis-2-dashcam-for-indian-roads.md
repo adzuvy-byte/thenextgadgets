@@ -25,6 +25,12 @@ If you're looking for a powerful, reliable, and feature-packed dashcam in India,
 
 In this detailed blog, we’ll explore everything about the **qubo 3k dashcam pro for car**, including features, performance, pros & cons, and whether it truly qualifies as the **Best STARVIS 2 dashcam** in its segment.
 
+```product
+product: qubo-car-dashcam-pro-3k-2026-edition-8hfx
+badge: "Related pick"
+note: "Listed on Amazon.in: Qubo Car Dashcam Pro 3K (2026 Edition). Check the live price and exact model before buying."
+```
+
 ## Qubo Car Dashcam Pro 3K – Overview
 
 The **Qubo Car Dashcam Pro 3K** is a dual-channel dashcam developed by Hero Group’s Qubo brand. It features a **5MP front camera (3K resolution)** and a **2MP rear camera (Full HD)**, making it ideal for complete front + rear coverage.

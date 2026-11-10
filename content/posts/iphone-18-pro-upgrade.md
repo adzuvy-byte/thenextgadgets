@@ -30,6 +30,15 @@ And for an iPhone 17 Pro owner?
 
 That's the interesting part of the iPhone 18 Pro story.
 
+```product
+product: apple-iphone-18-pro-256gb
+badge: "Newest"
+note: "Apple iPhone 18 Pro in the 256 GB configuration."
+specs:
+- "Storage: 256 GB"
+- "Colour: Silver"
+```
+
 ## iPhone 18 Pro Upgrade: What's Actually Different?
 
 The iPhone 18 Pro doesn't reinvent the iPhone. Instead, Apple has concentrated its changes in a few areas: cameras, processing, cooling, battery life and charging.

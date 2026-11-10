@@ -16,6 +16,12 @@ coverTitle: Haier Refrigerator Error *Codes*
 
 Modern refrigerators, like those from **Haier**, come equipped with diagnostic systems that alert you to issues by displaying specific **error codes**. These codes can help identify problems in your refrigerator’s operation, ranging from minor issues to major malfunctions. Understanding what these codes mean and knowing how to clear them can save you both time and money by potentially avoiding a service call.
 
+```product
+product: haier-240l-2-star-frost-free-twin-inverter-4t83
+badge: "Useful for this"
+note: "Listed on Amazon.in: Haier 240L 2 Star Frost Free Twin Inverter. Check the live price and exact model before buying."
+```
+
 Here’s a guide to **Haier refrigerator error codes** and how to clear them.
 
 ### Common Haier Refrigerator Error Codes and Their Meanings

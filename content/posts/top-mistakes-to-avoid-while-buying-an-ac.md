@@ -20,6 +20,24 @@ As summer temperatures soar across India, buying an air conditioner (AC) becomes
 
 To help you make a smarter choice, we’ve listed the **top mistakes to avoid while buying an AC**. Whether it’s your first AC or a replacement, avoid these common pitfalls and stay cool — literally and financially!
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Related pick"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
+```product
+product: blue-star-1-5-ton-5-star-split-ac-16ht
+badge: "Related pick"
+note: "Listed on Amazon.in: Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). Check the live price and exact model before buying."
+```
+
 ## 1. Ignoring the Correct Tonnage for Your Room
 
 **Mistake:** Buying a 1-ton AC for a large room or a 2-ton AC for a small space.

@@ -21,6 +21,12 @@ It's rarely just photos. By the time most phones hit their storage ceiling, it's
 
 This guide walks through exactly that, for both Android and iPhone, starting with the biggest space hogs and working down to the smaller stuff that adds up over time.
 
+```product
+product: sandisk-creator-phone-ssd-1tb
+badge: "Useful for this"
+note: "Listed on Amazon.in: SanDisk 1TB Creator Phone SSD (MagSafe compatible, up to 1,000 MB/s, USB-C). Check the live price and exact model before buying."
+```
+
 ## Why Your Phone Fills Up Faster Than You Think
 
 Before jumping into fixes, it helps to understand why this keeps happening even if you don't take that many photos. A few things are working against you at once.

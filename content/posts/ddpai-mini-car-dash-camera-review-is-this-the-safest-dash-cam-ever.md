@@ -140,19 +140,6 @@ items:
   cons:
   - 'Check how parking mode is powered, as it may need extra hardware'
   - 'Specs come from DDPAI''s page, not hands-on testing'
-- product: ddpai-mini-pro-2k-qhd-dashcam
-  badge: '2K, 3 MP'
-  verdict: 'A DDPAI Mini Pro with 2K video, a 3 MP sensor, Wi-Fi and accident lock, as an upgrade over the 1080p Mini.'
-  specs:
-  - 'Video: 2K, 3 MP'
-  - 'Wi-Fi: yes'
-  - 'Safety: G-sensor, emergency accident lock'
-  - 'Power: super capacitor'
-  pros:
-  - 'Higher resolution than the 1080p Mini'
-  - 'Wi-Fi, G-sensor and super capacitor'
-  cons:
-  - 'Not reviewed here, so check parking mode and storage support before buying'
 - product: ddpai-dash-cam-with-screen-2026-edition-lzgd
   badge: 'Has a screen'
   verdict: 'A DDPAI dash cam with a screen, 2K QHD video, an F1.8 lens and night vision.'

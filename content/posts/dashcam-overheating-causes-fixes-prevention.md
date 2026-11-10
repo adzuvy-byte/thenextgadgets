@@ -16,6 +16,12 @@ coverTitle: Dashcam *Overheating*
 
 If your dashcam feels hot to the touch, stops recording unexpectedly, or shuts down during summer driving, dashcam overheating is likely the reason. Because dashcams are mounted near the windshield, they receive direct sunlight and are exposed to high cabin temperatures, especially when the car is parked.
 
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Useful for this"
+note: "Listed on Amazon.in: 70mai A510 HDR 3K Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
 The good news is that overheating does not always mean the dashcam is permanently damaged. In many cases, you can fix the issue by improving ventilation, reducing heat exposure, or using the right power setup.
 
 ### Why dashcams overheat

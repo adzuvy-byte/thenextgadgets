@@ -34,6 +34,18 @@ Front-load washing machines are more energy-efficient than top-load washing mach
 
 Semi-automatic washing machines are the least energy-efficient type of washing machine. They typically consume around 600-700 kWh of energy per year. Semi-automatic washing machines are also the most water-intensive type of washing machine.
 
+```product
+product: samsung-7-kg-5-star-eco-bubble-top-load-x62w
+badge: "Related pick"
+note: "Listed on Amazon.in: Samsung 7 kg 5 Star Eco Bubble Top Load. Check the live price and exact model before buying."
+```
+
+```product
+product: whirlpool-7-kg-magic-clean-5-star-top-load-drdv
+badge: "Related pick"
+note: "Listed on Amazon.in: Whirlpool 7 kg Magic Clean 5 Star Top Load. Check the live price and exact model before buying."
+```
+
 ## What are 5-Star rated washing machines?
 
 To understand the power consumption of 5-star rated washing machines, it's important to first grasp what being a 5-star rated appliance means. In India, the Bureau of Energy Efficiency (BEE) assigns ratings to appliances based on their energy efficiency. These ratings range from 1 star to 5 stars, with 5 stars indicating the highest level of energy efficiency. Therefore, higher star ratings signify appliances that consume less electricity to operate.

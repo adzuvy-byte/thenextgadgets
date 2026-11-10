@@ -22,6 +22,12 @@ If you’re searching for a powerful and future-ready air purifier for Indian ho
 
 With rising PM2.5 and PM10 levels in India, the **Honeywell Air Touch V5 Air Purifier** provides reliable, fast, and consistent air purification to keep your home safe from dust, allergens, smoke, and harmful gases.
 
+```product
+product: honeywell-5-stage-air-purifier-dual-hepa-465-sq-ft-fc6z
+badge: "Related pick"
+note: "Listed on Amazon.in: Honeywell 5-Stage Air Purifier, Dual HEPA, 465 sq ft. Check the live price and exact model before buying."
+```
+
 ## Why the Honeywell Air Touch V5 Air Purifier Stands Out
 
 The **Honeywell Air Purifier V5** is engineered with cutting-edge technology to deliver maximum efficiency with minimal noise. It focuses on real-world Indian air pollution problems, making it highly effective for metro cities like Delhi, Mumbai, Bangalore, and Kolkata.

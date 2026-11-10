@@ -33,9 +33,9 @@ items:
   badge: Most reviewed
   verdict: A 3 litre instant geyser with a temperature sensing LED indicator and a rust and shock proof body. Rated 4.2/5 by 14,367 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,412.
   specs:
-  - 3L
-  - LED indicator
-  - Rust proof body
+  - 'Capacity: 3L'
+  - 'Feature: LED indicator'
+  - 'Build: Rust proof body'
   pros:
   - 14,000+ ratings
   - Known brand
@@ -45,9 +45,9 @@ items:
   badge: Strong reviews
   verdict: A 3 litre 3000W instant geyser with a 2 year warranty. Rated 4.2/5 by 7,601 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,149.
   specs:
-  - 3L
-  - 3000W
-  - 2 year warranty
+  - 'Capacity: 3L'
+  - 'Output: 3000W'
+  - 'Warranty: 2 year warranty'
   pros:
   - 7,600+ ratings
   - 4.2 rating
@@ -57,9 +57,9 @@ items:
   badge: Heavy duty
   verdict: A 3 litre instant geyser with a heavy duty heating element and SS 304L inner tank. Rated 4.2/5 by 2,730 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,929.
   specs:
-  - 3L
-  - SS 304L tank
-  - Heavy duty element
+  - 'Capacity: 3L'
+  - 'Capacity: SS 304L tank'
+  - 'Build: Heavy duty element'
   pros:
   - Steel tank
   - 2,700+ ratings
@@ -69,9 +69,9 @@ items:
   badge: Vertical design
   verdict: A 3 litre 3KW vertical instant heater suited to high rise buildings. Rated 4.1/5 by 1,959 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,799.
   specs:
-  - 3L
-  - 3KW
-  - Vertical
+  - 'Capacity: 3L'
+  - 'Output: 3KW'
+  - 'Installation: Vertical'
   pros:
   - Made for high rise pressure
   cons:
@@ -80,10 +80,10 @@ items:
   badge: Crompton option
   verdict: A 3 litre 3kW instant heater with a food grade SS tank and 6 bar pressure rating. Rated 4.0/5 by 912 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,799.
   specs:
-  - 3L
-  - 3kW
-  - SS tank
-  - 6 bar
+  - 'Capacity: 3L'
+  - 'Output: 3kW'
+  - 'Capacity: SS tank'
+  - 'Installation: 6 bar'
   pros:
   - Food grade steel tank
   cons:
@@ -92,9 +92,9 @@ items:
   badge: Bajaj option
   verdict: A 3 litre 3KW vertical geyser for bathroom and kitchen. Rated 4.1/5 by 130 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,699.
   specs:
-  - 3L
-  - 3KW
-  - Vertical
+  - 'Capacity: 3L'
+  - 'Output: 3KW'
+  - 'Installation: Vertical'
   pros:
   - Known brand
   - Low price
@@ -104,8 +104,8 @@ items:
   badge: Bigger tank
   verdict: A 5.9 litre 3000W instant water heater. Rated 3.7/5 by 1,901 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,098.
   specs:
-  - 5.9L
-  - 3000W
+  - 'Capacity: 5.9L'
+  - 'Output: 3000W'
   pros:
   - Larger tank
   cons:

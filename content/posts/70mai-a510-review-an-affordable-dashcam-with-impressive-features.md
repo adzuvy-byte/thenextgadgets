@@ -20,6 +20,18 @@ coverTitle: 70mai A510 *reviewed*
 
 In the ever-evolving world of automotive technology, dashcams have become an indispensable tool for drivers. They provide security, evidence in case of accidents, and peace of mind while on the road. Among the latest entrants in the dashcam market is the **70mai A510**, a device that has generated significant buzz due to its cutting-edge features and advanced technology. In this detailed review, we’ll take an in-depth look at the 70mai A510, exploring its design, performance, features, and how it stacks up against the competition.
 
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Related pick"
+note: "Listed on Amazon.in: 70mai A510 HDR 3K Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
+```product
+product: sandisk-high-endurance-128gb-microsd
+badge: "Related pick"
+note: "Listed on Amazon.in: SanDisk 128GB High Endurance Video MicroSDXC Card with Adapter. Check the live price and exact model before buying."
+```
+
 ## Overview of Key Features
 
 - **Resolution**: 2K (2560x1440)

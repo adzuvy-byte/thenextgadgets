@@ -25,6 +25,12 @@ When it comes to premium TVs , Samsung is once again raising the bar with its Sa
 
 So, is the **Samsung QN90F** Neo QLED worth its premium price tag? Let’s dive into a detailed review.
 
+```product
+product: samsung-qn90f-neo-qled-4k-tv
+badge: "Related pick"
+note: "Listed on Amazon.in: Samsung QN90F Neo QLED 4K TV. Check the live price and exact model before buying."
+```
+
 ## Design & Build: Sleek and Premium
 
 Samsung has gone with its **NeoSlim design**, meaning ultra-thin bezels, a minimalist stand, and a premium finish. Even the largest sizes (up to a jaw-dropping **115 inches**) look elegant despite their scale. Wall mounting blends seamlessly with interiors, while the sleek profile ensures it doesn’t overpower smaller rooms either.

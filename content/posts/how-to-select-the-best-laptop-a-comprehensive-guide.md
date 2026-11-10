@@ -20,6 +20,24 @@ Finding the right laptop can feel overwhelming. With dozens of processors, scree
 
 Whether you need a reliable workhorse for remote jobs, a high-refresh-rate rig for gaming, or a lightweight machine for college, knowing **how to select the best laptop** comes down to matching specific hardware capabilities with your actual daily needs.
 
+```product
+product: lenovo-ideapad-slim-3-ryzen-5-7520u-16gb
+badge: "Related pick"
+note: "Listed on Amazon.in: Lenovo IdeaPad Slim 3 AMD Ryzen 5 7520U, 16GB, 512GB SSD, 15.6 inch FHD. Check the live price and exact model before buying."
+```
+
+```product
+product: hp-15-i5-1334u-16gb-512gb
+badge: "Related pick"
+note: "Listed on Amazon.in: HP 15 Intel Core i5-1334U, 16GB DDR4, 512GB SSD, 15.6 inch FHD. Check the live price and exact model before buying."
+```
+
+```product
+product: apple-macbook-air-2026-m5
+badge: "Related pick"
+note: "Listed on Amazon.in: Apple MacBook Air 2026 (M5). Check the live price and exact model before buying."
+```
+
 ## Start With How You Will Use the Laptop
 
 Before comparing processors and RAM, think about what you'll actually do with the computer.

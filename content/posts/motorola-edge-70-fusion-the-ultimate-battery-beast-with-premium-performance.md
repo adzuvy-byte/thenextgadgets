@@ -22,6 +22,16 @@ If you are looking for a smartphone that combines **flagship-level features with
 
 The **Motorola Edge 70 Fusion** stands out in the mid-premium segment with its **7000mAh battery, Snapdragon chipset, and premium curved AMOLED display**, making it a strong competitor to brands like iQOO, Realme, and Samsung.
 
+```product
+product: motorola-edge-70-fusion-8-128
+badge: "Battery"
+note: "Motorola Edge 70 Fusion, 8GB RAM and 128GB storage."
+specs:
+- "Display: 6.78-inch 1.5K 144Hz AMOLED"
+- "RAM: 8 GB"
+- "Storage: 128 GB"
+```
+
 ## Motorola Edge 70 Fusion Full Specifications
 
 The **Motorola Edge 70 Fusion** delivers a powerful and well-balanced spec sheet:

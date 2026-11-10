@@ -22,6 +22,12 @@ If you’re looking for complete vehicle security, the **70mai T800E 4K Dash Cam
 
 Whether you drive for Uber, Lyft, or just want peace of mind on family trips, here is a breakdown of why this triple-channel setup is worth the investment.
 
+```product
+product: 70mai-a810-true-4k-hdr-dual-dash-cam
+badge: "Related pick"
+note: "Listed on Amazon.in: 70mai A810 True 4K HDR Dual Dash Cam. Check the live price and exact model before buying."
+```
+
 ## All-Around Coverage: Front, Interior, and Rear
 
 The core strength of the **70mai T800E 4K Dash Cam Car 3-Channel** is its triple-lens setup. It uses three wide-angle lenses to eliminate blind spots:

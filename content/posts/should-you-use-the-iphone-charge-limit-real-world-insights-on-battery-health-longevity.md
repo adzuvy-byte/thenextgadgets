@@ -20,6 +20,12 @@ For years, the "20-80 rule" was a mantra for battery nerds. But with the iPhone 
 
 Is "babying" your battery worth the daily inconvenience, or should you just plug it in and live your life? Let’s look at the numbers.
 
+```product
+product: apple-iphone-17-256gb
+badge: "Related pick"
+note: "Listed on Amazon.in: Apple iPhone 17 256 GB. Check the live price and exact model before buying."
+```
+
 ## What is the iPhone Charge Limit?
 
 Available on **iPhone 15 and later**, the Charge Limit tool allows you to hard-cap your battery at 80%, 85%, 90%, or 95%.

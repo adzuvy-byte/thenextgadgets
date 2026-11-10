@@ -20,6 +20,12 @@ When your Daikin air conditioner stops working or displays an error code, it can
 
 In this comprehensive guide, we’ll explore **common Daikin AC error codes**, their meanings, and step-by-step solutions to fix them. Whether you’re a homeowner or a technician, this article will equip you with the knowledge to troubleshoot Daikin AC issues effectively.
 
+```product
+product: daikin-1-5-ton-3-star-split-ac-s6zd
+badge: "Useful for this"
+note: "Listed on Amazon.in: Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50U). Check the live price and exact model before buying."
+```
+
 ## Why Do Daikin ACs Display Error Codes?
 
 Daikin air conditioners are equipped with advanced self-diagnostic systems that monitor the unit’s performance. When the system detects an issue, it displays an error code on the indoor unit’s display panel or remote control. These codes help identify the problem, making it easier to troubleshoot and resolve.

@@ -11,9 +11,8 @@ date: '2023-05-24'
 updated: '2026-11-07'
 excerpt: Compare the best DJI Drone for Travel in India with key specifications, pros and cons for each pick, and a buying guide.
 description: Compare the best DJI Drone for Travel in India with key specifications, pros and cons for each pick, and a buying guide.
-freshness: needs-update
+draft: true
 seoTitle: Best DJI Drone for Travel in India
-freshnessNote: Some models in this article may be older or replaced. Check each product is still sold and the specifications match the current listing.
 coverTitle: The best DJI *Drone* for Travel
 ---
 

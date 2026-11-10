@@ -8,18 +8,19 @@ categories:
 - laptops
 author: editorial-team
 date: '2024-03-24'
-updated: '2026-11-07'
+updated: '2026-11-10'
 excerpt: Compare the best Gaming Laptops Under ₹80,000 in India with key specifications, pros and cons for each pick, and a buying guide.
 description: Compare the best Gaming Laptops Under ₹80,000 in India with key specifications, pros and cons for each pick, and a buying guide.
-freshness: needs-update
+freshness: fresh
 seoTitle: Best Gaming Laptops Under ₹80,000 in India
-freshnessNote: Some models in this article may be older or replaced. Check each product is still sold and the specifications match the current listing.
 coverTitle: Gaming *Laptops* Under ₹80,000
 ---
 
 > **Note on prices:** Prices and availability change often. Check the current price, offers and exact model on Amazon.in before you buy.
 
 Are you in search of an affordable gaming experience? Look no further! This article explores the Best gaming laptops available in India under 80,000 rupees. These laptops feature powerful hardware and cutting-edge technologies to enhance your gameplay. Whether you're a casual player or a dedicated enthusiast, these gaming laptops deliver exceptional graphics, smooth gameplay, and an immersive experience. Join us as we delve into the world of affordable gaming laptops.
+
+> **Price check (10 Nov 2026):** laptop prices have risen. New RTX 3050 gaming laptops on Amazon.in are now listed at about ₹95,000 to ₹1,00,000, above the ₹80,000 in the title. The older models below may be discounted or limited in stock, so check each listing. Newer options just above the budget are at the end of this article.
 
 **Here are the Best Gaming Laptops under 80000 in India**
 
@@ -186,6 +187,46 @@ The inclusion of fast SSD storage ensures lightning-fast loading times, allowing
 | HP Pavilion Gaming 15 | Intel Core i5-10300H | 8GB | 512GB SSD | NVIDIA GTX 1650Ti | 15.6-inch FHD IPS |
 
 Also Read [Best Laptops for Students in India](/Best-laptops-for-students-in-india/)
+
+## Newer options just above ₹80,000
+
+```best
+items:
+- product: acer-aspire-lite-gaming-i7-13620h-rtx-3050
+  badge: Lowest price here
+  verdict: An Acer gaming laptop with an Intel Core i7-13620H and RTX 3050, listed at around ₹95,990 when we checked (2026-11-10). Rated 3.8/5 by 110 buyers on Amazon.in.
+  specs:
+  - 'Processor: Intel Core i7-13620H'
+  - 'Graphics: NVIDIA RTX 3050'
+  pros:
+  - i7 processor with RTX 3050
+  cons:
+  - Rated lower than the others
+  skipIf: you need to stay under ₹80,000.
+- product: hp-victus-i5-14450hx-rtx-3050-gaming-laptop
+  badge: Most reviewed
+  verdict: An HP Victus with an Intel Core i5-14450HX, RTX 3050 and 24GB RAM, listed at around ₹99,990 when we checked (2026-11-10). Rated 4.2/5 by 616 buyers on Amazon.in.
+  specs:
+  - 'Processor: Intel Core i5-14450HX'
+  - 'Graphics: NVIDIA RTX 3050'
+  - 'RAM: 24GB'
+  pros:
+  - 24GB RAM
+  - Many reviews
+  skipIf: you need to stay under ₹80,000.
+- product: asus-tuf-a15-2026-ryzen-7-8845hs-rtx-3050
+  badge: Best rated
+  verdict: The ASUS TUF A15 (2026) with a Ryzen 7 8845HS and RTX 3050, listed at around ₹99,990 when we checked (2026-11-10). Rated 4.4/5 by 27 buyers on Amazon.in.
+  specs:
+  - 'Processor: AMD Ryzen 7 8845HS'
+  - 'Graphics: NVIDIA RTX 3050'
+  pros:
+  - Highest rating
+  - Ryzen 7 processor
+  cons:
+  - Few reviews so far
+  skipIf: you need to stay under ₹80,000.
+```
 
 ## Buying Guide - Best Gaming Laptops under 80000 in India
 

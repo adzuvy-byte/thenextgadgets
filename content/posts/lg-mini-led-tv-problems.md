@@ -19,6 +19,12 @@ LG Mini LED TV problems are more widespread than LG's marketing suggests, and th
 
 This article covers every real problem LG Mini LED TV owners face, from the well-documented blooming and dark uniformity issues that come with the technology itself, to the marketing and specification dishonesty that has left many buyers feeling misled. More importantly, it covers what you can actually do about each issue before calling it a loss.
 
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
 ## Problem 1: LG Mini LED TV Blooming and Halo Effect
 
 Blooming is the single most widely reported LG Mini LED TV problem, and understanding why it happens is the key to knowing whether your unit has a fixable issue or an inherent limitation of the technology.

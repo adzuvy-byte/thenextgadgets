@@ -24,6 +24,15 @@ That doesn't automatically make the iPhone 18 Pro a worthwhile upgrade for every
 
 This guide gives you the real differences, the real specs, and an honest answer on who should upgrade and who should sit this one out.
 
+```product
+product: apple-iphone-18-pro-256gb
+badge: "Newest"
+note: "Apple iPhone 18 Pro in the 256 GB configuration."
+specs:
+- "Storage: 256 GB"
+- "Colour: Silver"
+```
+
 ## Full Specs Comparison — iPhone 18 Pro vs iPhone 17 Pro
 
 | Spec | iPhone 18 Pro | iPhone 17 Pro |

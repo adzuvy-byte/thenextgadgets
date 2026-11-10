@@ -12,6 +12,7 @@ export function Body({value, settings, adAfterIntro = true}: {value: Block[]; se
   // Place one ad after the intro (before the first H2).
   const first = value.findIndex((b) => b._type === 'html' && b.html.includes('<h2'))
   const parts: {key: string; node: React.ReactNode}[] = []
+  let pickOffset = 0
   value.forEach((b, i) => {
     if (b._type === 'html') {
       const cut = adAfterIntro && i === first ? b.html.indexOf('<h2') : -1
@@ -29,7 +30,8 @@ export function Body({value, settings, adAfterIntro = true}: {value: Block[]; se
     } else if (b._type === 'choose') {
       parts.push({key: String(i), node: <Choose block={b} settings={settings} />})
     } else if (b._type === 'bestTenList') {
-      parts.push({key: String(i), node: <BestList block={b} settings={settings} />})
+      parts.push({key: String(i), node: <BestList block={b} settings={settings} offset={pickOffset} />})
+      pickOffset += (b.items ?? []).filter((it: any) => it.product).length
     }
   })
   return (

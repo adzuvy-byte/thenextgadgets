@@ -33,9 +33,9 @@ items:
   badge: BEE 5 star
   verdict: A 3 litre instant water heater listed as BEE 5-Star rated and ISI marked. Rated 4.2/5 by 814 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹1,999.
   specs:
-  - 3L
-  - BEE 5-Star
-  - ISI marked
+  - 'Capacity: 3L'
+  - 'Energy rating: BEE 5-Star'
+  - 'Safety: ISI marked'
   pros:
   - Energy rating
   - Low price
@@ -45,10 +45,10 @@ items:
   badge: Cheapest with volume
   verdict: A 3 litre 3kW instant geyser with an ISI copper element, 304L SS tank and auto cut-off. Rated 4.1/5 by 2,233 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹1,949.
   specs:
-  - 3L
-  - 3kW
-  - Copper element
-  - SS 304L
+  - 'Capacity: 3L'
+  - 'Output: 3kW'
+  - 'Build: Copper element'
+  - 'Build: SS 304L'
   pros:
   - 2,200+ ratings
   - Low price
@@ -58,9 +58,9 @@ items:
   badge: Lowest price
   verdict: A 3 litre automatic instant heater with multiple safety systems and a rust proof ABS body. Rated 4.4/5 by 18 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹1,799.
   specs:
-  - 3L
-  - Safety systems
-  - ABS body
+  - 'Capacity: 3L'
+  - 'Safety: Safety systems'
+  - 'Build: ABS body'
   pros:
   - Cheapest here
   cons:
@@ -69,9 +69,9 @@ items:
   badge: Long tank warranty
   verdict: A 3 litre instant heater with 5 years on the inner tank and 2 years overall. Rated 5.0/5 by 5 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,673.
   specs:
-  - 3L
-  - 5 yr tank warranty
-  - 2 yr product
+  - 'Capacity: 3L'
+  - 'Warranty: 5 yr tank warranty'
+  - 'Warranty: 2 yr product'
   pros:
   - Longest tank warranty
   cons:
@@ -80,10 +80,10 @@ items:
   badge: Big brand
   verdict: A 3 litre 3kW heater with a food grade SS tank and 6 bar pressure rating. Rated 4.0/5 by 912 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,799.
   specs:
-  - 3L
-  - 3kW
-  - SS tank
-  - 6 bar
+  - 'Capacity: 3L'
+  - 'Output: 3kW'
+  - 'Capacity: SS tank'
+  - 'Installation: 6 bar'
   pros:
   - Crompton service network
   cons:
@@ -92,9 +92,9 @@ items:
   badge: Bajaj option
   verdict: A 3 litre 3KW vertical heater for bathroom and kitchen with a fast heating element. Rated 4.1/5 by 130 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,699.
   specs:
-  - 3L
-  - 3KW
-  - Vertical
+  - 'Capacity: 3L'
+  - 'Output: 3KW'
+  - 'Installation: Vertical'
   pros:
   - Known brand
   cons:

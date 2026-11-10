@@ -31,6 +31,12 @@ faq:
 
 The MacBook Air with the M2 chip came out in June 2022. It is no longer Apple's newest Air, but it is still sold second-hand and refurbished, and often discounted in India. This guide explains who should still buy it in 2026 and who should spend more. Points here are based on BGR's 2026 assessment of the M2 MacBook Air, and India prices come from sale reports. Prices move often, so check live listings.
 
+```product
+product: apple-macbook-air-2026-m5
+badge: "Related pick"
+note: "Listed on Amazon.in: Apple MacBook Air 2026 (M5). Check the live price and exact model before buying."
+```
+
 ## The short answer
 
 Yes, the M2 MacBook Air is still a solid buy for light work, if you get it at a good price. It is a good laptop for students, browsing, documents, spreadsheets, video calls and light photo editing. It is not the right choice if you need lots of RAM or heavy editing.

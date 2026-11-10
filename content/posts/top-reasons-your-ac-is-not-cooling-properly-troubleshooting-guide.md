@@ -22,6 +22,18 @@ Is your air conditioner (AC) failing to provide the cool and comfortable environ
 
 Top Reasons Your AC is Not Cooling Properly: Troubleshooting Guide
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Useful for this"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## 1. Dirty or Clogged Air Filters
 
 - **Problem**: One of the most common reasons for an air conditioner not cooling effectively is a dirty or clogged air filter. Over time, dust, dirt, and debris accumulate on the filter, restricting airflow and reducing the system’s efficiency.

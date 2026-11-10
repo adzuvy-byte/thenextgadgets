@@ -20,6 +20,12 @@ coverTitle: TCL 55P655 *reviewed*
 
 TCL has been making waves in the smart TV industry with its affordable yet feature-packed televisions. The **TCL 4K UHD Google TV 55P655** is no exception, bringing a **4K Ultra HD resolution, Google TV integration, and a bezel-less design** at a competitive price. In this review, we will dive deep into the features, specifications, pros, and cons of this television.
 
+```product
+product: tcl-55t6d-55-inch-4k-qled-google-tv
+badge: "Related pick"
+note: "Listed on Amazon.in: TCL T6D 55\" QLED (55T6D). Check the live price and exact model before buying."
+```
+
 ## Design & Build Quality
 
 One of the standout features of the **TCL 4K UHD Google TV 55P655** is its **metallic bezel-less design**, which gives it a sleek and modern look. The ultra-slim bezels enhance the viewing experience by making the display appear more immersive. The sturdy **metallic build** ensures durability, while the minimalistic stand design complements modern interiors.

@@ -17,6 +17,12 @@ coverTitle: Daikin AC Error Code and *Solutions*
 
 ### Daikin AC Error Codes – How to Identify and Troubleshoot
 
+```product
+product: daikin-1-5-ton-3-star-split-ac-s6zd
+badge: "Useful for this"
+note: "Listed on Amazon.in: Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50U). Check the live price and exact model before buying."
+```
+
 Daikin air conditioners are known for their reliability and advanced technology, but like any modern appliance, they can encounter problems that are signaled through **error codes**. These error codes are designed to help you quickly identify issues, whether it’s a sensor malfunction, a refrigerant problem, or a communication error. By understanding these codes and knowing how to troubleshoot them, you can often resolve issues on your own or determine when to call a professional.
 
 In this blog, we will walk you through **Daikin AC error codes**, their meanings, and how to troubleshoot them.

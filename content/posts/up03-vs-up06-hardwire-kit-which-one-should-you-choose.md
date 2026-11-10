@@ -28,6 +28,12 @@ But here is where it gets confusing: 70mai has two main kits, the **UP03** and t
 
 After messing around with both, here is the real-world breakdown of which one you actually need.
 
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Related pick"
+note: "Listed on Amazon.in: 70mai A510 HDR 3K Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
 ## The Short Answer: Which fits your camera?
 
 Before looking at features, check your camera's charging port. This is the "make or break" factor:

@@ -99,14 +99,14 @@ items:
   - 2-year warranty
   skipIf: you want to heat the whole room. Radiant heaters warm the area in front of them.
 - product: havells-inclino-1200w-3-rod-halogen-heater
-  badge: 3-rod halogen, 1200 W
-  verdict: A 1200 W Havells halogen heater with three rods. Halogen heaters warm you directly and quickly, but only in front of the heater. The listing title does not mention a thermostat or tip-over protection, so check the full listing.
+  badge: Quartz, 800 W
+  verdict: The Havells Bero is an 800 W quartz room heater, listed at around ₹1,899 when we checked (2026-11-10). Rated 4.1/5 by 487 buyers on Amazon.in. Quartz heaters warm you directly in front of the heater rather than the whole room. Check the listing for safety features.
   specs:
-  - 'Power: 1200 W'
-  - 'Element: 3 halogen rods'
+  - 'Power: 800 W'
+  - 'Element: Quartz'
   pros:
+  - Trusted brand
   - Fast radiant heat
-  - Silent
   skipIf: you want even room heating or a fan.
 - product: sujata-srh63-2-rod-quartz-room-heater
   badge: 400/800 W quartz

@@ -20,6 +20,18 @@ If you're planning to buy an air conditioner or already own one, a common questi
 
 In this guide, we’ll break down **split AC power consumption**, cost calculations, and tips to save electricity—especially for Indian households.
 
+```product
+product: blue-star-1-5-ton-5-star-split-ac-16ht
+badge: "Related pick"
+note: "Listed on Amazon.in: Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). Check the live price and exact model before buying."
+```
+
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
 ## How Much Electricity Does a Split AC Consume?
 
 The electricity consumption of a split AC depends on:

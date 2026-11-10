@@ -20,6 +20,24 @@ coverTitle: Qubo Q600 *vs* Philips AC1715
 
 When it comes to improving indoor air quality, two popular models stand out in the mid-range segment: **Qubo Q600** and **Philips AC1715 Smart Air Purifier**. Both are packed with strong filtration systems, smart features, and attractive designs — but which one offers better value for your home? In this detailed comparison, we break down performance, filtration, smart features, design, pricing, and ideal use cases to help you choose the right air purifier.
 
+```product
+product: qubo-q600-smart-air-purifier
+badge: "Smart"
+note: "Qubo Q600 smart air purifier."
+specs:
+- "Type: Smart air purifier"
+```
+
+```product
+product: philips-ac1715-smart-air-purifier
+badge: "Philips smart"
+note: "Smart model for rooms up to 36 m\u00b2."
+specs:
+- "Coverage: 36 m\u00b2"
+- "Filtration: HEPA, 99.97% of pollen and dust"
+- "Control: Smart app"
+```
+
 ## Overview: Qubo Q600 vs Philips AC1715
 
 Both Qubo and Philips target urban households dealing with dust, allergens, and rising pollution levels. However, the **Philips AC1715** is known for precision sensors and advanced auto-mode handling, while the **Qubo Q600** focuses on high coverage area and affordability with good smart features.

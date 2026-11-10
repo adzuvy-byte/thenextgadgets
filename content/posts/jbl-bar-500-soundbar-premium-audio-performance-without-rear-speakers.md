@@ -56,7 +56,7 @@ It also features **PureVoice dialogue enhancement** to ensure clear vocal delive
 - A few users have faced HDMI eARC connectivity glitches or automatic standby/power cycling when used with older TVs.
 
 ```product
-product: pros-cons
+product: jbl-bar-500-mk2-soundbar
 ```
 
 ## Comparison: Samsung HW‑Q800F vs JBL Bar 500 vs LG Q-Series

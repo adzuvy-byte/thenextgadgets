@@ -18,6 +18,16 @@ coverTitle: Galaxy S25 *Ultra*
 
 > **Note:** This article is based on the manufacturer's published specifications and listings. We have not tested this product ourselves.
 
+```product
+product: samsung-galaxy-s25-ultra-12-256
+badge: "Flagship"
+note: "Samsung Galaxy S25 Ultra, 12GB RAM and 256GB storage."
+specs:
+- "RAM: 12 GB"
+- "Storage: 256 GB"
+- "Camera: 200 MP main"
+```
+
 Samsung has officially unveiled the Galaxy S25 Ultra, marking a significant leap in smartphone technology and design. This flagship device combines cutting-edge hardware with advanced artificial intelligence (AI) capabilities to deliver an unparalleled user experience.
 
 **Design and Display**

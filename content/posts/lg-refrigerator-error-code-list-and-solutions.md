@@ -18,6 +18,12 @@ coverTitle: LG fridge *error codes*
 
 LG refrigerators are known for their innovative features, but like all modern appliances, they come with error codes designed to alert you when something goes wrong. These error codes help diagnose issues, so you can either fix them yourself or decide when to call a professional. This article will guide you through the **LG refrigerator error codes** and provide solutions for each.
 
+```product
+product: lg-276l-2-star-smart-inverter-convertible-double-door-t5tc
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 276L 2 Star Smart Inverter Convertible Double Door. Check the live price and exact model before buying."
+```
+
 ## Common LG Refrigerator Error Codes and Their Meanings
 
 1. **ER IF** – *Ice Fan Error* **Cause**: This error indicates that the fan responsible for circulating air around the ice maker is either blocked or malfunctioning. **Solution**: Turn off the refrigerator and check for any ice buildup that might be obstructing the fan. If you find ice, defrost the area, and restart the fridge. If the fan is still not working, it might need to be replaced.

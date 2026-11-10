@@ -18,6 +18,18 @@ coverTitle: 70mai *vs* Qubo
 
 > **Note:** This article is based on the manufacturer's published specifications and listings. We have not tested this product ourselves.
 
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Related pick"
+note: "Listed on Amazon.in: 70mai A510 HDR 3K Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
+```product
+product: qubo-dashcam-pro-4k-2026-edition-3c7s
+badge: "Related pick"
+note: "Listed on Amazon.in: Qubo Dashcam Pro 4K (2026 Edition). Check the live price and exact model before buying."
+```
+
 ## Introduction
 
 When it comes to choosing a dashcam, both 70mai and Qubo are well-known brands that offer a range of options. To help you make an informed decision, this article will compare and contrast the features, functionality, and overall performance of 70mai and Qubo dashcams.

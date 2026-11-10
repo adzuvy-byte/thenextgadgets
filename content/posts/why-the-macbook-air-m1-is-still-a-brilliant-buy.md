@@ -31,6 +31,12 @@ faq:
 
 The MacBook Air with the M1 chip launched in November 2020, nearly six years ago. It was Apple's first Apple Silicon laptop, and it is still a capable machine for everyday work. The question in 2026 is whether it is a smart buy, and the honest answer is yes, in the right situation: as a cheap, refurbished laptop for light use. This guide is based on BGR's 2026 assessment of the M1 Air. Check live prices and warranty terms before you buy.
 
+```product
+product: apple-macbook-air-2026-m5
+badge: "Related pick"
+note: "Listed on Amazon.in: Apple MacBook Air 2026 (M5). Check the live price and exact model before buying."
+```
+
 ## The short answer
 
 Buy an M1 Air if you want a light, silent, long-lasting laptop for browsing, documents, Zoom and streaming, and you are buying it at a low price. Skip it if you need multiple monitors, lots of storage or heavy multitasking.

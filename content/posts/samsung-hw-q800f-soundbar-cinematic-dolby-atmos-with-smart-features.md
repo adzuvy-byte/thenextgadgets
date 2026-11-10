@@ -39,6 +39,12 @@ The **Samsung HW-Q800F** is a premium **5.1.2-channel** soundbar released , desi
 - Exceptional **bass punch and crisp highs**—reviewers note strong performance across movie soundtracks, music and gaming content
 - **Consistent with top-tier mids**: praised for clarity and immersive surround, though some concerns were raised about subwoofer build quality or Bluetooth reliability by a few users.
 
+```product
+product: samsung-hw-q800h-5-1-2-soundbar
+badge: "Related pick"
+note: "Listed on Amazon.in: Samsung HW-Q800H 5.1.2 Soundbar (400 W). Check the live price and exact model before buying."
+```
+
 ## Comparison: Samsung HW‑Q800F vs JBL Bar 500 & LG Q-Series Models
 
 ### Specs & Feature Side-by-Side

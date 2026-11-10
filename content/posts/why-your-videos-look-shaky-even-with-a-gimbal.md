@@ -44,6 +44,12 @@ This guide is optimized for creators searching for:
 - smooth cinematic shots with gimbal
 - beginner gimbal mistakes
 
+```product
+product: dji-osmo-pocket-4-standard-combo
+badge: "Related pick"
+note: "Listed on Amazon.in: DJI Osmo Pocket 4 Standard Combo. Check the live price and exact model before buying."
+```
+
 ## Why Gimbal Footage Still Looks Shaky
 
 A gimbal stabilizes motion, but it cannot completely fix bad filming technique.

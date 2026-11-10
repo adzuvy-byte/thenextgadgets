@@ -17,6 +17,12 @@ coverTitle: 128 *vs* 256 *vs* 512GB
 
 128GB vs 256GB vs 512GB phone storage — which one should you choose? Find out the best option for your needs, usage, and future-proofing.
 
+```product
+product: sandisk-creator-phone-ssd-1tb
+badge: "Related pick"
+note: "Listed on Amazon.in: SanDisk 1TB Creator Phone SSD (MagSafe compatible, up to 1,000 MB/s, USB-C). Check the live price and exact model before buying."
+```
+
 ### The Question That Costs People More Than They Realise
 
 Every time a new phone launches, the same debate starts up in the comments. *Is 128GB still enough? Should I just jump to 256GB to be safe? Is 512GB overkill or am I going to regret not getting it in two years?*

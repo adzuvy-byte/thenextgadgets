@@ -20,6 +20,18 @@ LG vs Haier is one of the most common appliance comparisons in India right now, 
 
 The short version before the detail: LG is the better long-term investment if reliability, energy efficiency, and after-sales service matter most. Haier is the better choice if budget, compact design, and specific entry-level features are your priority. Neither verdict applies to every product in every category — and that is exactly why a proper comparison matters.
 
+```product
+product: lg-276l-2-star-smart-inverter-convertible-double-door-t5tc
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 276L 2 Star Smart Inverter Convertible Double Door. Check the live price and exact model before buying."
+```
+
+```product
+product: haier-240l-2-star-frost-free-twin-inverter-4t83
+badge: "Related pick"
+note: "Listed on Amazon.in: Haier 240L 2 Star Frost Free Twin Inverter. Check the live price and exact model before buying."
+```
+
 ## Brand Overview — LG and Haier in India
 
 LG Electronics is a South Korean multinational founded in 1958. In India, LG has been operating since 1997 and has built one of the largest appliance service networks in the country — over 6,000 authorised service centres spread across metro cities and tier-2 and tier-3 towns. LG's positioning in India has consistently been mid-range to premium, emphasising energy efficiency, inverter technology, and smart home integration across all its product categories.

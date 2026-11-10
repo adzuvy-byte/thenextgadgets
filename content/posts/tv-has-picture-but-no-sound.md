@@ -19,6 +19,18 @@ Your TV has picture but no sound — the screen is working perfectly, you can se
 
 This guide walks through every real cause in the correct order — starting with the simplest checks that take ten seconds and moving toward the more involved ones — so you find the actual problem rather than spending an hour trying things at random.
 
+```product
+product: lg-s55t-3-1-soundbar-wireless-subwoofer
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG S55T 3.1 ch Soundbar with Wireless Subwoofer. Check the live price and exact model before buying."
+```
+
+```product
+product: sony-ht-s400-2-1ch-soundbar-with-wireless-subwoofer-q4tc
+badge: "Useful for this"
+note: "Listed on Amazon.in: Sony HT-S400 2.1ch Soundbar with Wireless Subwoofer. Check the live price and exact model before buying."
+```
+
 ## The Diagnostic Question That Saves You the Most Time
 
 Before touching a single button, answer this: does the silence affect everything on your TV, or just one specific input or app?

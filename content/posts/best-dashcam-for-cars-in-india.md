@@ -35,10 +35,10 @@ items:
   badge: Best overall
   verdict: A 3K dual channel dashcam with a STARVIS 2 IMX675 sensor and ADAS. Rated 4.4/5 by 1,952 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹11,799.
   specs:
-  - 3K
-  - Dual channel
-  - STARVIS 2 IMX675
-  - ADAS
+  - 'Resolution: 3K'
+  - 'Cameras: Dual channel'
+  - 'Sensor: STARVIS 2 IMX675'
+  - 'Feature: ADAS'
   pros:
   - 4.4 rating
   - Strong night sensor
@@ -48,9 +48,9 @@ items:
   badge: Most reviewed
   verdict: A Hero Group 2K front plus rear dual channel dashcam with a wide angle view. Rated 3.9/5 by 6,296 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹6,490.
   specs:
-  - 2K front
-  - Dual channel
-  - Wide angle
+  - 'Resolution: 2K front'
+  - 'Cameras: Dual channel'
+  - 'Lens: Wide angle'
   pros:
   - Front and rear under ₹7,000
   - Indian brand
@@ -60,9 +60,9 @@ items:
   badge: Best value dual
   verdict: A dual dashcam with native 2.5K front upscaled to 4K, full HD rear and built-in GPS logger. Rated 4.2/5 by 1,990 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹5,749.
   specs:
-  - 2.5K native front
-  - Full HD rear
-  - GPS logger
+  - 'Cameras: 2.5K native front'
+  - 'Cameras: Full HD rear'
+  - 'GPS: GPS logger'
   pros:
   - GPS logger
   - Dual channel under ₹6,000
@@ -72,9 +72,9 @@ items:
   badge: Proven pick
   verdict: A 1080p HDR front and rear dual dashcam with night vision and a Wi-Fi app. Rated 4.3/5 by 1,308 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹6,999.
   specs:
-  - 1080P front and rear
-  - HDR
-  - Wi-Fi app
+  - 'Resolution: 1080P front and rear'
+  - 'Image quality: HDR'
+  - 'Connectivity: Wi-Fi app'
   pros:
   - 1,300+ ratings
   - Front and rear
@@ -84,10 +84,10 @@ items:
   badge: Premium 4K
   verdict: A dual channel dashcam with true 4K recording and a Sony STARVIS IMX415 sensor. Rated 4.2/5 by 381 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹11,990.
   specs:
-  - True 4K
-  - Dual channel
-  - STARVIS IMX415
-  - ADAS
+  - 'Resolution: True 4K'
+  - 'Cameras: Dual channel'
+  - 'Sensor: STARVIS IMX415'
+  - 'Feature: ADAS'
   pros:
   - Native 4K
   cons:
@@ -96,9 +96,9 @@ items:
   badge: Sony sensor
   verdict: A front and rear dashcam with a Sony STARVIS IMX335 sensor, 3K upscaled to 4K. Rated 4.4/5 by 205 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹7,999.
   specs:
-  - Sony IMX335
-  - Front and rear
-  - 3K upscaled
+  - 'Sensor: Sony IMX335'
+  - 'Cameras: Front and rear'
+  - 'Resolution: 3K upscaled'
   pros:
   - 4.4 rating
   cons:
@@ -108,9 +108,9 @@ items:
   badge: DDPAI dual
   verdict: A front and rear dual channel dashcam with 1296P front, 1080P rear and an F1.8 aperture. Rated 4.2/5 by 599 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹5,509.
   specs:
-  - 1296P front
-  - 1080P rear
-  - F1.8
+  - 'Resolution: 1296P front'
+  - 'Resolution: 1080P rear'
+  - 'Aperture: F1.8'
   pros:
   - Dual channel under ₹5,600
   cons:
@@ -119,10 +119,10 @@ items:
   badge: Brand option
   verdict: A Wi-Fi dual camera dashcam with 2K front, 1080P rear, G-sensor and a dual port charger. Rated 4.1/5 by 338 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹5,445.
   specs:
-  - 2K + 1080P
-  - Wi-Fi
-  - G-sensor
-  - Dual port charger
+  - 'Resolution: 2K + 1080P'
+  - 'Connectivity: Wi-Fi'
+  - 'Sensor: G-sensor'
+  - 'Ports: Dual port charger'
   pros:
   - Dual port charger
   - Known brand

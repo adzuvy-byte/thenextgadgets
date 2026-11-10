@@ -44,6 +44,24 @@ In 2026, HDR formats matter more than ever:
 
 Look for TVs that support at least Dolby Vision or HDR10+ to future-proof your purchase.
 
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
+```product
+product: tcl-55q6c-qd
+badge: "Related pick"
+note: "Listed on Amazon.in: TCL 55Q6C 55 Inch QD-Mini LED 4K Google TV. Check the live price and exact model before buying."
+```
+
+```product
+product: sony-bravia-3-ii-55-inch-k-55xr30m2
+badge: "Related pick"
+note: "Listed on Amazon.in: Sony 139 cm (55 inches) Smartchoice BRAVIA 3II Ultra HD Smart LED Google TV K-55XR30M2. Check the live price and exact model before buying."
+```
+
 ## 2. Operating System: The Brain Behind Your TV
 
 The smart TV’s OS affects everything—from app availability to navigation. Choose an operating system that feels smooth, stable, and easy to understand.

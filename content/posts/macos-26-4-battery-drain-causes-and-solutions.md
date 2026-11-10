@@ -22,6 +22,12 @@ In this guide, you’ll learn **why macOS 26.4 is draining your battery** and **
 
 macOS 26.4 Battery Drain: Causes and Solutions (Fix MacBook Battery Issues Fast). macOS Battery Drain
 
+```product
+product: apple-macbook-air-2026-m5
+badge: "Useful for this"
+note: "Listed on Amazon.in: Apple MacBook Air 2026 (M5). Check the live price and exact model before buying."
+```
+
 ## Why macOS 26.4 Is Draining Your MacBook Battery
 
 After installing a major update like macOS 26.4, your system runs several background processes that can temporarily increase battery usage:

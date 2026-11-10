@@ -19,6 +19,18 @@ Every few years, TV technology gets a genuine shake-up instead of just a margina
 
 This article breaks down what RGB Mini LED TV technology actually is, how it's different from the Mini LED TVs you already know, how it stacks up against OLED, and most importantly, whether it's worth buying into this year or worth waiting on.
 
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
+```product
+product: tcl-55q6c-qd
+badge: "Related pick"
+note: "Listed on Amazon.in: TCL 55Q6C 55 Inch QD-Mini LED 4K Google TV. Check the live price and exact model before buying."
+```
+
 ## What Is RGB Mini LED TV Technology, Exactly?
 
 Every LED-backlit TV works by shining light through a panel of liquid crystal pixels, with the backlight itself sitting behind the screen. Until now, that backlight has almost always used either plain white LEDs or blue LEDs paired with a color-converting film to produce the full range of colors you actually see on screen.

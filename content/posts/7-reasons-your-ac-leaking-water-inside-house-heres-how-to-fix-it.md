@@ -24,6 +24,18 @@ In 2026, air conditioning systems have become more efficient, but the physics of
 
 Before you call a technician for a $200 service visit, let’s walk through the primary causes of an AC water leak and how you can troubleshoot the issue yourself.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Useful for this"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## How Does an AC Unit Produce Water?
 
 To fix the leak, you have to understand where the water comes from. Your indoor unit contains an **evaporator coil**. As warm air from your home passes over this cold coil, moisture in the air condenses into water droplets—just like a cold soda can on a humid day.

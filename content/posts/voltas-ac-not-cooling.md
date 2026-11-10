@@ -19,6 +19,12 @@ Voltas AC not cooling is one of the most common appliance complaints in India ev
 
 The good news is that the majority of Voltas AC cooling failures are caused by a small, well-understood list of issues, and several of them are genuinely fixable at home without calling a technician. This guide walks through every real cause in order — starting with the simplest checks and moving toward the more serious hardware issues — so you can find your actual problem without guessing.
 
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Useful for this"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## Before Anything Else: One Important Caution
 
 If your Voltas AC is not cooling and you are tempted to switch it off and on repeatedly trying to make it work, stop doing that. Repeated switching on and off when the AC is struggling can damage the compressor. Switch the unit off properly, leave it off for at least 10 minutes, and then work through the checks below before turning it on again.

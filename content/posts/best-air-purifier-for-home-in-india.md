@@ -1,5 +1,5 @@
 ---
-title: 'Best Air Purifier for Home in India: 6 Picks Matched to Your Room Size'
+title: 'Best Air Purifier for Home in India: 12 Picks Matched to Your Room Size'
 slug: best-air-purifier-for-home-in-india
 type: best
 category: air-purifier
@@ -9,7 +9,7 @@ categories:
 author: lucilla
 date: 2026-08-23
 updated: 2026-11-02
-excerpt: Six air purifiers worth buying in India right now, from a small 12-watt bedroom unit to big-room smart purifiers, with honest room sizes, filter costs and who should skip each one.
+excerpt: Twelve air purifiers worth buying in India right now, from a small 12-watt bedroom unit to big-room smart purifiers, with honest room sizes, filter costs and who should skip each one.
 description: The best air purifiers for Indian homes in 2026, matched to real room sizes, with filter costs, running costs and who each one suits.
 freshness: fresh
 faq:
@@ -32,7 +32,7 @@ Air purifiers are no longer a winter-only purchase in India. Dust, construction,
 
 The hard part is choosing one. Box claims like "covers 900 sq ft" or "removes 99.99% of viruses" make every model sound the same. They are not. What matters is how much clean air the purifier actually moves, how big your room really is, and what the filters will cost you every year after you buy it.
 
-This guide covers six purifiers that are on sale in India now, at very different sizes and budgets. For each one we explain who it suits, what it does well, what it does badly, and who should skip it.
+This guide covers twelve purifiers that are on sale in India now, at very different sizes and budgets. For each one we explain who it suits, what it does well, what it does badly, and who should skip it.
 
 ## Our picks at a glance
 
@@ -42,6 +42,12 @@ This guide covers six purifiers that are on sale in India now, at very different
 - **Best smart purifier for bedrooms:** Philips AC0950
 - **Best simple bedroom purifier, no app:** Philips AC0920 (900 Series)
 - **Best for small rooms and low power use:** Honeywell Air Touch V1
+- **Best new large-room pick:** Cuckoo Respure (570 sq ft)
+- **Best no-filter-change pick:** Shark HP150IN
+- **Best for big living rooms:** Philips AC3220/60
+- **Best compact Coway:** Coway Airmega 100
+- **Most reviewed:** Honeywell 5-Stage (465 sq ft)
+- **Best budget smart pick:** Xiaomi Air Purifier 4 Lite
 
 ```best
 items:
@@ -120,7 +126,125 @@ items:
       - Too little airflow for rooms above about 150 sq ft
       - No sensor, display or auto mode
     skipIf: your room is larger than about 150 sq ft or you live in a city with severe winter smog
+  - product: cuckoo-respure-air-purifier-true-hepa-h13-570-sq-ft-h1cv
+    badge: "Best new large-room pick"
+    verdict: "A Korean-brand purifier with True HEPA H13, activated carbon and a 408 m³/h CADR, listed for rooms up to 570 sq ft. Rated 4.5/5 by 704 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹12,989."
+    pros:
+      - "408 m³/h CADR"
+      - "True HEPA H13 plus carbon"
+      - "Highest rating in the new picks"
+    cons:
+      - "Newer brand in India"
+      - "Filter price not clearly published"
+    skipIf: "you want the longest-established service network"
+  - product: shark-hp150in-air-purifier-hepa-14-600-sq-ft-lzvr
+    badge: "Best no-filter-change pick"
+    verdict: "Shark pairs an Anti-Allergen HEPA 14 filter with a \"NeverChange\" design rated for up to 5 years, for rooms up to 600 sq ft. Rated 4.3/5 by 3,570 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹18,999."
+    pros:
+      - "Filter rated up to 5 years"
+      - "HEPA 14 filtration"
+      - "Washable debris screens"
+    cons:
+      - "Costs more up front"
+      - "Five-year claim assumes cleaner air than a Delhi winter"
+    skipIf: "you want the lowest purchase price"
+  - product: philips-ac3220-60-smart-air-purifier-1ry1
+    badge: "Best for big living rooms"
+    verdict: "A 520 m³/h CADR purifier with a live AQI display, temperature and humidity sensors and a 36 W draw, for rooms up to about 600 sq ft. Rated 4.4/5 by 134 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹21,500."
+    pros:
+      - "520 m³/h CADR"
+      - "Real-time AQI display"
+      - "Quieter SilentWings design"
+    cons:
+      - "Expensive"
+      - "Only 134 ratings so far"
+    skipIf: "your room is small"
+  - product: coway-airmega-100-ap-0823e-air-purifier-270-sq-ft-4f7f
+    badge: "Best compact Coway"
+    verdict: "The smaller Coway, with a 240 m³/h CADR, 3-in-1 True HEPA and carbon filtration and an 8,500-hour filter life, for rooms up to 270 sq ft. Rated 4.4/5 by 488 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹11,999."
+    pros:
+      - "Long filter life"
+      - "ECARF allergy certification"
+      - "Ozone-free filtration"
+    cons:
+      - "Not enough for large rooms"
+      - "No app control"
+    skipIf: "your room is bigger than about 270 sq ft"
+  - product: honeywell-5-stage-air-purifier-dual-hepa-465-sq-ft-fc6z
+    badge: "Most reviewed"
+    verdict: "Honeywell's five-stage purifier with H11 and H13 HEPA, an anti-bacterial filter and activated carbon, with a CADR of up to 300 m³/h. It has over 31,000 ratings, far more than anything else here. Rated 3.9/5 by 31,010 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹10,499."
+    pros:
+      - "Huge review base"
+      - "Five-stage filtration"
+      - "Affordable"
+    cons:
+      - "Rated 3.9, lower than rivals"
+      - "No Wi-Fi in this model"
+    skipIf: "you want smart features or the highest rated model"
+  - product: xiaomi-air-purifier-4-lite-5y4h
+    badge: "Best budget smart pick"
+    verdict: "A 360 m³/h CADR purifier with True HEPA, activated carbon, a live AQI display and app and voice control, at a lower price than the full Xiaomi 4. Rated 4.2/5 by 1,007 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹10,990."
+    pros:
+      - "App and voice control"
+      - "TÜV allergy care certification"
+      - "Live AQI display"
+    cons:
+      - "Lite model"
+      - "Filters wear faster in polluted cities"
+    skipIf: "you want the full Xiaomi Air Purifier 4"
 ```
+
+## About each purifier
+
+A closer look at every purifier above, in the same order as the list. Ratings and prices were checked on Amazon.in on 2026-11-09 and move often.
+
+### Coway AirMega 150 (AP-1019C)
+
+The safe default. A 303 m³/h CADR, a washable pre-filter, a carbon layer and a thick True HEPA H13 filter make it strong enough for a bedroom in heavy smog and a living room of about 350 sq ft in better months. It has no app or numerical readout, just a four-colour air quality light and auto mode, and that simplicity is why it works for families who do not want to manage a gadget. Its filter is rated for about 8,500 hours.
+
+### Mijia (Xiaomi) Smart Air Purifier 6
+
+The most capable purifier on paper, with a particle CADR of 443 m³/h and a formaldehyde CADR of 218 m³/h. The colour display shows PM2.5, PM1, temperature and humidity, and the app keeps schedules and history. Treat the headline coverage as optimistic and size it by CADR. It suits a living room or a smoggy city, and it is more purifier than a small bedroom needs.
+
+### Qubo Q600
+
+Big-room airflow at a lower price. Retail listings put its CADR near 450 m³/h, with a pre-filter, True HEPA H13 and carbon, and a rated filter life of up to 15,000 hours. The app compares indoor air with outdoor readings. It is loud on its top speed and has no remote, so it is best in a hall where noise matters less.
+
+### Philips AC0950
+
+A compact bedroom purifier with Wi-Fi, a numerical PM2.5 readout and a carbon layer for light odours. At 250 m³/h it is right for rooms of about 150 to 250 sq ft, and its Sleep mode runs at around 20 dB. The replacement filter costs more than the AC0920's.
+
+### Philips AC0920 (900 Series)
+
+The same airflow and quiet Sleep mode as the AC0950, with no Wi-Fi and no carbon layer. It is the one to buy if you only want cleaner air in a bedroom with one button. The FY0900/30 filter is rated for about a year and is cheaper than the AC0950's. Skip it if your bedroom is near the kitchen.
+
+### Honeywell Air Touch V1
+
+A small cube with a CADR of about 152 m³/h, built for a study or a compact bedroom of 100 to 150 sq ft. It has a three-stage filter with H13 HEPA and carbon, runs at 29 dB on low and draws only 12 W. It has no sensor or auto mode, so you set the speed yourself.
+
+### Cuckoo Respure (570 sq ft)
+
+A newer entrant from a Korean home-appliance brand. It uses a pre-filter, True HEPA H13 and activated carbon, and lists a 408 m³/h CADR for rooms up to 570 sq ft. At 4.5 stars from 704 buyers it is the best rated of the six newest picks. Check that you are comfortable with service support, since the brand is less established in India than Philips or Honeywell.
+
+### Shark HP150IN (600 sq ft)
+
+Shark's selling point is cost over time. Its HEPA 14 filter is designed as "NeverChange" and rated for up to five years, with washable debris screens in front of it. That removes the yearly filter bill that the other purifiers here carry. It costs more up front at around ₹18,999, and the five-year figure assumes cleaner air than a Delhi winter, so expect to check it sooner in smoggy cities.
+
+### Philips AC3220/60
+
+The big-room Philips. A 520 m³/h CADR, a live AQI display with temperature and humidity, and a draw of about 36 W for rooms of up to roughly 600 sq ft. It is the strongest airflow in this guide for the price band, but it has few ratings so far and is more than most bedrooms need.
+
+### Coway Airmega 100 (AP-0823E)
+
+The smaller sibling of the AirMega 150. It delivers a 240 m³/h CADR with 3-in-1 True HEPA and carbon filtration, an 8,500-hour filter life and an ECARF allergy certification, for rooms up to 270 sq ft. It is a good fit for a bedroom or home office. It has no app, and it is too small for a large hall.
+
+### Honeywell 5-Stage Air Purifier (465 sq ft)
+
+The most reviewed purifier here, with over 31,000 ratings. It uses a pre-filter, H11 and H13 HEPA, an anti-bacterial filter and activated carbon, with a CADR of up to 300 m³/h. Its 3.9 rating is lower than rivals, so read recent reviews before buying. It suits a budget buyer who wants proven volume over smart features.
+
+### Xiaomi Air Purifier 4 Lite
+
+A 360 m³/h CADR purifier with True HEPA and carbon, a live AQI display, TÜV allergy care certification, and app and voice control. It is cheaper than the full Xiaomi Air Purifier 4, which is not listed on Amazon.in at the moment. In heavy smog, plan to replace filters earlier than the rating suggests.
 
 ## Side-by-side comparison
 
@@ -132,6 +256,11 @@ items:
 | Philips AC0950 | 250 m³/h | about 180 sq ft | about 300 sq ft | Pre, HEPA, carbon | Yes |
 | Philips AC0920 | 250 m³/h | about 180 sq ft | about 300 sq ft | Pre, HEPA | No |
 | Honeywell Air Touch V1 | 152 m³/h | about 110 sq ft | about 180 sq ft | Pre, H13 HEPA, carbon | No |
+| Philips AC3220/60 | 520 m³/h | about 370 sq ft | about 620 sq ft | Pre, HEPA, carbon | Yes |
+| Cuckoo Respure | 408 m³/h | about 290 sq ft | about 490 sq ft | Pre, H13 HEPA, carbon | No |
+| Xiaomi Air Purifier 4 Lite | 360 m³/h | about 255 sq ft | about 430 sq ft | Primary, True HEPA, carbon | Yes |
+| Honeywell 5-Stage | up to 300 m³/h | about 215 sq ft | about 360 sq ft | Pre, H11 and H13 HEPA, carbon | No |
+| Coway Airmega 100 | 240 m³/h | about 170 sq ft | about 290 sq ft | Pre, True HEPA, carbon | No |
 
 Our room sizes assume a 10 ft (3 m) ceiling, which is common in Indian homes. "Heavy smog" means five air changes per hour, and "everyday" means three. They are smaller than the figures on the boxes on purpose, and the next section explains why.
 

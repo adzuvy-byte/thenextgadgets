@@ -17,6 +17,18 @@ coverTitle: How to Free Up RAM on *Windows*
 
 How to free up RAM on Windows is one of the most searched questions in PC troubleshooting, and it also has more wrong answers floating around the internet than almost any other tech topic. RAM cleaners that promise to free gigabytes in one click, registry tweaks that supposedly unlock hidden memory, ReadyBoost USB drives — most of what you will find in the top results either does nothing useful or actively makes your PC slower. This guide skips all of that. It covers what RAM actually is, what high usage actually means, the fixes that genuinely work, and the myths worth ignoring — so you can spend five minutes solving the actual problem instead of an hour chasing placebo fixes.
 
+```product
+product: lenovo-ideapad-slim-3-ryzen-5-7520u-16gb
+badge: "Useful for this"
+note: "Listed on Amazon.in: Lenovo IdeaPad Slim 3 AMD Ryzen 5 7520U, 16GB, 512GB SSD, 15.6 inch FHD. Check the live price and exact model before buying."
+```
+
+```product
+product: hp-15-i5-1334u-16gb-512gb
+badge: "Useful for this"
+note: "Listed on Amazon.in: HP 15 Intel Core i5-1334U, 16GB DDR4, 512GB SSD, 15.6 inch FHD. Check the live price and exact model before buying."
+```
+
 ## First: Is Your RAM Actually Full, or Is Windows Just Being Windows?
 
 Before doing anything else, this single check will save most people the entire troubleshooting process.

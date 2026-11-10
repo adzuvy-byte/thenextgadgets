@@ -24,6 +24,15 @@ The variable aperture, the Dynamic Island, the C2 modem, the storage options, th
 
 That sounds like an easy call, but in practice it is not — because screen size preference is the most personal preference in smartphone buying, and getting it wrong is something you live with every single day.
 
+```product
+product: apple-iphone-18-pro-256gb
+badge: "Newest"
+note: "Apple iPhone 18 Pro in the 256 GB configuration."
+specs:
+- "Storage: 256 GB"
+- "Colour: Silver"
+```
+
 ## The Exact Differences — All Four of Them
 
 Apple's own spec sheet separates these two phones on exactly four published lines. Every other row is identical.

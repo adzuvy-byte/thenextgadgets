@@ -29,6 +29,18 @@ faq:
 
 Indian cooking produces a lot of oil and smoke, so a kitchen chimney's filters clog quickly. A clogged chimney sucks poorly, makes more noise, drips oil and puts extra strain on the motor. Regular cleaning fixes most of these problems and costs very little. This guide shows how to clean the filters, the oil collector and the body safely at home, how often to do it and when to call a professional.
 
+```product
+product: hindware-regina-bldc-90-cm-1500-cmh-chimney
+badge: "Useful for this"
+note: "Listed on Amazon.in: Hindware Smart Appliances Regina BLDC 90cm 1500 CMH Filterless Autoclean T-shape Wall Mounted Chimney. Check the live price and exact model before buying."
+```
+
+```product
+product: faber-energy-bldc-90-cm-1500-m3-hr-chimney
+badge: "Useful for this"
+note: "Listed on Amazon.in: Faber Energy 90cm 1500m\u00b3/hr BLDC Autoclean Filterless Chimney (Energy BLDC FL SC HC BK IN 90). Check the live price and exact model before buying."
+```
+
 ## How often should you clean a chimney?
 
 | Part | Typical frequency |

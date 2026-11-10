@@ -20,6 +20,18 @@ A refrigerator is one of the most essential appliances in any home. But like any
 
 In this guide, we’ll cover the **most common refrigerator problems and solutions**, along with practical troubleshooting tips you can try at home before calling a technician.
 
+```product
+product: samsung-256l-3-star-convertible-double-door-refrigerator-qvrh
+badge: "Useful for this"
+note: "Listed on Amazon.in: Samsung 256L 3 Star Convertible Double Door Refrigerator. Check the live price and exact model before buying."
+```
+
+```product
+product: godrej-223l-3-star-double-door-with-5-year-warranty-bdtr
+badge: "Useful for this"
+note: "Listed on Amazon.in: Godrej 223L 3 Star Double Door with 5-Year Warranty. Check the live price and exact model before buying."
+```
+
 ## 1. Refrigerator Not Cooling Properly
 
 **Possible Causes:**

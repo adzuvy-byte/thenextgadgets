@@ -95,58 +95,6 @@ items:
   - VIDAA has fewer apps than Google TV
   - No Dolby Vision listed in the title
   skipIf: you want the Google TV app store.
-- product: tcl-55q6c-qd
-  badge: QD-Mini LED, 144Hz, 512+ zones
-  verdict: A 55-inch QD-Mini LED with up to 512 or more dimming zones, a 144Hz refresh rate, 3GB RAM, 46W Onkyo 2.1 speakers and IMAX Enhanced certification, running Google TV. Dimming zones are what make Mini LED handle contrast better than a standard LED backlight.
-  specs:
-  - 'Size: 55 inch (139 cm)'
-  - 'Panel: 4K QD-Mini LED'
-  - 'Dimming: up to 512+ zones'
-  - 'Refresh rate: 144Hz'
-  - 'Sound: 46W Onkyo 2.1'
-  - 'Memory: 3GB RAM'
-  - 'Certification: IMAX Enhanced'
-  - 'Smart TV: Google TV'
-  pros:
-  - 144Hz refresh rate
-  - 512+ dimming zones
-  - 46W Onkyo 2.1 speakers
-  cons:
-  - Check the live price against the Samsung and LG Mini LED models
-  skipIf: you want a Samsung or LG panel.
-- product: xiaomi-x-pro-55-qled-l55mb-apin
-  badge: Dolby Vision, 120Hz, 34W
-  verdict: A 55-inch 4K QLED with Dolby Vision and HDR10+, 34W Boom Box speakers, a 120Hz game booster, Gemini AI and Google TV. It lists the most picture and gaming features of the four plain QLEDs.
-  specs:
-  - 'Size: 55 inch (139 cm)'
-  - 'Panel: 4K QLED'
-  - 'HDR: Dolby Vision, HDR10+'
-  - 'Sound: 34W speakers'
-  - 'Gaming: 120Hz game booster'
-  - 'Smart TV: Google TV with Gemini AI'
-  pros:
-  - Dolby Vision and HDR10+
-  - 120Hz game booster
-  - 34W speakers
-  cons:
-  - Check how many HDMI 2.1 ports it has
-  skipIf: you want a premium brand.
-- product: samsung-55-mini-led-ua55m2ehaulxl
-  badge: Mini LED, 7-yr OS upgrades
-  verdict: A 55-inch Samsung Mini LED 4K with Vision AI, 30W speakers, 4K upscaling, Mini-LED HDR, 150+ channels and a listed 7-year OS upgrade promise, the longest support promise in this list.
-  specs:
-  - 'Size: 55 inch (138 cm)'
-  - 'Panel: 4K Mini LED'
-  - 'Sound: 30W speakers'
-  - 'Software: 7 years of OS upgrades (listed)'
-  - 'Extras: Vision AI, 4K upscaling, Mini-LED HDR, 150+ channels'
-  pros:
-  - 7-year OS upgrade promise
-  - Mini-LED HDR
-  - Samsung service network
-  cons:
-  - 30W speakers are weaker than the TCL, Hisense or Xiaomi
-  skipIf: you want stronger built-in sound.
 ```
 
 ## Best 4K TVs from established brands
@@ -278,22 +226,6 @@ items:
   - Lesser-known brand, so check service coverage
   - The title gives few specifications
   skipIf: you want a big, established service network.
-- product: hisense-55e75q-hi-qled-vidaa
-  badge: Hi-QLED, Atmos, 48W
-  verdict: A 55-inch 4K Hi-QLED with 48W speakers, Dolby Atmos and HDR10+, running the VIDAA smart TV operating system rather than Google TV or Tizen.
-  specs:
-  - 'Size: 55 inch (139 cm)'
-  - 'Panel: 4K Hi-QLED'
-  - 'Sound: 48W speakers, Dolby Atmos'
-  - 'HDR: HDR10+'
-  - 'OS: VIDAA'
-  pros:
-  - 48W speakers with Dolby Atmos
-  - HDR10+
-  cons:
-  - VIDAA has fewer apps than Google TV
-  - No Dolby Vision listed in the title
-  skipIf: you want the Google TV app store.
 ```
 
 ## Which 4K TV should you choose?

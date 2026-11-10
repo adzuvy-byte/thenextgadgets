@@ -19,6 +19,18 @@ LG makes some of the most energy-efficient and technologically advanced air cond
 
 This guide covers every common LG air conditioner problem, what's causing it, what you can fix yourself, and what the error codes on your display actually mean.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: lg-2-ton-3-star-split-ac-5qhb
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 2 Ton 3 Star Dual Inverter Split AC (AI Convertible 6-in-1). Check the live price and exact model before buying."
+```
+
 ## Problem 1: LG Air Conditioner Not Cooling
 
 Not cooling as expected is the most common complaint from LG AC users. Before assuming a hardware fault, work through this checklist in order, since the majority of "not cooling" complaints come down to one of these fixable causes rather than a failed component.

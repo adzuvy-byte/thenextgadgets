@@ -20,6 +20,18 @@ Split air conditioners are a popular choice for cooling homes and offices due to
 
 In this article, we’ll explore various methods to conceal or beautify split AC piping, from simple DIY solutions to more advanced techniques. Whether you’re looking for a budget-friendly option or a more permanent solution, this guide has got you covered. Hide Split AC Piping
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Related pick"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## Why Hide or Decorate Split AC Piping?
 
 Before diving into the solutions, let’s understand why hiding or decorating split AC piping is important:

@@ -22,6 +22,15 @@ Whether that package justifies $1,199 — $100 more than last year — and wheth
 
 > **Price in India:** The iPhone 18 Pro launched in India at ₹1,64,900 (US price: $1,199), according to [Esquire India](https://www.esquireindia.co.in/tech-and-auto/gadgets/iphone-18-pro-price-in-india-us-uk-uae-australia-canada-164900). Dollar prices in this article are US prices for comparison. Check Apple India for current rupee prices and offers.
 
+```product
+product: apple-iphone-18-pro-256gb
+badge: "Newest"
+note: "Apple iPhone 18 Pro in the 256 GB configuration."
+specs:
+- "Storage: 256 GB"
+- "Colour: Silver"
+```
+
 ## What Actually Changed — The Honest Short Version
 
 Before the decision framework, here is a clear summary of what is genuinely new in the iPhone 18 Pro versus last year's model.

@@ -20,6 +20,26 @@ coverTitle: 70mai A810 *vs* 70mai A510 Dashcam
 
 Choosing the right dashcam can be overwhelming, especially when comparing models from the same brand. The **70mai A810** and **A510** are both popular choices, but they cater to different needs. Below, we break down their features, performance, and value to help you decide which one suits you Best.
 
+```product
+product: 70mai-a810-true-4k-hdr-dual-dash-cam
+badge: "Flagship"
+note: "True 4K front dash cam with GPS and ADAS."
+specs:
+- "Video: True 4K HDR"
+- "Sensor: Sony Starvis 2 IMX678"
+- "Extras: Built-in GPS, ADAS"
+```
+
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Best value"
+note: "3K dual-channel dash cam with front and rear recording."
+specs:
+- "Video: 3K HDR, dual channel"
+- "Sensor: Starvis 2 IMX675"
+- "Rear: Included"
+```
+
 ## Overview
 
 - **70mai A810**: A premium 4K dashcam with advanced night vision, a supercapacitor, and a wider field of view. Ideal for drivers prioritizing top-tier video quality and reliability.

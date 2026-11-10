@@ -8,7 +8,7 @@ categories:
 - air-conditioner
 author: lucilla
 date: '2024-03-24'
-updated: '2026-11-07'
+updated: '2026-11-10'
 excerpt: 'Five 2 ton 5 star inverter split ACs on Amazon.in: Carrier Flexicool Wi-Fi, Lloyd 2026, Cruise, Voltas Vectra Plush and Blue Star. Check live prices.'
 description: 'Five 2 ton 5 star inverter split ACs on Amazon.in: Carrier Flexicool Wi-Fi, Lloyd 2026, Cruise, Voltas Vectra Plush and Blue Star. Check live prices.'
 freshness: fresh
@@ -27,84 +27,87 @@ faq:
 coverTitle: The best 2 Ton 5 Star Split *AC*
 ---
 
-Few 2 ton ACs carry a 5 star label on Amazon.in right now, and many have only a handful of reviews. These five are the ones listed as 2 ton 5 star, with ratings shown so you can judge.
+Few 2 ton ACs carry a 5 star label on Amazon.in right now, and many have only a handful of reviews. These five are listed as 2 ton 5 star on 10 Nov 2026, with ratings shown so you can judge.
 
 ```best
 items:
-- product: carrier-2-ton-5-star-wi-fi-smart-flexicool-inverter-split-ac-g1fx
-  badge: Most reviewed
-  verdict: A 2 ton 5 star Wi-Fi inverter split AC with copper coil, 6-in-1 convertible modes and geo-fencing control. Rated 4.0/5 by 150 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹61,990.
+- product: carrier-2-ton-5-star-split-ac-g1fx
+  badge: "Best Wi-Fi pick"
+  verdict: "Carrier 2 Ton 5 Star Wi-Fi Smart Flexicool Inverter Split AC. 4.0\u2605 from 150 ratings on Amazon.in (10 Nov 2026). Features listed: Wi-Fi with geo-fencing, Convertible 6-in-1, Smart energy display."
   specs:
-  - 'Capacity: 2 ton'
-  - 'Energy rating: 5 star'
-  - 'Smart features: Wi-Fi'
-  - 'Modes: 6-in-1 convertible'
-  - 'Build: Copper'
+  - "Capacity: 2 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Wi-Fi"
   pros:
-  - 150 ratings
-  - Wi-Fi and geo-fencing
+  - "Wi-Fi control"
+  - "Copper condenser"
+  - "Wi-Fi with geo-fencing"
   cons:
-  - Highest price here
-- product: lloyd-2-ton-5-star-inverter-split-ac-2026-model-9c25
-  badge: Convertible
-  verdict: A 2026 model 2 ton 5 star inverter AC with 6-in-1 convertible modes, listed for room sizes up to 210 sq. ft. Rated 4.2/5 by 42 buyers on Amazon.in when we checked (2026-11-09); check the live price.
+  - "Price is higher than the basic models"
+  skipIf: "you only need basic cooling."
+- product: lloyd-2-ton-5-star-split-ac-9c25
+  badge: "Best rated with reviews"
+  verdict: "Lloyd 2 Ton 5 Star Inverter Split AC (2026 Model). 4.2\u2605 from 42 ratings on Amazon.in (10 Nov 2026). Features listed: 6-in-1 convertible, Cools up to 54\u00b0C, DG mode."
   specs:
-  - 'Capacity: 2 ton'
-  - 'Energy rating: 5 star'
-  - 'Modes: 6-in-1 convertible'
-  - 'Model year: 2026 model'
+  - "Capacity: 2 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Smart: Not listed"
+  - "Room size: up to 210 sq ft"
   pros:
-  - 4.2 rating
-  - Convertible modes
+  - "Strong 4.2\u2605 rating"
+  - "6-in-1 convertible"
   cons:
-  - Price not shown in search
-  - ' check live price'
-- product: cruise-2-ton-5-star-heavy-duty-inverter-split-ac-cwcvbj-vu5f-k848
-  badge: Lowest price
-  verdict: A heavy duty 2 ton 5 star inverter split AC with 100% copper and 4-in-1 convertible modes, cooling listed at 55 °C. Rated 3.6/5 by 84 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹47,090.
+  - "Only 42 ratings so far"
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: cruise-2-ton-5-star-split-ac-k848
+  badge: "Most reviewed heavy duty"
+  verdict: "Cruise 2 Ton 5 Star Heavy Duty Inverter Split AC (CWCVBJ-VU5F245). 3.6\u2605 from 84 ratings on Amazon.in (10 Nov 2026). Features listed: Heavy duty inverter."
   specs:
-  - 'Capacity: 2 ton'
-  - 'Energy rating: 5 star'
-  - 'Build: Copper'
-  - 'Modes: 4-in-1 convertible'
-  - 'Cooling: 55 °C cooling'
+  - "Capacity: 2 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Smart: Not listed"
   pros:
-  - Lowest 5 star price here
-  - 84 ratings
+  - "Heavy duty inverter"
   cons:
-  - 3.6 rating
-- product: voltas-2-ton-5-star-inverter-split-ac-245inv-vectra-plush-3v41
-  badge: Known brand
-  verdict: A Voltas 2 ton 5 star inverter split AC with sleep mode, auto clean and memory restart. Rated 3.8/5 by 13 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹55,980.
+  - "No Wi-Fi listed"
+  - "Average rating (3.6\u2605)"
+  skipIf: "you want app or voice control."
+- product: voltas-2-ton-5-star-split-ac-3v41
+  badge: "Voltas option"
+  verdict: "Voltas 2 Ton 5 Star Inverter Split AC (245INV Vectra Plush). 3.8\u2605 from 13 ratings on Amazon.in (10 Nov 2026). Features listed: Sleep mode, Auto clean, Memory restart."
   specs:
-  - 'Capacity: 2 ton'
-  - 'Energy rating: 5 star'
-  - 'Modes: Sleep mode'
-  - 'Feature: Auto clean'
-  - 'Feature: Memory restart'
+  - "Capacity: 2 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Smart: Not listed"
   pros:
-  - Voltas brand
+  - "Sleep mode"
   cons:
-  - Only 13 ratings
-- product: blue-star-2-ton-5-star-new-star-rated-inverter-split-ac-ywn6
-  badge: Blue Star option
-  verdict: A Blue Star 2 ton 5 star inverter split AC with copper, 4-way swing, DigiQ Hepta sensor and turbo cool. Rated 5.0/5 by 2 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹58,000.
+  - "Only 13 ratings so far"
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: blue-star-2-ton-5-star-split-ac-ywn6
+  badge: "Blue Star, new listing"
+  verdict: "Blue Star 2 Ton 5 Star Inverter Split AC (New Star Rated). 5.0\u2605 from 2 ratings on Amazon.in (10 Nov 2026). Features listed: 4-way swing, DigiQ Hepta sensor, Blue Fins, turbo cool."
   specs:
-  - 'Capacity: 2 ton'
-  - 'Energy rating: 5 star'
-  - 'Build: Copper'
-  - 'Feature: 4-way swing'
-  - 'Cooling: Turbo cool'
+  - "Capacity: 2 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
   pros:
-  - Blue Star brand
+  - "Copper condenser"
+  - "4-way swing"
   cons:
-  - Only 2 ratings so far
+  - "Only 2 ratings so far"
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
 ```
 
 ## How to choose
 
 - **Room size.** 2 ton is meant for large rooms. The Lloyd listing says up to 210 sq. ft.
-- **Reviews.** Several models here are new, so read the reviews that exist and check the installation reputation of the brand in your city.
+- **Reviews.** Several models here are new, and the Blue Star has only 2 ratings, so read the reviews that exist and check the installation reputation of the brand in your city.
 - **Wi-Fi.** The Carrier offers smart control if you want it.
 
 ## What to check

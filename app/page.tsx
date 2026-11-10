@@ -9,6 +9,7 @@ import {TYPE_LABELS, formatDate} from '@/lib/format'
 import {getHome, getAllPosts, getCategories, getProductCount, postsInCategory} from '@/lib/content'
 import {StatsBand, WinterBand, ProcessSteps, BrandMarquee, CategoryBento, HomeFaq, CtaBand} from '@/components/HomeSections'
 import {buildMetadata} from '@/lib/seo'
+import {LatestReviews} from '@/components/LatestReviews'
 
 export const metadata: Metadata = buildMetadata({
   title: 'TheNextGadgets - Gadget Reviews, Comparisons & Buying Guides India',
@@ -67,12 +68,8 @@ export default function HomePage() {
       ) : null}
 
       {data.reviews?.length ? (
-        <Section title="Latest reviews" href="/category/review/" linkLabel="All reviews">
-          <div className="grid-cards">
-            {data.reviews.map((p: any) => (
-              <PostCard key={p._id} post={p} />
-            ))}
-          </div>
+        <Section title="Latest reviews" href="/category/review/" linkLabel="All reviews" className="sec-reviews">
+          <LatestReviews posts={data.reviews} />
         </Section>
       ) : null}
 

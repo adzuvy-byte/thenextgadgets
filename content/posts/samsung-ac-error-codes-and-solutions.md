@@ -17,6 +17,12 @@ coverTitle: Samsung AC *error codes*
 
 If you own a Samsung air conditioner and are experiencing issues, you may see an error code displayed on the unit's control panel. Each error code corresponds to a specific problem, and understanding what the code means can help you troubleshoot the issue. Here are some common Samsung AC error codes and their solutions.
 
+```product
+product: samsung-1-5-ton-5-star-split-ac-j864
+badge: "Useful for this"
+note: "Listed on Amazon.in: Samsung 1.5 Ton 5 Star Bespoke AI Inverter Smart Split AC. Check the live price and exact model before buying."
+```
+
 Samsung is a well-known brand when it comes to home appliances, including air conditioners. Like any other air conditioner, Samsung AC units can encounter issues that may require troubleshooting. One way to identify these issues is through error codes displayed on the AC unit's screen. In this blog, we will discuss the most common Samsung AC error codes and their solutions.
 
 ### Most common Samsung AC error codes

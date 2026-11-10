@@ -26,6 +26,24 @@ Dashcams have become an essential accessory for modern drivers, offering peace o
 
 This guide breaks down the top STARVIS 2 contenders to help you decide which hardware belongs on your dashboard.
 
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Related pick"
+note: "Listed on Amazon.in: 70mai A510 HDR 3K Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
+```product
+product: qubo-car-dashcam-pro-3k-2026-edition-8hfx
+badge: "Related pick"
+note: "Listed on Amazon.in: Qubo Car Dashcam Pro 3K (2026 Edition). Check the live price and exact model before buying."
+```
+
+```product
+product: redtiger-f17-2026-edition-4k-3-channel-dash-cam-398k
+badge: "Related pick"
+note: "Listed on Amazon.in: REDTIGER F17 (2026 Edition) 4K 3 Channel Dash Cam. Check the live price and exact model before buying."
+```
+
 ## What is Sony Starvis 2 Technology?
 
 Before diving into the comparison, let’s understand what makes the Sony Starvis 2 sensor special. Starvis 2 is the next generation of Sony’s back-illuminated CMOS sensors, designed specifically for automotive cameras. It offers:

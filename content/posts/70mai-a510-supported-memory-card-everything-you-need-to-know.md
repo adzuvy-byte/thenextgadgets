@@ -24,6 +24,16 @@ In this guide, we explain **which memory cards are supported by the 70mai A510**
 
 [70mai A810 vs 70mai A510 Dashcam: A Detailed Comparison](/70mai-a810-vs-70mai-a510-dashcam-a-detailed-comparison/)
 
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Best value"
+note: "3K dual-channel dash cam with front and rear recording."
+specs:
+- "Video: 3K HDR, dual channel"
+- "Sensor: Starvis 2 IMX675"
+- "Rear: Included"
+```
+
 ## Which Memory Cards Are Supported by 70mai A510?
 
 According to the official 70mai A510 manual:

@@ -18,6 +18,18 @@ You're halfway through a call or a song and one earbud just goes silent. Or you 
 
 This guide goes further than that. It covers the actual reasons behind each specific symptom, and walks through fixes that work across pretty much every brand, from AirPods to Galaxy Buds to budget earbuds you picked up for thirty dollars.
 
+```product
+product: sony-wf-c510-tws
+badge: "Useful for this"
+note: "Listed on Amazon.in: Sony WF-C510 Wireless Bluetooth Earbuds (IPX4). Check the live price and exact model before buying."
+```
+
+```product
+product: oneplus-buds-4-anc
+badge: "Useful for this"
+note: "Listed on Amazon.in: OnePlus Buds 4 TWS Earbuds (55dB ANC, 45hrs). Check the live price and exact model before buying."
+```
+
 ## Why This Happens More Than It Should
 
 Bluetooth earbuds work by maintaining two separate radio connections at once: one between your phone and the case (or the primary earbud), and a second link between the two earbuds themselves. That second link is the weak point. It's lower power, shorter range, and more easily disrupted than the connection to your phone, which is exactly why it's almost always the left or right earbud that drops out rather than the whole pair disconnecting at once.

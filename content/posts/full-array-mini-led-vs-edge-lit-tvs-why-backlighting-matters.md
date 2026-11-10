@@ -21,6 +21,18 @@ If you want the best brightness, contrast, and HDR performance, knowing the diff
 
 When buying a premium 4K TV, one of the biggest factors influencing picture quality is **backlight technology**. The two most common types are **Full Array Mini LED** and **Edge-Lit LED**. While both can deliver great visuals, the difference in brightness, contrast, and uniformity can be massive. In this article, we’ll compare **Full Array Mini LED vs Edge-Lit TV**, highlight their pros and cons, and show why Full Array is the smarter choice — plus, the latest models you can buy.
 
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
+```product
+product: tcl-55q6c-qd
+badge: "Related pick"
+note: "Listed on Amazon.in: TCL 55Q6C 55 Inch QD-Mini LED 4K Google TV. Check the live price and exact model before buying."
+```
+
 ## What is Edge-Lit TV?
 
 **Edge-Lit TVs** place their LED backlights along the edges of the screen, directing light inward through a diffuser. This design is thin and cost-effective but comes with compromises:

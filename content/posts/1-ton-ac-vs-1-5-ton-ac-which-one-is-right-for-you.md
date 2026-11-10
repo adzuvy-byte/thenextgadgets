@@ -78,6 +78,18 @@ Select the [BEST 1 Ton 5 Star Split AC in India](/best-1-ton-5-star-split-ac-in-
 
 [BEST 1.5 ton 5 Star Split AC for your Room](/best-1-5-ton-5-star-split-ac-in-india/)
 
+```product
+product: daikin-1-ton-5-star-split-ac-fyvf
+badge: "Related pick"
+note: "Listed on Amazon.in: Daikin 1.0 Ton 5 Star Inverter Split AC (MTKM35XV16). Check the live price and exact model before buying."
+```
+
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
 ## Making the Decision
 
 Choosing between a 1 ton and 1.5 ton AC depends on a careful evaluation of the aforementioned factors. Here are some general guidelines to help you make the right decision:

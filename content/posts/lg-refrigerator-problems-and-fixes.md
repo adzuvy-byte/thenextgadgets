@@ -17,6 +17,12 @@ coverTitle: LG Refrigerator *Problems*
 
 LG refrigerators have a strong reputation for design, energy efficiency, and innovative features like the InstaView panel and craft ice maker. But owning one long enough usually means running into at least one of the well-documented issues that LG owners discuss repeatedly online, from compressor failures to ice makers that stop working for reasons that have nothing to do with the hardware. This guide covers every common LG refrigerator problems, what's actually causing it, and what you can do about it, including what's realistic to fix yourself and when you're better off calling a technician.
 
+```product
+product: lg-276l-2-star-smart-inverter-convertible-double-door-t5tc
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 276L 2 Star Smart Inverter Convertible Double Door. Check the live price and exact model before buying."
+```
+
 ## Problem 1: LG Refrigerator Not Cooling (Fridge Warm, Freezer Fine)
 
 This is the most common complaint for LG refrigerators, and the symptom is specific: the fridge compartment feels warm and food starts spoiling, but the freezer still seems to be working normally. This distinction matters because it points to a different cause than a complete cooling failure.

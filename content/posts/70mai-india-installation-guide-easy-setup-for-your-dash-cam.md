@@ -22,6 +22,12 @@ The **70mai dash cam** is one of the most popular smart car cameras in India, kn
 
 This guide will walk you through **step-by-step installation**, wiring tips, and setup to make your 70mai dash cam ready for Indian roads.
 
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Related pick"
+note: "Listed on Amazon.in: 70mai A510 HDR 3K Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
 ## Why Proper Installation Matters
 
 Installing your 70mai dash cam correctly ensures:

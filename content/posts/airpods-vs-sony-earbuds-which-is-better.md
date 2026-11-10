@@ -31,6 +31,18 @@ faq:
 
 Apple's AirPods Pro 3 (launched September 2025) and Sony's WF-1000XM6 (launched February 2026) are the two flagship earbuds most people compare. They look similar on paper, since both are rated for 8 hours of listening with noise cancelling on and 24 hours with the case. They are different in what they are good at. This guide uses figures from TechRadar's head-to-head review, and it does not quote Indian prices because they move often. Check the live price on Amazon.in.
 
+```product
+product: sony-wf-c510-tws
+badge: "Related pick"
+note: "Listed on Amazon.in: Sony WF-C510 Wireless Bluetooth Earbuds (IPX4). Check the live price and exact model before buying."
+```
+
+```product
+product: oneplus-buds-4-anc
+badge: "Related pick"
+note: "Listed on Amazon.in: OnePlus Buds 4 TWS Earbuds (55dB ANC, 45hrs). Check the live price and exact model before buying."
+```
+
 ## The short answer
 
 - **Choose AirPods Pro 3** if you use an iPhone and want the best noise cancelling, the easiest setup and the most features.

@@ -18,6 +18,26 @@ coverTitle: iPhone 16e *vs* iPhone 16
 
 > **Note:** This article is based on the manufacturer's published specifications and listings. We have not tested this product ourselves.
 
+```product
+product: apple-iphone-16e-128gb
+badge: "Apple"
+note: "iPhone 16e is the lower-cost A18 model."
+specs:
+- "Chip: A18"
+- "Storage: 128 GB"
+- "Feature: Apple Intelligence"
+```
+
+```product
+product: apple-iphone-16-128gb
+badge: "Apple"
+note: "iPhone 16 with the A18 chip and Camera Control."
+specs:
+- "Chip: A18"
+- "Storage: 128 GB"
+- "Feature: Camera Control"
+```
+
 The iPhone 16e unexpectedly surpasses the more expensive iPhone 16 in one crucial aspect—battery life. While the iPhone 16 comes packed with premium features, the 16e manages to outshine it in terms of endurance, making it an excellent choice for users who need a device that lasts longer on a single charge.
 
 One of the key reasons behind this improvement is the inclusion of a more power-efficient modem. Apple has introduced a new C1 modem in the iPhone 16e, designed to reduce power consumption while maintaining strong connectivity and performance. As a result, the iPhone 16e can achieve up to 26 hours of video playback, compared to the iPhone 16’s 22 hours. This translates to nearly 20% longer battery life, which can make a significant difference for those who rely heavily on their phones throughout the day.

@@ -38,6 +38,18 @@ Your dashcam writes data to the microSD card constantly — every second you're 
 
 Most errors fall into one of these categories. Work through the steps below and you'll likely solve it without spending a penny.
 
+```product
+product: sandisk-high-endurance-128gb-microsd
+badge: "Useful for this"
+note: "Listed on Amazon.in: SanDisk 128GB High Endurance Video MicroSDXC Card with Adapter. Check the live price and exact model before buying."
+```
+
+```product
+product: samsung-pro-endurance-128gb-microsd
+badge: "Useful for this"
+note: "Listed on Amazon.in: Samsung PRO Endurance 128GB MicroSDXC Memory Card with Adapter. Check the live price and exact model before buying."
+```
+
 ## Why Does My Dashcam Say Memory Card Error?
 
 Before we dive into the fixes, it’s important to understand why these errors occur. Unlike a camera that takes occasional photos, a dashcam is a high-intensity device. It constantly writes, erases, and rewrites large video files in a continuous loop (Botslab, 2025).

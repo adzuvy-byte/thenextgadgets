@@ -20,6 +20,12 @@ coverTitle: NEXDIGITRON ACE 2 *reviewed*
 
 Dashcams are increasingly becoming a must-have gadget for drivers across India, and the NEXDIGITRON ACE 2 stands out as one of the most powerful options in the market. With its advanced camera technology, versatile features, and ease of use, the ACE 2 is setting new standards in the dashcam segment. In this review, we’ll dive into everything you need to know about the NEXDIGITRON ACE 2, from its specifications and performance to why it might be a perfect addition to your car.
 
+```product
+product: nexdigitron-ace-2-car-dash-cam-bcqr
+badge: "Related pick"
+note: "Listed on Amazon.in: NEXDIGITRON ACE 2 Car Dash Cam. Check the live price and exact model before buying."
+```
+
 ## 1. Key Specifications of NEXDIGITRON ACE 2
 
 The NEXDIGITRON ACE 2 packs powerful specs to make your journeys safer and well-documented. Here’s a quick glance at its core features:

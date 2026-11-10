@@ -17,6 +17,12 @@ coverTitle: Blue Star AC *error codes*
 
 Air conditioners have become an indispensable part of our lives, especially during the hot and humid summer months. Blue Star is a leading air conditioner manufacturer in India, known for its range of high-quality products. However, even the best air conditioners can malfunction or encounter errors. In this blog, we will take a look at some of the most common [Blue Star AC error codes](/blue-star-ac-error-codes-and-solutions/) and how to troubleshoot them.
 
+```product
+product: blue-star-1-5-ton-5-star-split-ac-16ht
+badge: "Useful for this"
+note: "Listed on Amazon.in: Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). Check the live price and exact model before buying."
+```
+
 ### Common Blue Star AC Error Codes
 
 **E1 Error Code**

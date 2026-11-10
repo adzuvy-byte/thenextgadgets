@@ -18,6 +18,12 @@ coverTitle: Amazon Fire TV Stick *4K*
 
 > **Note:** This article is based on the manufacturer's published specifications and listings. We have not tested this product ourselves.
 
+```product
+product: amazon-fire-tv-stick-4k-plus
+badge: "Related pick"
+note: "Listed on Amazon.in: Amazon Fire TV Stick 4K Plus. Check the live price and exact model before buying."
+```
+
 The Amazon Fire TV Stick 4K is a compact yet powerful streaming device that transforms any compatible television into a smart entertainment hub. Designed to deliver high-quality video and audio, it provides access to a vast array of content, making it a popular choice for cord-cutters and streaming enthusiasts alike.
 
 **Key Features**

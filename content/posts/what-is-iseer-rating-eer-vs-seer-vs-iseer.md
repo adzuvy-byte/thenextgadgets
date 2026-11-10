@@ -17,6 +17,18 @@ coverTitle: What is ISEER *Rating*
 
 When it comes to choosing the right cooling appliance for your needs, understanding the different energy efficiency ratings is crucial. EER, SEER, and ISEER are terms commonly used to measure the efficiency of air conditioners. In this comprehensive comparison guide, we will explore the intricacies of each rating, their significance, and how they can help you make an eco-friendly and cost-effective choice for your cooling needs. What is ISEER Rating?
 
+```product
+product: blue-star-1-5-ton-5-star-split-ac-16ht
+badge: "Related pick"
+note: "Listed on Amazon.in: Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). Check the live price and exact model before buying."
+```
+
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
 ***Efficiency = Output / input***
 
 ### EER (Energy Efficiency Ratio)

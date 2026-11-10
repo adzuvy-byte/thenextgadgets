@@ -31,6 +31,18 @@ faq:
 
 This page used to compare the DJI Osmo Action 4 and the GoPro Hero 11. Both are older now, so we have updated it to compare their newer successors: the DJI Osmo Action 6 and the GoPro Hero 13 Black. If you are looking at an Action 4 or Hero 11 on sale, the same logic applies: newer cameras mostly add video modes, waterproofing and battery life. Figures here come from Tom's Guide's review of the Osmo Action 6, and prices are US launch prices because Indian pricing changes. Check Amazon.in for the current price.
 
+```product
+product: gopro-hero13-black
+badge: "Related pick"
+note: "Listed on Amazon.in: GoPro HERO13 Black. Check the live price and exact model before buying."
+```
+
+```product
+product: dji-osmo-action-6-standard-combo-8k-3dw5
+badge: "Related pick"
+note: "Listed on Amazon.in: DJI Osmo Action 6 Standard Combo 8K. Check the live price and exact model before buying."
+```
+
 ## The short answer
 
 The Osmo Action 6 is the better pick for most people on features, video quality and battery. The GoPro Hero 13 Black still makes sense if you want GoPro's accessory ecosystem or its anamorphic lens option.

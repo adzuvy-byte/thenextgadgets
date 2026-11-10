@@ -35,10 +35,10 @@ items:
   badge: Best reviewed
   verdict: A 15.6" FHD Windows 11 laptop with a 13th Gen Core i5-1334U, 16GB RAM and 1TB SSD. Rated 4.0/5 by 353 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹73,490.
   specs:
-  - Core i5-1334U (13th Gen)
-  - 16GB RAM
-  - 1TB SSD
-  - 15.6" FHD
+  - 'Processor: Core i5-1334U (13th Gen)'
+  - 'Memory: 16GB RAM'
+  - 'Storage: 1TB SSD'
+  - 'Display: 15.6" FHD'
   pros:
   - 353 ratings
   - 1TB storage
@@ -48,10 +48,10 @@ items:
   badge: Best rated
   verdict: A Full HD 15.6" laptop with Core i5-1335U, 16GB RAM and 512GB SSD running Windows 11 Home. Rated 4.5/5 by 37 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹66,299.
   specs:
-  - Core i5-1335U
-  - 16GB RAM
-  - 512GB SSD
-  - 15.6" FHD
+  - 'Processor: Core i5-1335U'
+  - 'Memory: 16GB RAM'
+  - 'Storage: 512GB SSD'
+  - 'Display: 15.6" FHD'
   pros:
   - 4.5 rating
   - 16GB RAM
@@ -61,9 +61,9 @@ items:
   badge: Lower price
   verdict: A thin and light Windows 11 laptop with Core i5-1334U, 16GB RAM and 512GB SSD. Rated 3.2/5 by 16 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹61,140.
   specs:
-  - Core i5-1334U (13th Gen)
-  - 16GB RAM
-  - 512GB SSD
+  - 'Processor: Core i5-1334U (13th Gen)'
+  - 'Memory: 16GB RAM'
+  - 'Storage: 512GB SSD'
   pros:
   - 16GB at a lower price
   cons:
@@ -72,10 +72,10 @@ items:
   badge: Faster chip
   verdict: A thin and light 14" laptop with Core i5-13420H, 16GB DDR5 and 512GB SSD. Rated 3.6/5 by 11 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹67,600.
   specs:
-  - Core i5-13420H
-  - 16GB DDR5
-  - 512GB SSD
-  - 14"
+  - 'Processor: Core i5-13420H'
+  - 'Memory: 16GB DDR5'
+  - 'Storage: 512GB SSD'
+  - 'Display: 14"'
   pros:
   - H-series processor
   - DDR5 RAM
@@ -85,11 +85,11 @@ items:
   badge: Newest chip
   verdict: A 15.6" FHD Windows laptop with Intel Core 5 120U, fingerprint sensor, 8GB RAM and 512GB SSD. Rated 3.4/5 by 13 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹62,990.
   specs:
-  - Core 5 120U
-  - 8GB RAM
-  - 512GB SSD
-  - Fingerprint sensor
-  - 15.6" FHD
+  - 'Processor: Core 5 120U'
+  - 'Memory: 8GB RAM'
+  - 'Storage: 512GB SSD'
+  - 'Sensor: Fingerprint sensor'
+  - 'Display: 15.6" FHD'
   pros:
   - Newer generation
   - Fingerprint sensor
@@ -99,10 +99,10 @@ items:
   badge: Business pick
   verdict: A 15.6" Windows 11 Pro laptop with Intel Core 5 120U, 8GB RAM, 512GB SSD and Iris Xe graphics. Rated 3.4/5 by 23 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹64,890.
   specs:
-  - Core 5 120U
-  - 8GB RAM
-  - 512GB SSD
-  - Windows 11 Pro
+  - 'Processor: Core 5 120U'
+  - 'Memory: 8GB RAM'
+  - 'Storage: 512GB SSD'
+  - 'OS: Windows 11 Pro'
   pros:
   - Windows 11 Pro
   - 23 ratings

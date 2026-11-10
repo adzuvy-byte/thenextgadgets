@@ -8,18 +8,19 @@ categories:
 - camera
 author: editorial-team
 date: '2024-03-24'
-updated: '2026-11-07'
+updated: '2026-11-10'
 excerpt: Compare the best DSLR Camera Under ₹40,000 in India with key specifications, pros and cons for each pick, and a buying guide.
 description: Compare the best DSLR Camera Under ₹40,000 in India with key specifications, pros and cons for each pick, and a buying guide.
-freshness: needs-update
+freshness: fresh
 seoTitle: Best DSLR Camera Under ₹40,000 in India
-freshnessNote: Some models in this article may be older or replaced. Check each product is still sold and the specifications match the current listing.
 coverTitle: DSLR *cameras* under ₹40,000
 ---
 
 > **Note on prices:** Prices and availability change often. Check the current price, offers and exact model on Amazon.in before you buy.
 
 DSLR cameras are unquestionably pricey, with the most expensive models costing close to Rs 6,00,000 ! It doesn't mean other affordable option available in the market are aren't excellent. Below in the article we will see some of the [Best DSLR camera under 40000](/Best-dslr-camera-under-40000-in-india/) in India, and you will require no other option then the ones mentioned in the list below.
+
+> **Price check (10 Nov 2026):** camera prices on Amazon.in have risen. We could not find a new DSLR under ₹40,000 on Amazon.in today; the Canon EOS 1500D is listed at about ₹44,989. The Panasonic G7 below is a mirrorless camera and is now listed at about ₹64,536.
 
 ```best
 items:
@@ -41,6 +42,30 @@ items:
   - ISO range of 200-25,600
   - 3.0-inch fully articulating touchscreen display with 1.04 million dots
   - 4K UHD video recording at up to 30fps
+- product: canon-eos-r100-24-1mp-mirrorless-camera-lqvc
+  badge: Cheapest new Canon
+  verdict: The Canon EOS R100 is Canon's entry-level mirrorless body and, at around ₹44,989 when we checked (2026-11-10), the closest new Canon to this budget. Rated 4.0/5 by 141 buyers on Amazon.in.
+  specs:
+  - 'Type: Entry-level mirrorless'
+  - 'Sensor: 24.1 MP APS-C'
+  pros:
+  - Compact and light
+  - Canon RF-S lens mount
+  cons:
+  - Fewer reviews than the 1500D
+  skipIf: you need an optical viewfinder or a large lens range today.
+- product: nikon-d7500-20-9mp-dslr-with-18-140mm-lens-tn1t
+  badge: Step-up DSLR
+  verdict: The Nikon D7500 is a true DSLR with an 18-140mm lens, listed at around ₹77,990 when we checked (2026-11-10). It is well above this budget, but it is the DSLR to look at if you can stretch. Rated 4.2/5 by 721 buyers on Amazon.in.
+  specs:
+  - 'Sensor: 20.9 MP DX'
+  - 'Kit lens: 18-140mm'
+  pros:
+  - Many reviews
+  - Proper enthusiast DSLR
+  cons:
+  - Well above ₹40,000
+  skipIf: you want to stay near ₹40,000.
 ```
 
 ## Conclusion

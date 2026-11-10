@@ -21,6 +21,18 @@ Here's Why (Works for Any Brand)
 
 The good news is that this happens for a small, predictable set of reasons across pretty much every brand of true wireless earbuds, not just Apple's. Once you know what's actually going on, most cases are fixable in a few minutes.
 
+```product
+product: sony-wf-c510-tws
+badge: "Useful for this"
+note: "Listed on Amazon.in: Sony WF-C510 Wireless Bluetooth Earbuds (IPX4). Check the live price and exact model before buying."
+```
+
+```product
+product: oneplus-buds-4-anc
+badge: "Useful for this"
+note: "Listed on Amazon.in: OnePlus Buds 4 TWS Earbuds (55dB ANC, 45hrs). Check the live price and exact model before buying."
+```
+
 ## Why Earbuds Cases Lose Charge Even When You're Not Using Them
 
 The core thing to understand is that your earbuds case isn't just a dumb plastic box holding a battery. It's a small charging hub with its own internal circuitry, and depending on the model, it's also doing several things in the background that quietly consume power even while it's sitting closed on your desk.

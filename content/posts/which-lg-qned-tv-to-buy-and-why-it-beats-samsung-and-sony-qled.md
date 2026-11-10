@@ -20,6 +20,18 @@ coverTitle: Which LG *QNED*?
 
 When it comes to premium TVs, LG QNED TV lineup is a standout choice that combines Quantum Dot and NanoCell technologies with mini-LED backlighting. These TVs deliver stunning picture quality, vivid colors, and deep contrast, making them an attractive option for cinephiles and gamers alike. But with strong competition from Samsung’s QLED and Sony’s QLED offerings, why should you opt for LG QNED? Let’s dive into the details to help you make an informed decision. Here's a guide to help you pick the perfect LG QNED TV and understand why it stands out.
 
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
+```product
+product: lg-55qned65bla-qned-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED Mini LED 4K Smart webOS TV 55QNED65BLA. Check the live price and exact model before buying."
+```
+
 ## What Makes LG QNED TVs Special?
 
 LG’s QNED technology takes advantage of:

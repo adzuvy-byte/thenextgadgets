@@ -18,6 +18,12 @@ coverTitle: Xiaomi purifier *problems*
 
 Xiaomi Air Purifiers are popular for their affordability, smart controls, and efficient filtration. But like any appliance, they may develop issues over time. This guide lists the **most common Xiaomi Air Purifier problems**, the **exact causes**, and **step-by-step solutions** so consumers can easily fix them at home.
 
+```product
+product: xiaomi-air-purifier-4-lite-5y4h
+badge: "Useful for this"
+note: "Listed on Amazon.in: Xiaomi Air Purifier 4 Lite. Check the live price and exact model before buying."
+```
+
 ## 1. Xiaomi Air Purifier Not Turning On
 
 ### Possible Causes

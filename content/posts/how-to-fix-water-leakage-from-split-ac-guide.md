@@ -29,6 +29,18 @@ faq:
 
 Some water from a split AC is normal. It is condensation, and it should flow out through the drain pipe. If water drips from the indoor unit, runs down the wall or collects on the floor, something is blocking or disturbing that path. The good news is that the cause is often simple and fixable. This guide covers the most common causes, what you can check safely yourself and when to call a technician.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Useful for this"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## Why does a split AC leak water?
 
 | Cause | What you will notice |

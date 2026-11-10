@@ -17,6 +17,12 @@ coverTitle: LG AC *error codes*
 
 LG is a well-known brand when it comes to home appliances, including air conditioners. Like any other air conditioner, LG AC units can encounter issues that may require troubleshooting. One way to identify these issues is through error codes displayed on the AC unit's screen. In this blog, we will discuss the most common [LG AC error codes](/lg-ac-error-code-list-and-solutions/) and their solutions.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
 ## Error Codes
 
 ### CH 01: Indoor Unit Return Air Sensor Error

@@ -20,6 +20,18 @@ coverTitle: Home theatre *vs* soundbar
 
 When it comes to improving the audio quality of your entertainment system, there are several options available in the market, including home theatres, soundbars, and smart speakers. Each of these devices comes with its own set of features and benefits, and choosing the right one can depend on your specific needs and preferences. In this article, we'll compare these t[hree options and help you determine](/home-theatre-vs-soundbar-vs-smart-speakers-which-is-the-Best/) which one is the Best for you.
 
+```product
+product: lg-s55t-3-1-soundbar-wireless-subwoofer
+badge: "Related pick"
+note: "Listed on Amazon.in: LG S55T 3.1 ch Soundbar with Wireless Subwoofer. Check the live price and exact model before buying."
+```
+
+```product
+product: jbl-bar-500-mk2-soundbar
+badge: "Related pick"
+note: "Listed on Amazon.in: JBL Bar 500 MK2 Soundbar. Check the live price and exact model before buying."
+```
+
 ## Home Theatre
 
 A home theatre system is designed to deliver an immersive audio experience that mimics a movie theatre experience. It usually includes multiple speakers, a subwoofer, and a receiver that can be connected to various audio and video devices. Home theatres are ideal for people who want a complete audio and visual experience and have enough space in their room to accommodate multiple speakers. They can be costly, but they deliver exceptional sound quality that can't be matched by other options.

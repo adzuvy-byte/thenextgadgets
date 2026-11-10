@@ -17,6 +17,12 @@ coverTitle: Whirlpool fridge *error codes*
 
 Modern Whirlpool refrigerators are equipped with advanced diagnostic systems that display error codes to help users and technicians quickly identify potential issues. If your Whirlpool refrigerator is showing an error code, it means the appliance has detected something wrong with its internal systems. Here's a breakdown of common **Whirlpool refrigerator error codes** and their **solutions**.
 
+```product
+product: whirlpool-192l-3-star-vitamagic-pro-frost-free-direct-cool-93c1
+badge: "Useful for this"
+note: "Listed on Amazon.in: Whirlpool 192L 3 Star Vitamagic PRO Frost Free Direct-Cool. Check the live price and exact model before buying."
+```
+
 Whirlpool refrigerators are renowned for their reliability and advanced features, but like all appliances, they may experience issues from time to time. Understanding the error codes that may appear on your Whirlpool refrigerator's display can help you identify the problem and find the appropriate solution quickly. In this article, we will provide an in-depth troubleshooting guide for various Whirlpool refrigerator error codes and offer solutions to resolve them. Whether you're facing cooling problems, ice maker malfunctions, or any other error, we've got you covered.
 
 ### Error Codes and Solutions

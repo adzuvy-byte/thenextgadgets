@@ -8,7 +8,7 @@ categories:
 - air-purifier
 author: lucilla
 date: '2026-09-06'
-updated: '2026-11-07'
+updated: '2026-11-09'
 excerpt: Top air purifier for home in India compared — Coway, Xiaomi, Philips, Honeywell, Dyson and more. Real CADR specs, filter costs and which one to buy.
 description: Compare the top 6 air purifiers for Indian homes by CADR, room size, filter cost and running cost, with a buying guide for polluted cities and bedrooms.
 freshness: fresh
@@ -145,6 +145,79 @@ At ₹7,999 to ₹9,999, it delivers 300 m³/h CADR — comparable to the Coway 
 **What to know before buying:** In heavily polluted North Indian winters, the filter needs replacement every 6 months — annual cost ₹5,000. In moderately polluted cities, 10 to 12 months per filter brings annual cost to ₹2,500 to ₹3,000. Not for rooms above 320 sq ft in real Indian conditions.
 
 **Verdict:** Best budget smart air purifier in India. Made-in-India with the cheapest filters in this comparison. Ideal first air purifier for small bedrooms in moderately polluted cities.
+
+## Buy These Air Purifiers on Amazon.in
+
+Current Amazon.in listings for the purifiers above, with ratings checked on 2026-11-09. Prices change often, and a few current models differ slightly from the names used in this guide, as noted below. The Dyson Purifier Cool Gen1 is not listed on Amazon.in at the moment, so it has no buy box here.
+
+```best
+items:
+- product: coway-airmega-150-ap-1019c
+  badge: Best overall
+  verdict: 'Our top pick above: Green True HEPA with urethane carbon and an 8,500-hour filter life. Rated 4.7/5 by 6,816 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹14,999.'
+  specs:
+  - 'Safety: Covers 355 sq ft'
+  - 'Cleaning: Green True HEPA + carbon'
+  - 'Power: 8,500 hr filter life'
+  pros:
+  - Long filter life
+  - Strong brand support
+  cons:
+  - Pricier up front
+  - No Wi-Fi
+- product: xiaomi-air-purifier-4-lite-5y4h
+  badge: Best smart budget pick
+  verdict: The closest current Xiaomi model on Amazon.in to the Smart Air Purifier 4 discussed above; 360 m³/h CADR with app and voice control. Rated 4.2/5 by 1,007 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹10,990.
+  specs:
+  - 'CADR: 360 m³/h'
+  - 'Coverage: 640 sq ft'
+  - 'Control: App and voice'
+  pros:
+  - App control
+  - Low filter cost
+  cons:
+  - Lite model, not the full Air Purifier 4
+  - Filters wear faster in polluted cities
+- product: philips-ac3220-60-smart-air-purifier-1ry1
+  badge: Best for large rooms
+  verdict: 520 m³/h CADR with real-time AQI display, for living rooms up to about 600 sq ft. Rated 4.4/5 by 134 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹21,500.
+  specs:
+  - 'CADR: 520 m³/h'
+  - 'Coverage: 600 sq ft'
+  - 'Display: Real-time AQI'
+  pros:
+  - Highest CADR in this guide
+  - Quiet operation
+  cons:
+  - Costly
+  - Few reviews so far
+- product: honeywell-4-stage-h13-hepa-air-purifier-589-sq-ft-wifi-9h74
+  badge: Best for polluted cities
+  verdict: Honeywell model with H13 HEPA, app and voice control and up to 9,000 hours of filter life. The listing does not use the "Air Touch V5" name used in the guide. Rated 3.8/5 by 616 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹11,499.
+  specs:
+  - 'Coverage: 589 sq ft'
+  - 'Filter: H13 HEPA'
+  - 'Filter life: Up to 9,000 hrs'
+  pros:
+  - Long filter life
+  - Wi-Fi and voice control
+  cons:
+  - Lower rating than rivals
+  - Name differs from V5
+- product: qubo-q500-smart-air-purifier-tsvc
+  badge: Best budget smart purifier
+  verdict: Made-in-India purifier by Hero Group with True HEPA H13, now listed at 380 m³/h CADR and up to 500 sq ft. Rated 3.9/5 by 532 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹11,990.
+  specs:
+  - 'CADR: 380 m³/h'
+  - 'Coverage: 500 sq ft'
+  - 'Filter: True HEPA H13'
+  pros:
+  - Made in India
+  - App control
+  cons:
+  - Rating is only 3.9
+  - Price has risen above ₹10,000
+```
 
 ## Complete Comparison Table
 

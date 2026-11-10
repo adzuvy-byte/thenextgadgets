@@ -7,7 +7,7 @@ export function JumpNav({title, items}: {title: string; items: NavItem[]}) {
       <div className="label">{title}</div>
       <ol>
         {items.map((i) => (
-          <li key={i.id}>
+          <li key={i.id} className={i.sub ? 'jn-sub' : undefined}>
             <a href={`#${i.id}`}>{i.text}</a>
           </li>
         ))}

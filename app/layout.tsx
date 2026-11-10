@@ -1,5 +1,5 @@
 import type {Metadata, Viewport} from 'next'
-import {Inter, Newsreader} from 'next/font/google'
+import {Inter, Fraunces} from 'next/font/google'
 import Script from 'next/script'
 import './globals.css'
 import {Footer} from '@/components/Footer'
@@ -9,7 +9,7 @@ import {siteUrl} from '@/lib/seo'
 import {integrations as I} from '@/integrations'
 
 const sans = Inter({subsets: ['latin'], variable: '--font-sans', display: 'swap'})
-const serif = Newsreader({subsets: ['latin'], variable: '--font-serif', display: 'swap', weight: ['500', '700'], style: ['normal', 'italic']})
+const serif = Fraunces({subsets: ['latin'], variable: '--font-serif', display: 'swap', style: ['normal', 'italic'], axes: ['opsz', 'SOFT']})
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

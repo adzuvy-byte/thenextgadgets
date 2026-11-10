@@ -17,6 +17,18 @@ coverTitle: OLED *vs* QLED
 
 OLED and QLED are two of the most popular TV technologies on the market today. They offer different advantages and disadvantages, so it's important to understand the differences between them before making a purchase.
 
+```product
+product: tcl-55q6c-qd
+badge: "Related pick"
+note: "Listed on Amazon.in: TCL 55Q6C 55 Inch QD-Mini LED 4K Google TV. Check the live price and exact model before buying."
+```
+
+```product
+product: lg-55qned82bla-qned-evo-mini-led
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 55 Inch QNED evo Mini LED 4K Smart webOS TV 55QNED82BLA. Check the live price and exact model before buying."
+```
+
 ### What Is QLED?
 
 QLED stands for "quantum dot light-emitting diode." It is a type of LED TV that uses quantum dots to improve the color and brightness of the picture. Quantum dots are tiny semiconductor particles that emit different colors of light depending on their size. In a QLED TV, the quantum dots are sandwiched between a blue LED backlight and an LCD panel. The blue light from the LED backlight is absorbed by the quantum dots, which then emit red and green light. This results in a wider color gamut and more vibrant colors than a traditional LED TV.

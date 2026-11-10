@@ -8,12 +8,11 @@ categories:
 - camera
 author: editorial-team
 date: '2024-03-24'
-updated: '2026-11-07'
+updated: '2026-11-10'
 excerpt: Compare the best Mirrorless Camera Under ₹50,000 in India with key specifications, pros and cons for each pick, and a buying guide.
 description: Compare the best Mirrorless Camera Under ₹50,000 in India with key specifications, pros and cons for each pick, and a buying guide.
-freshness: needs-update
+freshness: fresh
 seoTitle: Best Mirrorless Camera Under ₹50,000 in India
-freshnessNote: Some models in this article may be older or replaced. Check each product is still sold and the specifications match the current listing.
 coverTitle: Mirrorless *Camera* Under ₹50,000
 ---
 
@@ -23,26 +22,10 @@ In the realm of photography, mirrorless cameras have revolutionized the way we c
 
 **Here are the Best Mirrorless Camera under 50000 in India**
 
+> **Price check (10 Nov 2026):** camera prices on Amazon.in have risen. Only the Canon EOS R100 (about ₹44,989) is clearly under ₹50,000 today. The Nikon Z30 is about ₹53,990, the Panasonic G7 about ₹64,536. We list the nearest options so you can compare.
+
 ```best
 items:
-- product: nikon-z30-mirrorless-camera
-  pros:
-  - 20.9MP DX-format CMOS sensor
-  - EXPEED 6 image processor
-  - UHD 4K video recording at up to 30 fps
-  - 51-point hybrid autofocus system
-- product: sony-alpha-zv-e10-24-2-mega-pixel-interchangeable-lens-mirro
-  pros:
-  - 24.2 megapixel APS-C CMOS sensor
-  - 425 phase-detection points, 425 contrast-detection points
-  - 4K UHD video at 30fps, Full HD video at 120fps
-  - 'Image processor: BIONZ X'
-- product: panasonic-lumix-g7-16-00-mp-4k-mirrorless-camera
-  pros:
-  - 4K UHD video at 30fps, Full HD video at 60fps
-  - 16.0 megapixel Micro Four Thirds sensor
-  - 49-point contrast detect AF with 225 area AF
-  - 3.0-inch tilting touchscreen LCD with 1.04 million dots
 - product: nikon-z30-mirrorless-camera
   verdict: The Nikon Z30 is a compact and lightweight mirrorless camera designed for vloggers and content creators. It features a 20.9MP DX-format CMOS sensor, EXPEED 6 image processor, and UHD 4K video recording at up to 30 fps. It also has a 3.0-inch 1.04m-dot vari-angle touchscreen LCD, 11fps continuous shooting, and 51-point hybrid autofocus system. The Nikon Z30 is a great choice for anyone looking for a versatile and easy-to-use camera that can shoot high-quality video and stills. The Nikon Z30 uses the EXPEED 6 image processor. This processor is powerful and helps to ensure fast and accurate autofocus, as well as smooth and noise-free image quality. The EXPEED 6 image processor also helps to improve the camera's performance in low-light conditions. The Nikon Z30 can record stunning 4K video at up to 30 fps. It also supports Full HD video recording at up to 120 fps, which is great for slow-motion footage. The camera's autofocus system also works well when recording video, so you can be sure that your subjects will be sharp and in focus. The Nikon Z30 has built-in Wi-Fi and Bluetooth connectivity. This allows you to easily transfer photos and videos to your computer or mobile device. You can also use the Wi-Fi connection to remotely control the camera from your mobile device. Overall, the Nikon Z30 is a great camera for vloggers and content creators who are looking for a compact and lightweight camera that can shoot high-quality video and stills. It is also a good choice for anyone who wants a versatile and easy-to-use camera. **Specifications:**
   pros:
@@ -70,6 +53,55 @@ items:
   - 'Video: 4K UHD video at 30fps, Full HD video at 60fps'
   - 'Continuous shooting: 8fps'
   - 'Viewfinder: 0.39-inch OLED electronic viewfinder with 2.36 million dots'
+- product: canon-eos-r100-24-1mp-mirrorless-camera-lqvc
+  badge: Closest to budget
+  verdict: The Canon EOS R100 was listed at around ₹44,989 when we checked (2026-11-10), the only new mirrorless body we found under ₹50,000. Rated 4.0/5 by 141 buyers on Amazon.in.
+  specs:
+  - 'Sensor: 24.1 MP APS-C'
+  - 'Type: Entry-level mirrorless'
+  pros:
+  - Under ₹50,000
+  - Small and light
+  cons:
+  - Entry-level feature set
+  skipIf: you want advanced autofocus or video features.
+- product: sony-alpha-a6100-body
+  badge: Fast autofocus
+  verdict: The Sony Alpha ILCE-6100 is an APS-C mirrorless body (no lens) listed at around ₹53,990 when we checked (2026-11-10). Rated 4.4/5 by 49 buyers on Amazon.in.
+  specs:
+  - 'Sensor: APS-C'
+  - 'Sold: body only'
+  pros:
+  - Strong rating
+  - Sony E-mount
+  cons:
+  - Over ₹50,000
+  - Lens sold separately
+  skipIf: you want a lens included.
+- product: canon-eos-r50-rf-s18-45mm-mirrorless-camera-drn6
+  badge: Best step-up
+  verdict: The Canon EOS R50 with the RF-S 18-45mm lens was listed at around ₹64,989 when we checked (2026-11-10). Rated 4.5/5 by 327 buyers on Amazon.in.
+  specs:
+  - 'Lens: RF-S 18-45mm'
+  - 'Sensor: APS-C'
+  pros:
+  - Highest rating here
+  - Lens included
+  cons:
+  - Well above ₹50,000
+  skipIf: you must stay under ₹50,000.
+- product: sony-alpha-zv-e10k-vlog-camera-fty8
+  badge: Vlogging kit
+  verdict: The Sony ZV-E10 kit was listed at around ₹61,490 when we checked (2026-11-10). Rated 4.4/5 by 96 buyers on Amazon.in.
+  specs:
+  - 'Sensor: APS-C'
+  - 'Use: Vlogging'
+  pros:
+  - Vlogging focus
+  - Kit lens included
+  cons:
+  - Above ₹50,000
+  skipIf: you mainly shoot stills.
 ```
 
 ## Buying Guide

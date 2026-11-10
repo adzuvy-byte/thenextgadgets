@@ -20,6 +20,18 @@ In most Indian households, fans account for 20 to 35% of the total electricity b
 
 This article gives you the actual numbers — not rounded estimates or vague promises — so you can make a genuinely informed decision about whether to buy a BLDC fan, switch your existing fans, or stick with a good normal fan.
 
+```product
+product: atomberg-renesa-halo-1200mm-bldc-ceiling-fan
+badge: "Related pick"
+note: "Listed on Amazon.in: Atomberg Renesa Halo Smart 1200mm BLDC Ceiling Fan (BEE 5 Star). Check the live price and exact model before buying."
+```
+
+```product
+product: atomberg-renesa-elite-1200mm-bldc-ceiling-fan
+badge: "Related pick"
+note: "Listed on Amazon.in: Atomberg Renesa Elite Smart 1200mm BLDC Ceiling Fan (BEE 5 Star). Check the live price and exact model before buying."
+```
+
 ## What Is a BLDC Fan and How Is It Different
 
 A normal ceiling fan uses an induction motor — the same basic motor technology that has been used in ceiling fans for over 80 years. An induction motor works by passing alternating current through copper windings to create a rotating magnetic field that spins the motor. It is simple, proven, and inexpensive to manufacture. It also wastes a meaningful amount of energy as heat because the motor is not perfectly efficient at converting electrical energy into rotational energy.

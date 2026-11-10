@@ -20,6 +20,25 @@ coverTitle: Philips AC1711 *vs* AC1715
 
 philips AC1711/63 vs AC1715/60
 
+```product
+product: philips-ac1711-air-purifier
+badge: "Philips"
+note: "Covers rooms up to about 380 sq ft (36 m\u00b2)."
+specs:
+- "Coverage: 380 sq ft (36 m\u00b2)"
+- "Filtration: HEPA, 99.97% of pollen and dust"
+```
+
+```product
+product: philips-ac1715-smart-air-purifier
+badge: "Philips smart"
+note: "Smart model for rooms up to 36 m\u00b2."
+specs:
+- "Coverage: 36 m\u00b2"
+- "Filtration: HEPA, 99.97% of pollen and dust"
+- "Control: Smart app"
+```
+
 ## Similarities (what they share)
 
 - **Filtration & performance**: Both use a 3-layer filtration system (pre-filter + active carbon + NanoProtect HEPA) and claim to remove 99.97% of particles down to 0.003 microns.

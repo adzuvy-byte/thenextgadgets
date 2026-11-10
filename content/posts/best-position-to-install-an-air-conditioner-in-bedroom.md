@@ -18,6 +18,18 @@ coverTitle: Where to install an *AC*
 
 Installing an air conditioner (AC) in the right position is crucial for optimal cooling, energy efficiency, and comfort. The placement of your AC unit can significantly impact its performance, noise levels, and even your electricity bills. In this guide, we’ll discuss the best position to install an air conditioner in your bedroom, along with key factors to consider for maximum efficiency and comfort.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Related pick"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## Key Factors to Consider Before Installing an AC in the Bedroom
 
 1. **Airflow Distribution**: The AC should be installed in a position that allows even distribution of cool air throughout the room. Avoid placing the unit directly above the bed, as it can cause discomfort due to direct airflow.

@@ -19,6 +19,18 @@ You go back to check dashcam footage, maybe after a near-miss, a parking lot scr
 
 This guide actually breaks down the real causes behind choppy dashcam footage, in the order you should check them, so you can fix the actual problem instead of guessing.
 
+```product
+product: sandisk-high-endurance-128gb-microsd
+badge: "Useful for this"
+note: "Listed on Amazon.in: SanDisk 128GB High Endurance Video MicroSDXC Card with Adapter. Check the live price and exact model before buying."
+```
+
+```product
+product: samsung-pro-endurance-128gb-microsd
+badge: "Useful for this"
+note: "Listed on Amazon.in: Samsung PRO Endurance 128GB MicroSDXC Memory Card with Adapter. Check the live price and exact model before buying."
+```
+
 ## First, Figure Out Where the Choppiness Is Actually Happening
 
 Before doing anything else, this single check saves the most time: does the footage look choppy on the dashcam's own screen while it's recording, or only when you play the file back afterward on a phone, computer, or the manufacturer's app?

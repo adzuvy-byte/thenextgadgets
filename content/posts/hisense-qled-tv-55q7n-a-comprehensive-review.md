@@ -21,6 +21,12 @@ coverTitle: Hisense QLED TV 55Q7N *reviewed*
 
 > **Note:** This article is based on the manufacturer's published specifications and listings. We have not tested this product ourselves.
 
+```product
+product: hisense-qled-tv-55q7n
+badge: "Related pick"
+note: "Listed on Amazon.in: Hisense QLED TV 55Q7N. Check the live price and exact model before buying."
+```
+
 **Introduction** The Hisense 55Q7N is a 55-inch QLED TV that combines affordability with premium features, targeting viewers seeking vibrant visuals and smart functionality without breaking the bank. As part of Hisense’s QLED lineup, the 55Q7N leverages Quantum Dot technology to deliver enhanced color and brightness, positioning itself as a strong contender in the mid-range market. This review explores its design, performance, and value proposition.
 
 **Key Specifications**

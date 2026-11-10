@@ -31,6 +31,12 @@ faq:
 
 The DJI Osmo Pocket 4 is a pocket-sized gimbal camera built for vloggers and travel creators. It keeps the compact shape that made the Pocket 3 popular and adds better dynamic range and low-light performance, plus a larger battery. This page uses specs and verdicts from Digital Camera World's review and Tech Stories India's launch coverage. Indian prices change, so check live pricing on Amazon.in before you buy.
 
+```product
+product: dji-osmo-pocket-4-standard-combo
+badge: "Related pick"
+note: "Listed on Amazon.in: DJI Osmo Pocket 4 Standard Combo. Check the live price and exact model before buying."
+```
+
 ## Key specs
 
 - **Sensor:** 1-inch CMOS.

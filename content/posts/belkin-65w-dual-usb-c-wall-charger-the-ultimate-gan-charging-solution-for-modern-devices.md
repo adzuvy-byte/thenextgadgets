@@ -20,6 +20,16 @@ coverTitle: Belkin 65W Dual USB-C Wall *Charger*
 
 In today’s fast-paced world, staying connected is more important than ever. Whether you're working from home, traveling, or simply going about your daily routine, having a reliable and efficient charger for your devices is crucial. Enter the **Belkin 65W Dual USB-C Wall Charger**—a compact, powerful, and versatile charging solution designed to meet the needs of modern tech users. In this blog, we’ll explore the features, benefits, and why this charger might just be the perfect addition to your tech arsenal.
 
+```product
+product: belkin-65w-dual-usb-c-gan-charger
+badge: "GaN charger"
+note: "Belkin 65W (45W + 20W) dual USB-C GaN charger."
+specs:
+- "Output: 65W total (45W + 20W)"
+- "Ports: 2x USB-C"
+- "Tech: GaN, PD fast charging"
+```
+
 ## Why Choose the Belkin 65W Dual USB-C Wall Charger?
 
 ### 1. Powerful and Fast Charging

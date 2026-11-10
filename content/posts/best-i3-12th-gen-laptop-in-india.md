@@ -35,9 +35,9 @@ items:
   badge: Most reviewed
   verdict: A Windows laptop with Intel Core 3 100U, 16GB DDR4 and 512GB SSD. Rated 4.0/5 by 1,145 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹58,590.
   specs:
-  - Core 3 100U (14th Gen)
-  - 16GB DDR4
-  - 512GB SSD
+  - 'Processor: Core 3 100U (14th Gen)'
+  - 'Memory: 16GB DDR4'
+  - 'Storage: 512GB SSD'
   pros:
   - 1,100+ ratings
   - 16GB RAM
@@ -47,10 +47,10 @@ items:
   badge: Lower price
   verdict: A 15.6" FHD Windows 11 laptop with Core i3-1305U, 8GB RAM and 512GB SSD. Rated 4.0/5 by 602 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹46,990.
   specs:
-  - Core i3-1305U (13th Gen)
-  - 8GB RAM
-  - 512GB SSD
-  - 15.6" FHD
+  - 'Processor: Core i3-1305U (13th Gen)'
+  - 'Memory: 8GB RAM'
+  - 'Storage: 512GB SSD'
+  - 'Display: 15.6" FHD'
   pros:
   - 602 ratings
   - Lowest price among reviewed models
@@ -60,10 +60,10 @@ items:
   badge: Newest chip
   verdict: A 15.6" laptop with Core 3 100U, Office 2024 plus M365 Basic, 8GB RAM and 256GB SSD. Rated 4.1/5 by 19 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹45,990.
   specs:
-  - Core 3 100U (14th Gen)
-  - 8GB RAM
-  - 256GB SSD
-  - Office 2024
+  - 'Processor: Core 3 100U (14th Gen)'
+  - 'Memory: 8GB RAM'
+  - 'Storage: 256GB SSD'
+  - 'Software: Office 2024'
   pros:
   - Includes Office 2024
   - 4.1 rating
@@ -74,10 +74,10 @@ items:
   badge: Lenovo pick
   verdict: A 15.6" FHD Windows 11 laptop with Core i3-1315U, 8GB RAM and 512GB SSD. Rated 4.2/5 by 17 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹53,490.
   specs:
-  - Core i3-1315U (13th Gen)
-  - 8GB RAM
-  - 512GB SSD
-  - 15.6" FHD
+  - 'Processor: Core i3-1315U (13th Gen)'
+  - 'Memory: 8GB RAM'
+  - 'Storage: 512GB SSD'
+  - 'Display: 15.6" FHD'
   pros:
   - 4.2 rating
   - Lenovo brand
@@ -87,10 +87,10 @@ items:
   badge: ASUS pick
   verdict: A 15.6" FHD Windows 11 laptop with Core 3 100U, 8GB RAM and 512GB SSD with M365. Rated 3.9/5 by 55 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹52,990.
   specs:
-  - Core 3 100U
-  - 8GB RAM
-  - 512GB SSD
-  - 15.6" FHD
+  - 'Processor: Core 3 100U'
+  - 'Memory: 8GB RAM'
+  - 'Storage: 512GB SSD'
+  - 'Display: 15.6" FHD'
   pros:
   - 55 ratings
   - ASUS brand
@@ -100,10 +100,10 @@ items:
   badge: HP pick
   verdict: A 15.6" FHD anti-glare Windows 11 laptop with Core i3-1315U, 8GB DDR4 and 512GB SSD. Rated 3.8/5 by 12 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹53,570.
   specs:
-  - Core i3-1315U (13th Gen)
-  - 8GB DDR4
-  - 512GB SSD
-  - Anti-glare FHD
+  - 'Processor: Core i3-1315U (13th Gen)'
+  - 'Memory: 8GB DDR4'
+  - 'Storage: 512GB SSD'
+  - 'Resolution: Anti-glare FHD'
   pros:
   - HP brand
   - Anti-glare screen

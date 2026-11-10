@@ -22,6 +22,18 @@ This is one of the most common AC problems homeowners face, especially during ex
 
 In this guide, we’ll break down the real reasons why a Daikin split AC compressor turns off after a few minutes, how to fix it, and what you can do to prevent the problem in the future.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Useful for this"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## Why Does a Daikin Split AC Compressor Shut Off After a Few Minutes?
 
 Your AC compressor is the heart of the cooling system. When it stops working, the AC may still look “ON,” but actual cooling stops immediately.

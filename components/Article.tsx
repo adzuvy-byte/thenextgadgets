@@ -2,7 +2,7 @@ import {integrations} from '@/integrations'
 import Link from 'next/link'
 import type {SiteSettings} from '@/lib/settings'
 import {TYPE_LABELS, formatDate} from '@/lib/format'
-import {continueFor, headingsNav, picksNav, readingMinutes, relatedFor} from '@/lib/content'
+import {articleNav, continueFor, readingMinutes, relatedFor} from '@/lib/content'
 import {absUrl} from '@/lib/seo'
 import {AdSlot} from './AdSlot'
 import {Breadcrumbs} from './Breadcrumbs'
@@ -13,10 +13,11 @@ import {toneFor} from './Cover'
 import {PostCard} from './PostCard'
 import {ReadingProgress} from './ReadingProgress'
 import {VerdictBox} from './VerdictBox'
+import {ArticleProducts} from './ArticleProducts'
 
 export function Article({post, settings}: {post: any; settings: SiteSettings}) {
   const isBest = post.postType === 'best'
-  const jump = isBest ? picksNav(post.body) : headingsNav(post.body)
+  const jump = articleNav(post.body, post.title)
   const firstBest = (post.body ?? []).find((b: any) => b._type === 'bestTenList')
   const topPicks: any[] = isBest ? (firstBest?.items ?? []).slice(0, 3) : []
   const url = absUrl(`/${post.slug}/`)
@@ -79,7 +80,7 @@ export function Article({post, settings}: {post: any; settings: SiteSettings}) {
               {TYPE_LABELS[post.postType]}
               {post.primaryCategory ? ` · ${post.primaryCategory.title}` : ''}
             </div>
-            <h1>{post.title}</h1>
+            <h1 id="top">{post.title}</h1>
             {post.excerpt ? <p className="dek">{post.excerpt}</p> : null}
             <div className="byline">
               {post.author ? (
@@ -127,6 +128,8 @@ export function Article({post, settings}: {post: any; settings: SiteSettings}) {
 
           <AdSlot slot={integrations.adSlots.end} />
 
+          <ArticleProducts post={post} settings={settings} />
+
           {post.faq?.length ? (
             <section className="afaq" aria-label="Frequently asked questions">
               <div className="afaq-head">
@@ -161,7 +164,7 @@ export function Article({post, settings}: {post: any; settings: SiteSettings}) {
 
         <aside className="article-aside">
           <div className="aside-sticky">
-          <JumpNav title={isBest ? 'Jump to a pick' : 'On this page'} items={jump} />
+          <JumpNav title="On this page" items={jump} />
           <AdSlot slot={integrations.adSlots.sidebar} />
           {more.length ? (
             <section aria-label="More in this category">

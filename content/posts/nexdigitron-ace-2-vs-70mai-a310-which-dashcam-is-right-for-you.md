@@ -20,6 +20,16 @@ coverTitle: NEXDIGITRON ACE 2 *vs* 70mai A310
 
 When it comes to protecting your car with reliable footage, two prominent options in the Indian market are the NEXDIGITRON ACE 2 and 70mai A310 dashcams. Each offers unique features designed to enhance your driving experience and security. In this article, we’ll compare these two dashcams on essential factors like video quality, ease of use, and value for money to help you make an informed choice.
 
+```product
+product: nexdigitron-ace-2-car-dash-cam-bcqr
+badge: "Budget"
+note: "Native 2K dash cam with built-in screen."
+specs:
+- "Video: Native 2K 1440P"
+- "Extras: Built-in GPS logger"
+- "Display: Screen included"
+```
+
 ## 1. Video Quality
 
 - **NEXDIGITRON ACE 2**: The ACE 2 features a Full HD 1080p camera with Sony’s STARVIS sensor technology, which delivers excellent low-light performance. This sensor is ideal for capturing clear images even in poor lighting conditions, making it a great choice for night driving.

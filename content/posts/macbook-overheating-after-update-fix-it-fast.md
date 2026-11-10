@@ -19,6 +19,12 @@ If your MacBook is overheating or getting unusually hot, especially after a rece
 
 In this guide, you’ll learn why your MacBook is overheating and how to fix MacBook heating problems quickly.
 
+```product
+product: apple-macbook-air-2026-m5
+badge: "Useful for this"
+note: "Listed on Amazon.in: Apple MacBook Air 2026 (M5). Check the live price and exact model before buying."
+```
+
 ## Why Is My MacBook Overheating?
 
 There are several common reasons behind MacBook overheating and heating issues:

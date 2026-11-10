@@ -40,6 +40,18 @@ Qubo is a rapidly growing brand in the Indian air-purifier market. Their devices
 - **Qubo HPH03 Room Air PurifierCoverage:** ~500 sq ft. **Filter Type:** True HEPA H13 + Activated Carbon. **Power:** 45 W. **Noise:** ~55 dB. **Filter Lifespan:** 15,000 hours for some models (as per newer Qubo models) or 9,000 hours for older ones. **Best For:** Larger rooms, people looking for a steady purifier with good coverage and durable filter life.
 - **Qubo HPH02 Room Air PurifierCoverage:** Massive (some specs list very high, but likely marketing error or big hall coverage) — check carefully. **Filter:** True HEPA H13. **Control Options:** App + voice + remote (depending on variant). **Best For:** Very large or open spaces if the spec is trustworthy; or check local Qubo offerings for availability.
 
+```product
+product: qubo-q600-smart-air-purifier
+badge: "Related pick"
+note: "Listed on Amazon.in: Qubo Q600 Smart Air Purifier. Check the live price and exact model before buying."
+```
+
+```product
+product: qubo-q500-smart-air-purifier-tsvc
+badge: "Related pick"
+note: "Listed on Amazon.in: Qubo Q500 Smart Air Purifier. Check the live price and exact model before buying."
+```
+
 ## Filter Cost & Replacement Details
 
 - **Qubo Q400 / Q500:** Replacement 4-layer filter units (HEPA + carbon) cost around **₹2,290** for the HEPA H13 + carbon combo. Qubo Q400 Filter

@@ -19,6 +19,18 @@ Daikin air conditioner problems are less common than most competing brands, whic
 
 This guide covers every common Daikin air conditioner problem across split systems, multi-split systems, and ducted units, what's causing it, what you can fix yourself, and the complete Daikin error code reference so you know exactly what your unit is trying to tell you.
 
+```product
+product: daikin-1-5-ton-3-star-split-ac-s6zd
+badge: "Useful for this"
+note: "Listed on Amazon.in: Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50U). Check the live price and exact model before buying."
+```
+
+```product
+product: daikin-1-ton-5-star-split-ac-fyvf
+badge: "Useful for this"
+note: "Listed on Amazon.in: Daikin 1.0 Ton 5 Star Inverter Split AC (MTKM35XV16). Check the live price and exact model before buying."
+```
+
 ## Problem 1: Daikin Air Conditioner Not Cooling
 
 No cooling is the most frequent complaint with Daikin air conditioner units. Before assuming a refrigerant or compressor issue, work through these causes in order since the vast majority of "not cooling" complaints resolve with one of the first three steps.

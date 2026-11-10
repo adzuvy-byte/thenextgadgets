@@ -29,6 +29,12 @@ If you’re planning to buy a new **4K smart TV**, the **TCL Q6C Premium QD-Mini
 
 With this, TCL is clearly positioning the **Q6C Mini LED TV** as a budget-friendly challenger to high-end models from LG, Samsung, and Sony. Let’s dive deeper into why the TCL 55Q6C may be one of the **best premium mid-range TVs in India**.
 
+```product
+product: tcl-55q6c-qd
+badge: "Related pick"
+note: "Listed on Amazon.in: TCL 55Q6C 55 Inch QD-Mini LED 4K Google TV. Check the live price and exact model before buying."
+```
+
 ## Key Features & Technical Highlights
 
 ### Display & Picture Quality

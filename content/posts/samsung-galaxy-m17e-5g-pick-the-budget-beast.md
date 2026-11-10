@@ -20,6 +20,15 @@ coverTitle: Samsung Galaxy M17e *5G*
 
 If you’re searching for a smartphone that balances performance, battery life, and future-ready features, the **Samsung Galaxy M17e** stands out as one of the most exciting launches in the budget segment. Designed for modern users who demand smooth performance, long battery life, and AI-powered experiences, the Samsung Galaxy M17e is more than just another affordable 5G phone—it’s a complete package.
 
+```product
+product: samsung-galaxy-m17e-5g-6gb-128gb
+badge: "Budget"
+note: "Samsung Galaxy M17e 5G, 6GB RAM and 128GB storage."
+specs:
+- "RAM: 6 GB"
+- "Storage: 128 GB"
+```
+
 ## Samsung Galaxy M17e 5G Overview
 
 ### Samsung Galaxy M17e 5G

@@ -24,6 +24,32 @@ coverTitle: Qubo *vs* Coway *vs* Philips
 - **Coway**: A Korean brand known for premium build quality, highly efficient HEPA systems, and proven performance. Their purifiers often have long filter life and quiet operation.
 - **Philips**: A global electronics leader. Their air purifiers focus on scientific filtration, strong CADR, and reliable sensors, with well-tested performance and long filter warranties.
 
+```product
+product: qubo-q600-smart-air-purifier
+badge: "Smart"
+note: "Qubo Q600 smart air purifier."
+specs:
+- "Type: Smart air purifier"
+```
+
+```product
+product: coway-airmega-150-ap-1019c
+badge: "Coway"
+note: "Coway Airmega 150."
+specs:
+- "Type: Air purifier"
+```
+
+```product
+product: philips-ac1715-smart-air-purifier
+badge: "Philips smart"
+note: "Smart model for rooms up to 36 m\u00b2."
+specs:
+- "Coverage: 36 m\u00b2"
+- "Filtration: HEPA, 99.97% of pollen and dust"
+- "Control: Smart app"
+```
+
 ## 2. Model Comparison — Representative Units from Each Brand
 
 Here are a few flagship or representative models for each brand:

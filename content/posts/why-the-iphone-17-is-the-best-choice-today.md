@@ -20,6 +20,16 @@ coverTitle: The case for *iPhone 17*
 
 When Apple launches a new iPhone, people expect incremental upgrades — maybe a slightly faster chip, better camera — but the iPhone 17 brings together a number of meaningful upgrades that make it not just “the next model” but a compelling upgrade for many users. Below are the key features, how it stacks up vs iPhone 16 / 16 Pro, and what trade-offs to be aware of.
 
+```product
+product: apple-iphone-17-256gb
+badge: "Apple"
+note: "iPhone 17 with a 6.3-inch ProMotion display."
+specs:
+- "Display: 6.3-inch with ProMotion"
+- "Chip: A19"
+- "Storage: 256 GB"
+```
+
 ## Top Features of iPhone 17
 
 Here are the standout features of iPhone 17that make it a very strong option:

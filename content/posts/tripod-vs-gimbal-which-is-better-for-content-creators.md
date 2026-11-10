@@ -29,6 +29,18 @@ faq:
 
 A tripod and a gimbal solve two different problems. A tripod holds the camera still. A gimbal keeps the camera smooth while you move. Most creators end up needing both, but if you can buy only one first, the right choice depends on what you shoot. This guide explains when each tool is the better pick, what to look for, and how to avoid the common mistakes.
 
+```product
+product: digitek-dtr-550-lw-67-inch-tripod-with-360-ball-head-d7ms
+badge: "Related pick"
+note: "Listed on Amazon.in: Digitek DTR-550 LW 67-inch Tripod with 360\u00b0 Ball Head. Check the live price and exact model before buying."
+```
+
+```product
+product: dji-osmo-pocket-4-standard-combo
+badge: "Related pick"
+note: "Listed on Amazon.in: DJI Osmo Pocket 4 Standard Combo. Check the live price and exact model before buying."
+```
+
 ## The short answer
 
 - **Buy a tripod first** if you shoot talking-head videos, product videos, interviews, timelapses, long exposures or anything where the camera does not move.

@@ -20,6 +20,18 @@ As temperatures soar across India, your air conditioner (AC) becomes your best f
 
 With just a few smart changes and habits, you can **significantly reduce your AC bill this summer** — without compromising on cooling. Let’s dive into these **expert-backed, practical tips** that will keep your home chill and your wallet happy.
 
+```product
+product: blue-star-1-5-ton-5-star-split-ac-16ht
+badge: "Related pick"
+note: "Listed on Amazon.in: Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). Check the live price and exact model before buying."
+```
+
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Related pick"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
 ## 1. Set the Right Temperature (Not the Lowest!)
 
 **Most people think setting the AC to 16°C cools the room faster — it doesn’t.** It just makes your AC work harder, using more electricity.

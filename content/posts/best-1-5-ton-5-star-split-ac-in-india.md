@@ -8,13 +8,13 @@ categories:
 - air-conditioner
 author: lucilla
 date: '2024-03-24'
-updated: '2026-11-03'
+updated: '2026-11-10'
 excerpt: Six 1.5 ton 5 star inverter split ACs compared on cooling capacity, ISEER, noise and energy use, plus what the 2026 BEE rating change means before you buy.
 description: Six 1.5 ton 5 star inverter split ACs compared on cooling capacity, ISEER, noise and energy use, plus what the 2026 BEE rating change means before you buy.
 freshness: fresh
 faq:
 - q: 'How big a room does a 1.5 ton AC cover?'
-  a: 'Roughly 150 to 180 sq ft, depending on sun exposure, floor level, insulation and how many people use the room. The LG above lists up to 150 sq ft.'
+  a: 'Roughly 150 to 180 sq ft, depending on sun exposure, floor level, insulation and how many people use the room. The LG above lists up to 180 sq ft.'
 - q: 'Is a 5-star AC bought before 2026 still 5-star?'
   a: 'Not under the revised BEE norms. Reports say a 5-star AC rated in 2025 would count as 4-star under the revised system. Check the label year on the listing.'
 - q: 'What is ISEER?'
@@ -22,15 +22,15 @@ faq:
 - q: 'Is an inverter AC worth it?'
   a: 'For daily use, usually yes. An inverter compressor adjusts its output to the room temperature instead of switching on and off, which cuts power use and noise.'
 - q: 'Copper or aluminium condenser coil?'
-  a: 'Copper conducts heat better and is generally easier to repair. Aluminium is cheaper. The Voltas and Lloyd above list copper condensers.'
+  a: 'Copper conducts heat better and is generally easier to repair. Aluminium is cheaper. Most models above list copper condensers.'
 - q: 'How often should I service my AC?'
   a: 'Clean the filters every few weeks in heavy-use months and get a full service at least once a year before summer.'
 - q: 'Do I need a stabilizer?'
-  a: 'It depends on the model and your local voltage. LG lists stabilizer-free operation and Samsung lists protection against surges. Check the manual for the supported voltage range.'
+  a: 'It depends on the model and your local voltage. Check the manual for the supported voltage range on the model you pick.'
 coverTitle: The best 1.5 Ton 5 Star Split *AC*
 ---
 
-A 1.5 ton split AC is the usual choice for a bedroom or small living room in India, and a 5 star label promises lower power bills. Below are six popular inverter models with their specs as listed, who each one suits, and who should skip it.
+A 1.5 ton split AC is the usual choice for a bedroom or small living room in India, and a 5 star label promises lower power bills. Below are six current 1.5 ton 5 star inverter models, verified on Amazon.in, with their listed features, who each one suits, and who should skip it.
 
 ## Check this first: the 2026 BEE rating change
 
@@ -40,116 +40,104 @@ India's Bureau of Energy Efficiency revised its AC star ratings from 1 January 2
 
 ```best
 items:
-- product: lg-1-5-ton-5-star-inverter-split-ac
-  badge: 'Best for smart features'
-  verdict: 'A Wi-Fi enabled 1.5 ton split with a dual inverter compressor, voice control through Alexa and Google Assistant, and 4-in-1 convertible cooling. It also detects low refrigerant and runs without a stabilizer.'
+- product: lg-1-5-ton-5-star-split-ac-d2dt
+  badge: "Most popular smart pick"
+  verdict: "LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). 4.0\u2605 from 925 ratings on Amazon.in (10 Nov 2026). Features listed: AI Convertible 6-in-1, VIRAAT mode, 4-way swing, HD filter."
   specs:
-  - 'Capacity: 1.5 ton'
-  - 'Energy rating: 5 star (as listed)'
-  - 'Annual energy: 835.50 kWh'
-  - 'Cooling capacity: 5000 W'
-  - 'Room size: up to 150 sq ft'
-  - 'Smart: Wi-Fi, voice control'
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
+  - "Room size: up to 180 sq ft"
   pros:
-  - 'Wi-Fi and voice control built in'
-  - 'Low refrigerant detection and stabilizer-free operation'
+  - "Large rating base (925 ratings)"
+  - "Copper condenser"
+  - "AI Convertible 6-in-1"
   cons:
-  - 'Smart features need the app and a home Wi-Fi network'
-  skipIf: 'you only want basic cooling. You would be paying for features you will not use.'
-- product: daikin-1-5-ton-5-star-inverter-split-ac
-  badge: 'Highest ISEER, quietest listed'
-  verdict: 'A 1.5 ton inverter split with the highest ISEER on this list (4.7) and the lowest listed indoor noise (32 dB). Power Chill cools the room quickly and Econo mode trims power use.'
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: samsung-1-5-ton-5-star-split-ac-j864
+  badge: "Best Wi-Fi and voice control"
+  verdict: "Samsung 1.5 Ton 5 Star Bespoke AI Inverter Smart Split AC. 4.3\u2605 from 111 ratings on Amazon.in (10 Nov 2026). Features listed: Wi-Fi and voice control, Digital inverter, 4-way swing."
   specs:
-  - 'Capacity: 1.5 ton'
-  - 'Energy rating: 5 star (as listed)'
-  - 'ISEER: 4.7'
-  - 'Annual energy: 767.88 kWh'
-  - 'Cooling capacity: 5280 W'
-  - 'Indoor noise: 32 dB'
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Wi-Fi"
   pros:
-  - 'Highest ISEER and lowest annual energy figure here'
-  - 'Quietest indoor unit listed (32 dB)'
+  - "Strong 4.3\u2605 rating"
+  - "Wi-Fi control"
+  - "Copper condenser"
   cons:
-  - 'No smart or Wi-Fi features are listed here'
-  skipIf: 'you want app or voice control.'
-- product: voltas-1-5-ton-5-star-inverter-split-ac
-  badge: 'Built for extreme heat'
-  verdict: 'A 1.5 ton inverter split with a High Ambient Cooling mode rated to work at up to 52°C outdoors. It uses R32 refrigerant and a copper condenser coil.'
+  - "Price is higher than the basic models"
+  skipIf: "you only need basic cooling."
+- product: blue-star-1-5-ton-5-star-split-ac-16ht
+  badge: "Highest rating"
+  verdict: "Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). 4.4\u2605 from 44 ratings on Amazon.in (10 Nov 2026). Features listed: 4-way swing, DigiQ Hepta sensor, Blue Fins, turbo cool, self clean."
   specs:
-  - 'Capacity: 1.5 ton'
-  - 'Energy rating: 5 star (as listed)'
-  - 'ISEER: 4.51'
-  - 'Annual energy: 892.32 units'
-  - 'Refrigerant: R32'
-  - 'Condenser coil: Copper'
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
   pros:
-  - 'High Ambient Cooling for very hot climates'
-  - 'Copper condenser coil'
+  - "Strong 4.4\u2605 rating"
+  - "Copper condenser"
+  - "4-way swing"
   cons:
-  - 'Lowest ISEER (4.51) and highest annual energy figure on this list'
-  skipIf: 'running cost is your top priority. Daikin and LG list lower annual energy figures.'
-- product: lloyd-1-5-ton-5-star-inverter-split-ac
-  badge: 'Balanced all-rounder'
-  verdict: 'A 1.5 ton inverter split with a copper condenser, turbo mode and four-way swing for even cooling. ISEER of 4.6 and 5100 W cooling capacity put it in the middle of this list.'
+  - "Only 44 ratings so far"
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: carrier-1-5-ton-5-star-split-ac-3bsk
+  badge: "Best energy display"
+  verdict: "Carrier 1.5 Ton 5 Star Flexicool Inverter Split AC (CAI18EE5R36F0). 4.1\u2605 from 312 ratings on Amazon.in (10 Nov 2026). Features listed: Convertible 6-in-1, Smart energy display, Insta Cool, auto clean, PM 2.5 filter."
   specs:
-  - 'Capacity: 1.5 ton'
-  - 'Energy rating: 5 star (as listed)'
-  - 'ISEER: 4.6'
-  - 'Annual energy: 857.32 units'
-  - 'Cooling capacity: 5100 W'
-  - 'Indoor noise: 43 dB'
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
   pros:
-  - 'Turbo mode and four-way swing'
-  - 'Copper condenser'
+  - "Large rating base (312 ratings)"
+  - "Copper condenser"
+  - "Convertible 6-in-1"
   cons:
-  - '43 dB is louder than the Daikin at 32 dB'
-  skipIf: 'the AC is for a bedroom and you are sensitive to noise.'
-- product: blue-star-1-5-ton-5-star-inverter-split-ac
-  badge: 'Convertible cooling'
-  verdict: 'A 1.5 ton inverter split with convertible cooling, iFeel temperature sensing and a self-diagnosis system. Cooling capacity is 5275 W, among the highest listed here.'
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: hitachi-1-5-ton-5-star-split-ac-6cv2
+  badge: "Best Hitachi pick"
+  verdict: "Hitachi Smart Choice 1.5 Ton 5 Star Inverter Split AC (RAS.V518PCDIBM1). 3.9\u2605 from 126 ratings on Amazon.in (10 Nov 2026). Features listed: Wi-Fi, 4-way swing, Hybrid convertible, Ice Clean cooling."
   specs:
-  - 'Capacity: 1.5 ton'
-  - 'Energy rating: 5 star (as listed)'
-  - 'Cooling capacity: 5275 W'
-  - 'Power input: 1440 W'
-  - 'Annual energy: 858.33 kWh'
-  - 'Modes: Cool, Dry, Fan, Auto, Sleep'
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Wi-Fi"
   pros:
-  - 'High cooling capacity (5275 W)'
-  - 'iFeel sensing and self-diagnosis'
+  - "Wi-Fi control"
+  - "Copper condenser"
+  - "Wi-Fi"
   cons:
-  - 'ISEER and noise figures are not listed here, so check them before buying'
-  skipIf: 'you want published ISEER and noise numbers to compare.'
-- product: samsung-1-5-ton-5-star-inverter-split-ac
-  badge: 'Voltage protection'
-  verdict: 'A 1.5 ton Digital Inverter 8-Pole split with Triple Protector Plus against voltage fluctuations and surges, plus a Good Sleep mode that adjusts temperature and noise overnight.'
+  - "Price is higher than the basic models"
+  skipIf: "you only need basic cooling."
+- product: voltas-1-5-ton-5-star-split-ac-n3hz
+  badge: "Best value"
+  verdict: "Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). 3.8\u2605 from 1,128 ratings on Amazon.in (10 Nov 2026). Features listed: 4-in-1 adjustable mode, Sleep mode, Anti-dust filter with anti-microbial coating."
   specs:
-  - 'Capacity: 1.5 ton'
-  - 'Energy rating: 5 star (as listed)'
-  - 'Annual energy: 835.50 kWh'
-  - 'Cooling capacity: 5100 W'
-  - 'Power input: 1380 W'
-  - 'Indoor noise: 43 dB'
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
   pros:
-  - 'Triple Protector Plus guards against power surges'
-  - 'Lowest power input listed (1380 W)'
+  - "Large rating base (1,128 ratings)"
+  - "Copper condenser"
+  - "4-in-1 adjustable mode"
   cons:
-  - '43 dB is louder than the Daikin at 32 dB'
-  skipIf: 'your home has stable power and you want the quietest unit.'
+  - "No Wi-Fi listed"
+  - "Average rating (3.8\u2605)"
+  skipIf: "you want app or voice control."
 ```
 
-## Specs side by side
+## How we checked
 
-Figures are as listed on each product page. A dash means no figure was listed. Models and prices change, so check the current listing.
-
-| Model | Cooling capacity | ISEER | Annual energy | Indoor noise |
-|---|---|---|---|---|
-| LG | 5000 W | - | 835.50 kWh | - |
-| Daikin | 5280 W | 4.7 | 767.88 kWh | 32 dB |
-| Voltas | - | 4.51 | 892.32 units | - |
-| Lloyd | 5100 W | 4.6 | 857.32 units | 43 dB |
-| Blue Star | 5275 W | - | 858.33 kWh | - |
-| Samsung | 5100 W | - | 835.50 kWh | 43 dB |
+Every AC below was checked against its live Amazon.in listing on 10 Nov 2026. Ratings and review counts change, so check the current listing before you buy. We list only features that appear in the listing title, so figures such as ISEER and annual energy are not repeated here. Read them off the energy label in the listing.
 
 ## How to choose a 1.5 ton AC
 
@@ -157,7 +145,7 @@ Figures are as listed on each product page. A dash means no figure was listed. M
 - **ISEER and star label:** Higher ISEER means lower running cost. Note the label year given the 2026 change.
 - **Inverter compressor:** It varies output to the room temperature, saving power and noise.
 - **Noise:** Check the indoor unit decibel figure for bedrooms.
-- **Condenser coil and refrigerant:** Copper coils and R32 refrigerant are common on the models above.
+- **Condenser coil and refrigerant:** Copper condenser coils are listed on most models above.
 - **Warranty and service:** Check compressor warranty terms and service coverage in your city, and plan an annual service.
 
 Also Read [BEST Instant Geysers in India](/best-instant-geysers-in-india/)

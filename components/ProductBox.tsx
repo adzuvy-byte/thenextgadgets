@@ -1,5 +1,6 @@
 import type {SiteSettings} from '@/lib/settings'
 import {BuyButton} from './BuyButton'
+import {amazonImg} from '@/lib/img'
 
 export function ProductBox({block, settings}: {block: any; settings: SiteSettings}) {
   const p = block.product
@@ -9,7 +10,7 @@ export function ProductBox({block, settings}: {block: any; settings: SiteSetting
     <aside className={`productbox${p.image ? ' has-media' : ''}${block.specList?.length ? ' has-specs' : ''}`} aria-label={`Product: ${p.name}`}>
       {p.image ? (
         <div className="productbox-media">
-          <img src={p.image} alt={p.imageAlt || p.name} loading="lazy" decoding="async" />
+          <img src={amazonImg(p.image, 300)} alt={p.imageAlt || p.name} width={150} height={150} loading="lazy" decoding="async" />
         </div>
       ) : null}
       <div className="productbox-body">

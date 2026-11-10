@@ -35,9 +35,9 @@ items:
   badge: Best overall
   verdict: A 1080P HDR dashcam with a STARVIS 2 IMX662 sensor and F1.8 aperture. Rated 4.3/5 by 1,434 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹4,399.
   specs:
-  - 1080P HDR
-  - STARVIS 2 IMX662
-  - F1.8
+  - 'Resolution: 1080P HDR'
+  - 'Sensor: STARVIS 2 IMX662'
+  - 'Aperture: F1.8'
   pros:
   - 4.3 rating
   - STARVIS 2 sensor
@@ -47,9 +47,9 @@ items:
   badge: 2K and rotating lens
   verdict: A 2K QHD dashcam with a 360° rotating lens and super night vision, listed as made in India. Rated 4.3/5 by 1,434 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,499.
   specs:
-  - 2K 1440P
-  - 360° rotating lens
-  - Night vision
+  - 'Resolution: 2K 1440P'
+  - 'Lens: 360° rotating lens'
+  - 'Night vision: Night vision'
   pros:
   - Cheaper than the M200
   - 2K
@@ -59,9 +59,9 @@ items:
   badge: Built-in GPS
   verdict: A dashcam with native 2K 1440P recording, a display screen and a built-in GPS logger. Rated 4.2/5 by 1,990 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,699.
   specs:
-  - 2K 1440P
-  - Display screen
-  - GPS logger
+  - 'Resolution: 2K 1440P'
+  - 'Display: Display screen'
+  - 'GPS: GPS logger'
   pros:
   - GPS logger
   - 1,990 ratings
@@ -71,9 +71,9 @@ items:
   badge: Cheapest known brand
   verdict: A 2K dashcam that doubles as an in-cabin camera, with NightPulse vision. Rated 3.9/5 by 6,296 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,290.
   specs:
-  - 2K
-  - In-cabin use
-  - NightPulse vision
+  - 'Resolution: 2K'
+  - 'Cameras: In-cabin use'
+  - 'Night vision: NightPulse vision'
   pros:
   - Low price
   - Indian brand
@@ -83,10 +83,10 @@ items:
   badge: 4K for the price
   verdict: A 4K front dashcam with built-in Wi-Fi, night view, WDR and loop recording. Rated 4.1/5 by 2,843 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,999.
   specs:
-  - 4K
-  - Wi-Fi
-  - WDR
-  - Loop recording
+  - 'Resolution: 4K'
+  - 'Connectivity: Wi-Fi'
+  - 'Image quality: WDR'
+  - 'Recording: Loop recording'
   pros:
   - 2,800+ ratings
   - 4K
@@ -96,10 +96,10 @@ items:
   badge: Budget pick
   verdict: A 2K dashcam with a 3MP camera, emergency lock, Wi-Fi and app control. Rated 4.3/5 by 1,073 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,386.
   specs:
-  - 2K
-  - 3MP
-  - Wi-Fi
-  - Emergency lock
+  - 'Resolution: 2K'
+  - 'Sensor: 3MP'
+  - 'Connectivity: Wi-Fi'
+  - 'Recording: Emergency lock'
   pros:
   - Lowest price here
   - 4.3 rating
@@ -109,9 +109,9 @@ items:
   badge: With screen
   verdict: A 2K QHD front dashcam with a screen, F1.8 aperture and night vision. Rated 4.0/5 by 510 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,599.
   specs:
-  - 2K QHD
-  - F1.8
-  - Screen
+  - 'Resolution: 2K QHD'
+  - 'Aperture: F1.8'
+  - 'Display: Screen'
   pros:
   - Screen for quick checks
   cons:
@@ -120,9 +120,9 @@ items:
   badge: Indian brand GPS
   verdict: A 2K 3MP front dashcam with built-in GPS and a 137° wide view. Rated 3.8/5 by 96 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹2,999.
   specs:
-  - 2K 3MP
-  - GPS
-  - 137° view
+  - 'Resolution: 2K 3MP'
+  - 'GPS: GPS'
+  - 'Lens: 137° view'
   pros:
   - GPS at this price
   cons:

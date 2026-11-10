@@ -18,6 +18,12 @@ coverTitle: Voltas AC *error codes*
 
 If you are experiencing issues with your Voltas air conditioner, you may see an error code displayed on the unit's control panel. Each error code corresponds to a specific problem, and understanding what the code means can help you troubleshoot the issue. Here are some common Voltas AC error codes and their solutions .
 
+```product
+product: voltas-1-5-ton-5-star-split-ac-n3hz
+badge: "Useful for this"
+note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). Check the live price and exact model before buying."
+```
+
 ## Commer Voltas AC Error Codes
 
 1. E1 - This error code indicates a communication problem between the indoor and outdoor units. This can be caused by loose or damaged wiring connections. The solution is to check the wiring connections and ensure they are properly connected. If the wiring is damaged, it should be repaired or replaced.

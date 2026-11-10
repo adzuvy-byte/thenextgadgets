@@ -19,6 +19,18 @@ Samsung refrigerator problems tend to be predictable and well documented. That i
 
 This guide covers every common Samsung refrigerator problem, what's actually causing it, what you can fix yourself today, and when the situation genuinely needs a professional.
 
+```product
+product: samsung-256l-3-star-convertible-double-door-refrigerator-qvrh
+badge: "Useful for this"
+note: "Listed on Amazon.in: Samsung 256L 3 Star Convertible Double Door Refrigerator. Check the live price and exact model before buying."
+```
+
+```product
+product: samsung-236l-3-star-convertible-double-door-refrigerator-g8lt
+badge: "Useful for this"
+note: "Listed on Amazon.in: Samsung 236L 3 Star Convertible Double Door Refrigerator. Check the live price and exact model before buying."
+```
+
 ## Problem 1: Samsung Refrigerator Not Cooling
 
 The most widespread issue involves Samsung refrigerators displaying the set temperature on the panel while the actual internal temperature rises well above it, sometimes 20 degrees higher than what the display shows. This means your fridge might say 37°F while food inside is already at 55°F, which is the food safety danger zone.

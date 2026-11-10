@@ -8,12 +8,11 @@ categories:
 - air-conditioner
 author: lucilla
 date: '2023-05-29'
-updated: '2026-11-07'
+updated: '2026-11-10'
 excerpt: Compare the best Low Power Consumption AC in India with key specifications, pros and cons for each pick, and a buying guide.
 description: Compare the best Low Power Consumption AC in India with key specifications, pros and cons for each pick, and a buying guide.
-freshness: needs-update
+freshness: fresh
 seoTitle: Best Low Power Consumption AC in India (5 Star Air
-freshnessNote: Some models in this article may be older or replaced. Check each product is still sold and the specifications match the current listing.
 coverTitle: The best Low Power Consumption *AC*
 ---
 
@@ -27,100 +26,102 @@ In India, 5-star rated air conditioners are considered the most energy-efficient
 
 ```best
 items:
-- product: lg-1-5-ton-5-star-ai-dual-inverter-split-ac
+- product: lg-1-5-ton-5-star-split-ac-d2dt
+  badge: "Most popular 5 star"
+  verdict: "LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). 4.0\u2605 from 925 ratings on Amazon.in (10 Nov 2026). Features listed: AI Convertible 6-in-1, VIRAAT mode, 4-way swing, HD filter."
+  specs:
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
+  - "Room size: up to 180 sq ft"
   pros:
-  - Copper, Super Convertible 6-in-1 Cooling
-  - 5 Star - Best in class efficiency
-  - HD Filter with Anti-Virus Protection
-- product: godrej-1-5-ton-5-star-split-ac
+  - "Large rating base (925 ratings)"
+  - "Copper condenser"
+  - "AI Convertible 6-in-1"
+  cons:
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: blue-star-1-5-ton-5-star-split-ac-16ht
+  badge: "Highest rating"
+  verdict: "Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU). 4.4\u2605 from 44 ratings on Amazon.in (10 Nov 2026). Features listed: 4-way swing, DigiQ Hepta sensor, Blue Fins, turbo cool, self clean."
+  specs:
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
   pros:
-  - Copper, Heavy Duty Cooling At 52°C
-  - Anti-dust Filter
-  - 100% copper condenser, Evaporator coils & Connecting tube
-- product: whirlpool-1-5-ton-5-star-inverter-split-ac
+  - "Strong 4.4\u2605 rating"
+  - "Copper condenser"
+  - "4-way swing"
+  cons:
+  - "Only 44 ratings so far"
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: samsung-1-5-ton-5-star-split-ac-j864
+  badge: "Best smart 5 star"
+  verdict: "Samsung 1.5 Ton 5 Star Bespoke AI Inverter Smart Split AC. 4.3\u2605 from 111 ratings on Amazon.in (10 Nov 2026). Features listed: Wi-Fi and voice control, Digital inverter, 4-way swing."
+  specs:
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Wi-Fi"
   pros:
-  - Gas Leak Indicator Prevents AC from running at low gas
-  - Copper, Convertible 4-in-1 Cooling Mode
-  - Turbo Cool, Self clean, Hidden Display
-- product: daikin-1-5-ton-5-star-inverter-split-ac
+  - "Strong 4.3\u2605 rating"
+  - "Wi-Fi control"
+  - "Copper condenser"
+  cons:
+  - "Price is higher than the basic models"
+  skipIf: "you only need basic cooling."
+- product: carrier-1-5-ton-5-star-split-ac-3bsk
+  badge: "Energy display"
+  verdict: "Carrier 1.5 Ton 5 Star Flexicool Inverter Split AC (CAI18EE5R36F0). 4.1\u2605 from 312 ratings on Amazon.in (10 Nov 2026). Features listed: Convertible 6-in-1, Smart energy display, Insta Cool, auto clean, PM 2.5 filter."
+  specs:
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
   pros:
-  - '5 Star: Best in class efficiency'
-  - 'Cooling Capacity @ 43°C: 100%'
-  - Fast Cooling, High Ambient Operation upto 54°C
-- product: samsung-1-5-ton-5-star-inverter-split-ac
+  - "Large rating base (312 ratings)"
+  - "Copper condenser"
+  - "Convertible 6-in-1"
+  cons:
+  - "No Wi-Fi listed"
+  skipIf: "you want app or voice control."
+- product: hitachi-1-5-ton-5-star-split-ac-6cv2
+  badge: "Hitachi 5 star"
+  verdict: "Hitachi Smart Choice 1.5 Ton 5 Star Inverter Split AC (RAS.V518PCDIBM1). 3.9\u2605 from 126 ratings on Amazon.in (10 Nov 2026). Features listed: Wi-Fi, 4-way swing, Hybrid convertible, Ice Clean cooling."
+  specs:
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Wi-Fi"
   pros:
-  - Copper, Convertible 5-in-1 Cooling Mode
-  - Copper Anti-Bacterial Filter, Coated Copper tubes
-  - ''
-- product: lg-1-5-ton-5-star-ai-dual-inverter-split-ac
+  - "Wi-Fi control"
+  - "Copper condenser"
+  - "Wi-Fi"
+  cons:
+  - "Price is higher than the basic models"
+  skipIf: "you only need basic cooling."
+- product: voltas-1-5-ton-5-star-split-ac-n3hz
+  badge: "Value 5 star"
+  verdict: "Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra CAR). 3.8\u2605 from 1,128 ratings on Amazon.in (10 Nov 2026). Features listed: 4-in-1 adjustable mode, Sleep mode, Anti-dust filter with anti-microbial coating."
+  specs:
+  - "Capacity: 1.5 ton"
+  - "Energy rating: 5 star (as listed)"
+  - "Condenser: Copper"
+  - "Smart: Not listed"
   pros:
-  - 'Split Ac With Inverter Compressor: Variable Speed Compressor Which Adjusts Power Depending On Heat Load |With AI Convertible 6-in-1 user gets a flexibility to increase or decrease cooling capacity as per requirements.'
-  - 'Capacity: 1.5 Ton Suitable for medium sized rooms (151 to 180 sq ft.); Air Circulation: 653/1236 (In/Out) CFM & Ambient Temperature: 52 degree Celsius with 4 way air swing'
-  - 'Energy Rating : 5 Star - Best in class efficiency | Annual Energy Consumption: 685.26 Units Per Year| ISEER Value: 5.2 (Please Refer Energy Label On Product Page Or Contact Brand For More Details)'
-  - 'Manufacturer Warranty: 10 Years on Compressor with Gas Charging, 5 Years on PCB and 1 Year on product (T&C)'
-  - 'Copper With ocean black protection: Prevents from rust & corrosion; Increase durability; Uninterrupted cooling'
-  - 'Key Features: DUAL Inverter Compressor; AI Convertible 6-in-1 cooling; VIRAAT; HD Filter with Anti Virus Protection; ADC Sensor; Ocean Black Fin Anti Corrosive; Ocean Black Protection; EZ Clean Filter; Low Gas Detection; 100% Copper condenser'
+  - "Large rating base (1,128 ratings)"
+  - "Copper condenser"
+  - "4-in-1 adjustable mode"
+  cons:
+  - "No Wi-Fi listed"
+  - "Average rating (3.8\u2605)"
+  skipIf: "you want app or voice control."
 ```
 
-```best
-items:
-- product: godrej-1-5-ton-5-star-split-ac
-  pros:
-  - 'Heavy Duty Cooling Split AC with inverter compressor: Variable speed compressor which adjusts power depending on heat load. Godrej air conditioners are built for the Indian summer. Its special design and tropical compressor ensure cooling even at 52°C'
-  - 'Capacity (1.5 Ton): Suitable for medium sized rooms (111 to 150 sq.ft), 618 CFM & Ambient Temperature: 52℃'
-  - 'Energy rating: 5 star, Annual energy consumption: 765.86, ISEER value: 5.1 This model is as per the new star rating standards valid till 2024'
-  - 'Warranty: 1 year on product, 5 years extended warranty on PCB, 10 years extended warranty on compressor'
-  - 'Condenser Coil: 100% copper evaporator and condenser with Blue Fin Anti-Corrosion coating that ensures durability and heavy duty performance for uninterrupted powerful cooling'
-  - 'Key Features: Heavy Duty Cooling at 52°C, 100% copper condenser, Evaporator coils & Connecting tube, R32 refrigerent, Backlit remote, Anti-Freeze Thermostat, Silent Operation, Anti- Microbial Self Clean Technology'
-```
-
-```best
-items:
-- product: whirlpool-1-5-ton-5-star-inverter-split-ac
-  pros:
-  - 'Split AC with Intellisense inverter compressor: variable speed compressor which adjusts power depending on heat load. 4-in-1 Convertible with 4 cooling cooling modes through remote control to operate in different tonnages for different cooling needs'
-  - 'Capacity: 1.5 Ton. Suitable for medium sized rooms (111 - 150 square feet) & Ambient Temperature: 52 degree Celsius with 2-way swing'
-  - '100% Copper Condenser Coil: Better cooling and requires low maintenance'
-  - 'Warranty: 1 year on product, 5 years extended warranty on compressor'
-  - 'Key Feature : 6th sense technology, Dust Filter, Stabilizer free operation within (140 V ~ 285 V), Temperature Hidden display, Noise Level: IDU 43 dB'
-  - 'Energy Rating: 5 Star, ISEER Value: 5.19, Electricity Consumption 761.33'
-```
-
-```best
-items:
-- product: samsung-1-5-ton-5-star-inverter-split-ac
-  pros:
-  - 'Split AC with inverter compressor: Variable speed compressor which adjusts power depending on heat load. With Convertible 5in1 modes, you can change according to your mood and requirement'
-  - 'Capacity (1.5Ton): Suitable for medium sized rooms (111 to 150 sq ft)'
-  - 'Energy Rating: 5 Star BEE Rating with Power Saving Mode | ISEER rating of 5.16 W/W (better than industry benchmarks | Electricity Consumption : 749.48 Units Per Year'
-  - 'Warranty: 1 Year Standard Warranty on Product, 1 Year Warranty on PCB, 10 Years Warranty on Digital Inverter Compressor'
-  - 'Copper Condenser Coil: Better cooling and requires low maintenance'
-  - 'Key Features: Convertible 5in1, 3 Step Auto Clean, Easy to Clean Filter, Copper Anti-Bacterial Filter, Coated Copper tubes'
-```
-
-```best
-items:
-- product: daikin-1-5-ton-5-star-inverter-split-ac
-  pros:
-  - 'Split AC with inverter Swing compressor: High ISEER(5.2); Dew clean technology to ensure healthy air'
-  - 'Capacity 1.5 Ton: Suitable for medium sized rooms (111 to 150 sq.ft)'
-  - '5 Star: Best in class efficiency'
-  - 'Warranty: 1 Years on Product, 5 Years on PCB, 10 Years on Compressor'
-  - 'Copper Condenser Coil: Better cooling and requires low maintenance'
-  - 'Key Features- Cooling Capacity @ 43°C: 100%; Noise Level: 38 db(A); Ambient Operation: 54°C'
-```
-
-```best
-items:
-- product: blue-star-1-5-ton-5-star-inverter-split-ac
-  pros:
-  - 'Turbo Cool: Pre-set mode to instantly cool the room during extreme summers.'
-  - 'Energy Saver: The Eco mode helps save on your electricity bills, while giving you comfortable cooling experience.'
-  - '5-in-1 Convertible Cooling: Unique 5-in-1 cooling mode to run your AC at 5 different capacities as per the desired comfort. It comes in combination of 2 buttons in the remote.'
-  - '4-Way Swing: The Louvers can disperse air horizontally and vertically, making it easier to adjust the AC''s airflow more accurately.'
-  - 'Smart Ready: The AC is ready to be operated using Blue Star''s Smart App and through Voice Command using Amazon Alexa or Google Home (To operate through Smart App or Voice Command, user has to pay an additional charge to convert the AC into Smart AC completely)'
-  - '100% Copper: Blue Star AC''s condenser coil, evaporator coil and connecting tubes are made of 100% copper, thereby ensuring reliable cooling performance and enhanced durability.'
-```
+Every AC below was checked against its live Amazon.in listing on 10 Nov 2026. Ratings and review counts change, so check the current listing before you buy. Check the ISEER figure and label year on each listing, because star labels were revised in 2026.
 
 ## Conclusion
 

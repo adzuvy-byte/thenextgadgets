@@ -21,6 +21,24 @@ If you’re confused between the **DJI Osmo Pocket 4** and the **DJI Osmo Pocket
 
 Here’s a detailed comparison to help you decide 👇
 
+```product
+product: dji-osmo-pocket-4-standard-combo
+badge: "Newer"
+note: "DJI Osmo Pocket 4 Standard Combo."
+specs:
+- "Type: Pocket gimbal camera"
+- "Combo: Standard"
+```
+
+```product
+product: dji-osmo-pocket-3-vlogging-camera-1-cmos-qxwd
+badge: "Previous gen"
+note: "DJI Osmo Pocket 3 with a 1-inch CMOS sensor."
+specs:
+- "Sensor: 1-inch CMOS"
+- "Type: Pocket gimbal camera"
+```
+
 ## 📊 DJI Osmo Pocket 4 vs Pocket 3 (Quick Comparison)
 
 | Feature | DJI Osmo Pocket 4 | DJI Osmo Pocket 3 |

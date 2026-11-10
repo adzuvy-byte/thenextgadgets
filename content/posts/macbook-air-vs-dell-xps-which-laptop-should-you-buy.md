@@ -31,6 +31,12 @@ faq:
 
 The MacBook Air and the Dell XPS are the two thin-and-light laptops people most often cross-shop. The current Apple model is the 13-inch MacBook Air with the M5 chip, and Dell has refreshed the XPS family for 2026, including a new XPS 13 and a larger XPS 14. This guide compares them on the things that decide the choice: display, battery, ports, memory and price. Figures come from Smartprix's long-term review of the M5 MacBook Air and RTINGS's XPS 14 vs MacBook Air comparison, and Dell's India launch coverage. We do not claim exact Indian prices for every XPS configuration, because they vary by processor and RAM. Check the live price before you decide.
 
+```product
+product: apple-macbook-air-2026-m5
+badge: "Related pick"
+note: "Listed on Amazon.in: Apple MacBook Air 2026 (M5). Check the live price and exact model before buying."
+```
+
 ## The short answer
 
 - **Pick the MacBook Air M5** for battery life, silent fanless design, consistent performance and a long software life.

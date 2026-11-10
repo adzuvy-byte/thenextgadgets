@@ -16,6 +16,18 @@ seoTitle: 'DDPAI vs 70mai Dashcam: Which One Should You Buy?'
 coverTitle: DDPAI *vs* 70mai
 ---
 
+```product
+product: ddpai-dual-channel-dash-cam-md3n
+badge: "Related pick"
+note: "Listed on Amazon.in: DDPAI Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
+```product
+product: 70mai-a510-hdr-3k-dual-channel-dash-cam-k929
+badge: "Related pick"
+note: "Listed on Amazon.in: 70mai A510 HDR 3K Dual Channel Dash Cam. Check the live price and exact model before buying."
+```
+
 ## Introduction
 
 Dashcams have gained immense popularity in documenting road accidents and ensuring driver safety. This blog post aims to evaluate two renowned dashcam brands, namely DDPai and 70mai, to help you make an informed decision when choosing the Best dashcam for your specific requirements.

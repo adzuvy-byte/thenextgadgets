@@ -19,6 +19,12 @@ Whirlpool air conditioners are known for their reliable performance, but like an
 
 These error codes indicate the nature of the problem and assist in diagnosing and resolving issues efficiently. By referring to the error code list and following the suggested solutions, you can avoid unnecessary service calls and potentially fix minor problems on your own. In this article, we will provide a [comprehensive list of Whirlpool AC error code](/whirlpool-ac-error-code-list-and-solutions/) and their solutions.
 
+```product
+product: lg-1-5-ton-5-star-split-ac-d2dt
+badge: "Useful for this"
+note: "Listed on Amazon.in: LG 1.5 Ton 5 Star Smart Inverter Split AC (AS-Q19YNZE1). Check the live price and exact model before buying."
+```
+
 ## Error Codes
 
 **Error Code E1**

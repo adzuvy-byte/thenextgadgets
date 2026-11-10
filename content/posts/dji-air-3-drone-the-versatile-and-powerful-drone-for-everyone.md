@@ -79,6 +79,6 @@ The Air 3S also handles night and dusk flying better, and its forward LiDAR adds
 - **Carry spare batteries and a charger** and follow airline battery rules when you travel.
 - **Buy from an authorised seller** so the warranty is valid.
 
-For more options, see our guide to the [best DJI drone for travel in India](/best-dji-drone-for-travel-in-india/).
+DJI drones are not currently sold on Amazon.in, so we do not link a listing here.
 
 Source: [DroneXL, DJI Air 3 vs Air 3S](https://dronexl.co/vs/dji-air-3-vs-air-3s/).

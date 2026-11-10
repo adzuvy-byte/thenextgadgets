@@ -251,6 +251,21 @@ export type Card = {
   lastReviewedAt: string
   category: {title: string; slug: string} | null
 }
+
+// Products mentioned in an article. Best-of lists already show theirs in full, so they get none.
+export function articleProducts(p: Post) {
+  if (p.postType === 'best') return []
+  const seen = new Map<string, any>()
+  const add = (x?: any | null) => { if (x?.id && !seen.has(x.id)) seen.set(x.id, {id: x.id, name: x.name, asin: x.asin ?? null, url: x.url ?? null, status: x.status ?? null}) }
+  add(p.quickVerdict?.product)
+  for (const b of p.body) {
+    if (b._type === 'productBox') add(b.product)
+    else if (b._type === 'versus' || b._type === 'choose') { add(b.a.product); add(b.b.product) }
+    else if (b._type === 'bestTenList') b.items.forEach((i) => add(i.product))
+  }
+  return [...seen.values()]
+}
+
 export const toCard = (p: Post): Card => ({
   _id: p.slug,
   slug: p.slug,
@@ -301,7 +316,7 @@ export function readingMinutes(body: Block[]): number {
   const words = body.reduce((n, b) => n + (b._type === 'html' ? stripTags(b.html).split(/\s+/).filter(Boolean).length : 0), 0)
   return Math.max(1, Math.round(words / 220))
 }
-export type NavItem = {id: string; text: string}
+export type NavItem = {id: string; text: string; sub?: boolean}
 export function headingsNav(body: Block[]): NavItem[] {
   const out: NavItem[] = []
   for (const b of body) {
@@ -319,3 +334,22 @@ export const getProductCount = cache((): number => {
   const d: any = readJson<any>('products.json', [])
   return Array.isArray(d) ? d.length : Object.keys(d?.products ?? d ?? {}).length
 })
+
+// Sidebar outline: the title (H1), every H2, and for best-of lists each pick nested under its section.
+// Pick ids are numbered across the whole article so two lists never share an id.
+export function articleNav(body: Block[], title: string): NavItem[] {
+  const out: NavItem[] = [{id: 'top', text: title}]
+  let n = 0
+  for (const b of body) {
+    if (b._type === 'html') {
+      for (const m of b.html.matchAll(/<h2 id="([^"]+)">(.*?)<\/h2>/g)) out.push({id: m[1], text: stripTags(m[2]).trim()})
+    } else if (b._type === 'bestTenList') {
+      for (const it of b.items) {
+        if (!it.product) continue
+        n += 1
+        out.push({id: `pick-${n}`, text: it.product.name, sub: true})
+      }
+    }
+  }
+  return out
+}

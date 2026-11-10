@@ -33,9 +33,9 @@ items:
   badge: Best rated
   verdict: A 4-in-1 cordless vacuum and blower for home and car, with a 6000mAh battery and 3 suction speeds. Rated 4.4/5 by 3,166 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,398.
   specs:
-  - 4-in-1
-  - 6000mAh
-  - 3 speeds
+  - 'Feature: 4-in-1'
+  - 'Battery: 6000mAh'
+  - 'Feature: 3 speeds'
   pros:
   - 4.4 rating
   - Large battery
@@ -45,9 +45,9 @@ items:
   badge: Dual power
   verdict: A cordless vacuum with a 6000mAh dual mode battery and a 12V DC car power option. Rated 4.0/5 by 9,277 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹3,199.
   specs:
-  - 6000mAh
-  - 12V DC car power
-  - 2X suction
+  - 'Battery: 6000mAh'
+  - 'Output: 12V DC car power'
+  - 'Cleaning: 2X suction'
   pros:
   - 9,000+ ratings
   - Car power option
@@ -57,8 +57,8 @@ items:
   badge: Corded
   verdict: A high power handheld car vacuum for deep cleaning. Rated 4.0/5 by 3,886 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹1,450.
   specs:
-  - High power
-  - Handheld
+  - 'Output: High power'
+  - 'Feature: Handheld'
   pros:
   - 3,900+ ratings
   - Mid price
@@ -69,9 +69,9 @@ items:
   badge: Cheap and popular
   verdict: A USB rechargeable 3-in-1 mini handheld car vacuum with blower. Rated 4.1/5 by 18,119 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹499.
   specs:
-  - 3-in-1
-  - USB rechargeable
-  - Blower
+  - 'Feature: 3-in-1'
+  - 'Ports: USB rechargeable'
+  - 'Feature: Blower'
   pros:
   - 18,000+ ratings
   - Under ₹500
@@ -81,10 +81,10 @@ items:
   badge: With inflator
   verdict: A 70W 3-in-1 portable vacuum, air duster and inflator with a brushless motor. Rated 3.3/5 by 171 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹999.
   specs:
-  - 70W
-  - 12000Pa
-  - Brushless motor
-  - Inflator
+  - 'Output: 70W'
+  - 'Cleaning: 12000Pa'
+  - 'Cleaning: Brushless motor'
+  - 'Feature: Inflator'
   pros:
   - Also inflates
   cons:
@@ -93,8 +93,8 @@ items:
   badge: Budget mini
   verdict: A USB rechargeable 3-in-1 handheld car vacuum with blower. Rated 3.2/5 by 1,064 buyers on Amazon.in when we checked (2026-11-09); check the live price, which was around ₹494.
   specs:
-  - 3-in-1
-  - USB rechargeable
+  - 'Feature: 3-in-1'
+  - 'Ports: USB rechargeable'
   pros:
   - Low price
   cons:
