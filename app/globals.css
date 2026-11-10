@@ -258,7 +258,8 @@ tbody th { font-weight: 600; }
 .not-found-links { margin-top: 32px; display: flex; flex-wrap: wrap; gap: 16px; align-items: center; }
 @media (max-width: 760px) {
   .main-nav { display: none; }
-  .menu { display: block; order: -1; }
+  .menu { display: block; order: 2; }
+  .menu nav { left: auto; right: 0; }
   .header-row { flex-wrap: nowrap; }
   .wordmark { font-size: 24px; margin-right: auto; }
 }
