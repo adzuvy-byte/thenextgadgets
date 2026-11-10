@@ -10,7 +10,7 @@ author: editorial-team
 date: '2024-03-24'
 updated: '2026-11-10'
 excerpt: Tablets under ₹10,000 in India are now hard to find from known brands. Here are the closest options from Lenovo, Honor and Samsung, with current Amazon.in prices and ratings.
-description: Tablets under ₹10,000 in India are now hard to find from known brands. Here are the closest options from Lenovo, Honor and Samsung, with current Amazon.in prices and ratings.
+description: "No known-brand tablet is under \u20B910,000 now. The closest Lenovo and Honor options, with current Amazon.in prices and ratings."
 freshness: fresh
 seoTitle: Best Tablet Under ₹10,000 in India
 coverTitle: The best *Tablet* Under ₹10,000

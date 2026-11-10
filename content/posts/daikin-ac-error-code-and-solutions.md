@@ -239,3 +239,8 @@ A: Regular maintenance and cleaning of your Daikin AC can help prevent error cod
 **Q: Who should I contact if I cannot resolve a Daikin AC error code?**
 
 A: Contact a qualified HVAC technician to diagnose and repair any issues with your Daikin AC. It is important to address any errors promptly to prevent further damage to the system.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

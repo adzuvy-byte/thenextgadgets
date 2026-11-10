@@ -169,3 +169,8 @@ Regular maintenance helps identify and address potential issues before they esca
 ### Q: How can I schedule a maintenance check for my Whirlpool AC?
 
 You can contact Whirlpool customer support or reach out to authorized service centers to schedule a maintenance check for your Whirlpool AC unit.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

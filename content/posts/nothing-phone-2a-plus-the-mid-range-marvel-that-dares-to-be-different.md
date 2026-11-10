@@ -55,3 +55,8 @@ The Nothing Phone (2a) Plus isn’t just a phone—it’s a rebellion against bo
 **Ready to join the revolution?** Pre-orders open next week, with exclusive early-bird discounts. Trust us: this is one gadget that’s worth the hype.
 
 *Available in Black and White. Visit Nothing’s official site for global availability.*
+
+## Related buying guides
+
+- [Best Big-Battery 5G Phones Under ₹20,000 in India](/best-5g-smartphone-under-20000-in-india/)
+- [Best Smartphones Under ₹15,000 in India](/best-smartphones-under-15000-in-india/)

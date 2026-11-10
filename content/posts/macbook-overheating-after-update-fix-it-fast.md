@@ -153,3 +153,8 @@ If your MacBook is still overheating after trying everything, it may be worth ch
 
 
 Want the full diagnosis? See our complete guide, [MacBook getting hot? Why it happens and how to fix it](/macbook-getting-hot-fix/).
+
+## Related buying guides
+
+- [BEST Laptops for Students in India](/best-laptops-for-students-in-india/)
+- [Best 16GB RAM Laptops in India — Top Picks for Students, Professionals and Creators](/best-16gb-ram-laptops-in-india/)

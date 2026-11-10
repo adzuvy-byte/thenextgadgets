@@ -33,6 +33,12 @@ We've all felt it — that sudden warmth when your phone gets hotter than usual.
 
 In this guide, we'll explain the **most common causes** of smartphone overheating, how to spot early warning signs, and **the best ways to cool down your device and keep it running smoothly**.
 
+```product
+product: spinbot-icedot-mag-v1-magnetic-phone-cooler
+badge: "Optional accessory"
+note: "A magnetic phone cooler can help during long gaming or charging sessions. Listed at about \u20b91,492 on 10 Nov 2026, rated 4.0/5 by 1,209 buyers on Amazon.in. It does not fix the underlying cause."
+```
+
 ## Why Do Phones Overheat?
 
 Phones are essentially tiny computers. Just like a laptop or PC, they generate heat when in use. But when that heat isn’t managed properly, it builds up — leading to overheating.

@@ -176,3 +176,8 @@ This is usually a sign of an **improper installation** or a roof leak near the u
 ## How much does it cost to fix an AC water leak?
 
 A DIY fix like a filter change or vinegar flush costs less than $20. A professional unclogging usually ranges from **$75 to $200**, while a refrigerant leak repair can exceed **$500** depending on the severity.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

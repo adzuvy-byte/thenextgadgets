@@ -157,3 +157,7 @@ Remember to prioritize safety when attempting any repairs or troubleshooting. If
 ### Disclaimer
 
 : The information provided in this FAQ is for general guidance purposes only. Always refer to the user manual and consult with the manufacturer or a qualified professional for specific instructions and assistance related to your LG washing machine model.
+
+## Related buying guides
+
+- [Best Fully Automatic Top Load Washing Machines in India](/best-fully-automatic-top-load-washing-machine-in-india/)

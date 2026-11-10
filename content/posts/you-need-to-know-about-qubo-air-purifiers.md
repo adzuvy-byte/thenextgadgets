@@ -116,3 +116,8 @@ In my view, Qubo is a **very strong value proposition** for Indian homes. Their 
 That said, if sensor accuracy is a big deal for you or you’re buying for a very small / very large space, you might want to compare with other brands. But for most people, Qubo strikes a beautiful balance: **smart, effective, and more affordable than many international HEPA purifiers**.
 
 Read more at 
+
+## Related buying guides
+
+- [Best Dashcam for Cars in India](/best-dashcam-for-cars-in-india/)
+- [Best microSD Card for Dashcam — Don't Buy the Wrong One](/best-microsd-card-for-dashcam/)

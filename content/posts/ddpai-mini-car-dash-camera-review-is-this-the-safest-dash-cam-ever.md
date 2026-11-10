@@ -180,9 +180,3 @@ The DDPAI Mini does a few basic things in a very small body: it records Full HD,
 
 Some links on this page are affiliate links. If you buy through them we may earn a commission at no extra cost to you. It does not change what we write.
 
-## Sources
-
-Checked on 3 November 2026.
-
-- [DDPAI Mini specifications, PB Tech](https://www.pbtech.com/product/CARDDP0001/about)
-- [DDPAI Mini launch coverage in India, The Tech Outlook](https://www.thetechoutlook.com/new-release/gadgets-release/ddpai-mini-car-dash-camera-is-what-your-car-lacks/)

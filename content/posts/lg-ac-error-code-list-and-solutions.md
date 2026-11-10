@@ -113,3 +113,8 @@ A: The CH 67 error code on an LG AC indicates an abnormal communication between 
 ### Q: What should I do if I encounter an error code on my LG AC?
 
 A: If you encounter an error code on your LG AC, refer to the user manual for troubleshooting steps or contact a professional HVAC technician for assistance. In some cases, resetting the unit or performing routine maintenance may resolve the issue.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

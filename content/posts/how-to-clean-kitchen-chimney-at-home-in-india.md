@@ -115,3 +115,7 @@ If the chimney still has weak suction after cleaning, makes grinding noises or t
 - Keep a schedule on your phone.
 
 Thinking of replacing it? See our [best kitchen chimney guide](/10-best-kitchen-chimney-in-india/).
+
+## Related buying guides
+
+- [BEST Kitchen Chimney in India](/10-best-kitchen-chimney-in-india/)

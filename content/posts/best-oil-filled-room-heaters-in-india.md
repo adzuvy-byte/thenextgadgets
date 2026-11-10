@@ -8,9 +8,9 @@ categories:
 - home-kitchen
 author: lucilla
 date: '2024-03-24'
-updated: '2026-11-03'
-excerpt: Six oil-filled room heaters sold in India from Havells, Philips, Sujata, Crompton, Orient and Black+Decker, with their listed fins, wattage and safety features, plus how to choose one.
-description: Six oil-filled room heaters sold in India from Havells, Philips, Sujata, Crompton, Orient and Black+Decker, with their listed fins, wattage and safety features, plus how to choose one.
+updated: '2026-11-10'
+excerpt: Eight oil-filled room heaters sold in India from Havells, Philips, Sujata, Crompton, Orient, Black+Decker, Bajaj and Usha, with their listed fins, wattage and safety features, plus how to choose one.
+description: Eight oil-filled room heaters sold in India with their listed fins, wattage and safety features, a note on each, and how to choose one.
 freshness: fresh
 faq:
 - q: Is an oil-filled heater better than a fan heater?
@@ -28,7 +28,7 @@ faq:
 coverTitle: The best Oil Filled Room *Heaters*
 ---
 
-An oil-filled heater warms a room slowly and quietly, and keeps giving off heat after it switches off. That makes it a common choice for bedrooms in winter. These six heaters come from Havells, Philips, Sujata, Crompton, Orient and Black+Decker. Specs below come from the product titles on the listings, so check fins, wattage and warranty on the page before you buy.
+An oil-filled heater warms a room slowly and quietly, and keeps giving off heat after it switches off. That makes it a common choice for bedrooms in winter. These eight heaters come from Havells, Philips, Sujata, Crompton, Orient, Black+Decker, Bajaj and Usha. Specs below come from the product titles on the listings, so check fins, wattage and warranty on the page before you buy.
 
 ## The picks at a glance
 
@@ -117,7 +117,58 @@ items:
   cons:
   - Fewer fins and less heat output
   skipIf: your room is large.
+- product: bajaj-majesty-rh-13f-plus-oil-filled-heater
+  badge: 13 fins, anti-leak fins
+  verdict: A 13-fin heater from Bajaj with three heat settings and a manual and an auto thermal cut-out. Rated 4.0/5 by 2,089 buyers on Amazon.in on 10 Nov 2026; around ₹8,199. The title says 2500 W while one bullet says 2900 W, so confirm the wattage on the page.
+  specs:
+  - 'Fins: 13'
+  - 'Heat settings: 1000, 1500 and 2500 W'
+  - 'Approval: ISI'
+  - 'Safety: Manual and auto thermal cut-out'
+  - 'Warranty: 2 years'
+  pros:
+  - Lowest price among the 13-fin models here
+  - Large review base for an oil-filled heater
+  cons:
+  - Listing is inconsistent on wattage
+  - No PTC fan listed
+  skipIf: you want a fan to warm the room faster.
+- product: usha-13-fin-oil-filled-room-heater-b0bqz2gmtx
+  badge: 13 U-shaped fins, 2900 W
+  verdict: A 13-fin, 2900 W heater with U-shaped fins, a PTC fan, three heat settings and a tip-over switch. Rated 4.1/5 by 45 buyers on Amazon.in on 10 Nov 2026; around ₹11,899.
+  specs:
+  - 'Fins: 13 (U-shaped)'
+  - 'Power: 2900 W'
+  - 'Fan: PTC fan heater'
+  - 'Heat settings: 3'
+  - 'Safety: ISI approved, tip-over switch'
+  - 'Warranty: 2 years'
+  pros:
+  - Castor wheels for moving between rooms
+  - Adjustable thermostat
+  cons:
+  - Only 45 reviews so far
+  skipIf: you want a larger review base before buying.
 ```
+
+## Product-by-product notes
+
+**Havells 13 fin (U-tech).** The largest surface here at 13 fins and 2900 W, with a PTC fan and ISI approval. The listing advertises a 10-year warranty; read what it covers, because heater warranties are usually two years. It was around ₹14,458 on 10 Nov and rated 3.9 by about 1,000 buyers, so you pay a premium for the brand and the warranty. Best for a large bedroom or living room.
+
+**Philips 11 fin (M-shaped).** Two separate knobs, one for temperature and one for heat mode, plus tilt protection and auto shut-off. The wattage is not in the title, so check the listing. A good fit if you like clear manual control and a recognised brand.
+
+**Sujata 13 fin.** A 2900 W heater with three heat settings, a PTC fan, ISI approval and a long 2 m cord, which helps if the socket is far from the bed. It was around ₹11,654 and rated 4.0 by 74 buyers, so the review base is small. Choose it for the cord and the price, and check service in your city.
+
+**Crompton 11 fin (wave fin).** Eleven fins and 2900 W with a PTC fan and three heat settings. Fewer fins mean a smaller radiating surface, so it warms a room more slowly than the 13-fin models. Its strength is Crompton's service network.
+
+**Orient 13 fin (S-shaped).** Thirteen fins, a PTC fan, three heat settings and a two-year warranty. It was around ₹10,739 and rated 4.1 by about 740 buyers, which is the best review count among the 13-fin heaters from the established brands. A sensible middle option.
+
+**Black+Decker 9 fin.** The smallest heater here at 2500 W, suited to a small bedroom. With fewer fins it gives less heat output, so do not buy it for a large room.
+
+**Bajaj Majesty RH 13F Plus.** The cheapest 13-fin model on the list, at around ₹8,199, and rated 4.0 by about 2,100 buyers. It has three heat settings and two thermal cut-outs, but no fan is listed and the listing contradicts itself on wattage. It is a value choice for someone who prefers a silent heater and has checked the specs on the page.
+
+**Usha 13 fin (U-shaped).** A 2900 W heater with a PTC fan, castor wheels and a tip-over switch. Usha claims its U-shaped fins are 19% more efficient than its earlier design; treat that as a manufacturer claim. With only 45 reviews, it is a newer entry, so read recent reviews on build and service first.
+
 
 ## How to choose an oil-filled heater
 

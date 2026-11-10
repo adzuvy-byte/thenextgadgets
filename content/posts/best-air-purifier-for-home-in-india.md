@@ -11,6 +11,7 @@ date: 2026-08-23
 updated: 2026-11-02
 excerpt: Twelve air purifiers worth buying in India right now, from a small 12-watt bedroom unit to big-room smart purifiers, with honest room sizes, filter costs and who should skip each one.
 description: The best air purifiers for Indian homes in 2026, matched to real room sizes, with filter costs, running costs and who each one suits.
+seoTitle: 'Best Air Purifier for Home in India: 12 Picks by Room Size'
 freshness: fresh
 faq:
 - q: What size air purifier do I need for my room?

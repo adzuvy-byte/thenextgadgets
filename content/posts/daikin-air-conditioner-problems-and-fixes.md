@@ -11,6 +11,7 @@ date: '2026-07-24'
 updated: '2026-07-24'
 excerpt: 'Daikin air conditioner problems explained: not cooling, water leaks, blinking lights, error codes, and every real fix for split and ducted units.'
 description: 'Daikin air conditioner problems explained: not cooling, water leaks, blinking lights, error codes, and every real fix for split and ducted units.'
+seoTitle: 'Daikin AC Problems: Common Issues, Fixes and Error Codes'
 freshness: fresh
 coverTitle: Daikin Air Conditioner *Problems*
 ---
@@ -216,3 +217,8 @@ Certain Daikin, Amana, and Goodman branded heat pumps manufactured between speci
 - Any refrigerant recharge
 
 If you're comparing Daikin's reliability against other brands for your next purchase, or considering switching brands after ongoing issues, [our LG air conditioner problems guide](/lg-air-conditioner-problems-and-fixes/) covers LG's equivalent issues and error codes in the same format, and [our Samsung vs LG comparison](/samsung-vs-lg-refrigerator/) covers the broader appliance brand picture.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

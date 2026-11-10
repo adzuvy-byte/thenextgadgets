@@ -148,3 +148,8 @@ If your LG refrigerator is under 5 years old and under warranty, repair is almos
 Before any major repair, call LG directly and have your model and serial number ready. Even out-of-warranty units have sometimes received goodwill repair assistance for well-documented compressor issues.
 
 If you're weighing whether to repair your existing LG or replace it entirely, [our Samsung vs LG refrigerator comparison](/samsung-vs-lg-refrigerator/) covers the current lineup from both brands so you can make an informed decision.
+
+## Related buying guides
+
+- [Best Double Door Refrigerators in India](/best-double-door-refrigerators-in-india/)
+- [Best Single Door Refrigerators in India](/best-single-door-refrigerator-in-india/)

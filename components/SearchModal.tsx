@@ -1,6 +1,7 @@
 'use client'
 
 import {useRouter} from 'next/navigation'
+import {createPortal} from 'react-dom'
 import {useCallback, useEffect, useMemo, useRef, useState} from 'react'
 
 type Row = {slug: string; title: string; excerpt: string; type: string; category: string; categorySlug?: string}
@@ -140,7 +141,7 @@ export function SearchModal() {
         <kbd className="search-trigger-kbd">⌘K</kbd>
       </button>
 
-      {open ? (
+      {open && typeof document !== 'undefined' ? createPortal(
         <div className="sm-backdrop" onMouseDown={() => setOpen(false)}>
           <div className="sm-panel" role="dialog" aria-modal="true" aria-label="Search" onMouseDown={(e) => e.stopPropagation()} onKeyDown={onKeyDown}>
             <div className="sm-input-row">
@@ -237,7 +238,8 @@ export function SearchModal() {
               ) : null}
             </div>
           </div>
-        </div>
+        </div>,
+        document.body
       ) : null}
     </>
   )

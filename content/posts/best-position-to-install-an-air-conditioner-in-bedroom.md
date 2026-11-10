@@ -83,3 +83,8 @@ note: "Listed on Amazon.in: Voltas 1.5 Ton 5 Star Inverter Split AC (185V Vectra
 The best position to install an air conditioner in your bedroom is **above the door or on the wall opposite the bed**, at a height of **7-8 feet above the floor**. Avoid placing the AC directly above the bed, in corners, or on walls exposed to direct sunlight. Proper installation ensures even cooling, energy efficiency, and a comfortable sleeping environment.
 
 By following these guidelines, you can maximize the performance of your AC, reduce energy consumption, and enjoy a cool and comfortable bedroom all year round.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

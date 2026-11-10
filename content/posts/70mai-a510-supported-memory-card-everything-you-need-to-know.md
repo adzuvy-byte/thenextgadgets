@@ -81,3 +81,8 @@ Using a supported memory card ensures:
 - **Longer lifespan of both dash cam and memory card**
 
 > A small investment in a quality microSD card can save headaches and prevent lost footage during accidents or critical events.
+
+## Related buying guides
+
+- [Best Dashcam for Cars in India](/best-dashcam-for-cars-in-india/)
+- [Best microSD Card for Dashcam — Don't Buy the Wrong One](/best-microsd-card-for-dashcam/)

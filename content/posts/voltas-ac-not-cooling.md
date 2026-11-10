@@ -195,3 +195,8 @@ Call Customer care: [Tel:1800-419-1999](Tel:1800-419-1999)
 - "What does E1 error mean on a Voltas AC?"
 - "Can I clean my Voltas AC filter myself?"
 - "How often should I service my Voltas AC in India?"
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

@@ -118,3 +118,8 @@ You don’t have to sweat over high electricity bills this summer. By following 
 Want to upgrade for better savings? See our [best 1.5 ton 5 star split ACs in India](/best-1-5-ton-5-star-split-ac-in-india/).
 
 Or explore our blog on **Top AC Brands in India: LG vs Daikin vs Voltas vs Carrier**
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

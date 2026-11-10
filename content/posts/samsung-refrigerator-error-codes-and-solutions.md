@@ -167,3 +167,8 @@ Remember, safety should always be a priority when attempting any repairs or trou
 ### Disclaimer
 
 : The information provided in this FAQ is for general guidance purposes only. Always refer to the user manual and consult with the manufacturer or a qualified professional for specific instructions and assistance related to your Samsung refrigerator model.
+
+## Related buying guides
+
+- [Best Double Door Refrigerators in India](/best-double-door-refrigerators-in-india/)
+- [Best Single Door Refrigerators in India](/best-single-door-refrigerator-in-india/)

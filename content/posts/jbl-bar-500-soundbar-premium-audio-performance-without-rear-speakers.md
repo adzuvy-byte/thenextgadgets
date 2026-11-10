@@ -86,3 +86,8 @@ Just ensure:
 - You’re using HDMI **eARC or high-quality ARC cables** for Atmos pass-through
 
 Read more at 
+
+## Related buying guides
+
+- [Best Soundbar Under ₹10,000 in India](/best-soundbar-under-10000-in-india/)
+- [Best LG Soundbars in India: Top Picks for Your Apartment](/best-lg-soundbars-in-india-top-picks-for-your-apartment/)

@@ -8,11 +8,12 @@ import {TypeTiles, TrustStrip} from '@/components/HomeGraphics'
 import {TYPE_LABELS, formatDate} from '@/lib/format'
 import {getHome, getAllPosts, getCategories, getProductCount, postsInCategory} from '@/lib/content'
 import {StatsBand, WinterBand, ProcessSteps, BrandMarquee, CategoryBento, HomeFaq, CtaBand} from '@/components/HomeSections'
-import {buildMetadata} from '@/lib/seo'
+import {buildMetadata, siteUrl} from '@/lib/seo'
+import {JsonLd} from '@/components/JsonLd'
 import {LatestReviews} from '@/components/LatestReviews'
 
 export const metadata: Metadata = buildMetadata({
-  title: 'TheNextGadgets - Gadget Reviews, Comparisons & Buying Guides India',
+  title: 'TheNextGadgets: Gadget Reviews, Comparisons & Buying Guides',
   description:
     "Expert gadget reviews, honest comparisons and fix-it guides for dashcams, ACs, TVs, earbuds and more. India's trusted tech resource.",
   path: '/',
@@ -44,6 +45,15 @@ export default function HomePage() {
 
   return (
     <>
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@graph': [
+            {'@type': 'WebSite', '@id': `${siteUrl}/#website`, url: `${siteUrl}/`, name: 'TheNextGadgets', inLanguage: 'en-IN', publisher: {'@id': `${siteUrl}/#org`}},
+            {'@type': 'Organization', '@id': `${siteUrl}/#org`, name: 'TheNextGadgets', url: `${siteUrl}/`, logo: {'@type': 'ImageObject', url: `${siteUrl}/favicon/icon-512.png`, width: 512, height: 512}},
+          ],
+        }}
+      />
       <div className="hero-wrap hx-wrap">
         <Hero lead={lead} side={side} />
         <TrustStrip />

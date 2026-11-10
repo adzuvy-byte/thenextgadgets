@@ -10,7 +10,7 @@ author: editorial-team
 date: '2023-08-04'
 updated: '2026-11-03'
 excerpt: Eight 4K smart TVs from TCL, Xiaomi, Hisense, Sony, LG and Samsung at 43, 50 and 55 inches, compared on panel, HDR support, sound and smart platform, plus how to choose a 4K TV.
-description: Eight 4K smart TVs from TCL, Xiaomi, Hisense, Sony, LG and Samsung at 43, 50 and 55 inches, compared on panel, HDR support, sound and smart platform, plus how to choose a 4K TV.
+description: Eight 4K smart TVs from TCL, Xiaomi, Hisense, Sony, LG and Samsung in 43, 50 and 55 inches, compared on panel, HDR, sound and smart platform.
 freshness: fresh
 faq:
 - q: Is 4K worth it on a 43-inch TV?

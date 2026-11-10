@@ -57,3 +57,8 @@ The Galaxy S25 Ultra is available in multiple configurations, with prices starti
 In summary, the Samsung Galaxy S25 Ultra stands out as a flagship smartphone that seamlessly blends advanced hardware with intelligent software features, setting a new standard in the mobile industry.
 
 Read more at 
+
+## Related buying guides
+
+- [Best Big-Battery 5G Phones Under ₹20,000 in India](/best-5g-smartphone-under-20000-in-india/)
+- [Best Smartphones Under ₹15,000 in India](/best-smartphones-under-15000-in-india/)

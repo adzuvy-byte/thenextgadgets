@@ -10,6 +10,7 @@ author: editorial-team
 date: '2026-05-27'
 updated: '2026-11-03'
 excerpt: Few things are more frustrating than watching your iPhone battery percentage drop rapidly, especially when you’re not doing anything intensive. Whether your iPhone battery suddenly drains overnight, loses charge quickly after an iOS…
+description: iPhone battery draining too fast? Causes after iOS updates or overnight, and the settings and fixes that actually help.
 freshness: fresh
 coverTitle: iPhone battery *draining*
 ---

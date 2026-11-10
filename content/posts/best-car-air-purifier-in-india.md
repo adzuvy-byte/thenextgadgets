@@ -10,7 +10,7 @@ author: daniel
 date: '2025-11-16'
 updated: '2026-11-03'
 excerpt: Six car air purifiers sold in India from Honeywell, Airofy, NexLev, Sharp, pangaO and SafeGuard Air, with what their filters do, what the claims mean, and the limits of a small purifier in a car.
-description: Six car air purifiers sold in India from Honeywell, Airofy, NexLev, Sharp, pangaO and SafeGuard Air, with what their filters do, what the claims mean, and the limits of a small purifier in a car.
+description: Six car air purifiers sold in India, with what their filters do, what the claims mean, and the limits of a small purifier in a car.
 freshness: fresh
 faq:
 - q: Do car air purifiers work?

@@ -233,3 +233,8 @@ If your Xiaomi Air Purifier continues to show issues even after these steps, con
 - Replacing the filter
 - Updating to the latest firmware
 - Contacting Xiaomi Support for hardware problems
+
+## Related buying guides
+
+- [Best Air Purifier for Home in India: 12 Picks Matched to Your Room Size](/best-air-purifier-for-home-in-india/)
+- [Best Philips Air Purifiers in India: Which One Should You Buy?](/best-philips-air-purifiers/)

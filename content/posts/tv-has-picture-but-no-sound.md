@@ -194,3 +194,8 @@ If you want the fastest path through all of this:
 11. If speaker test failed and factory reset didn't help — hardware diagnosis needed
 
 The large majority of TV picture-but-no-sound cases resolve somewhere between steps 1 and 6. Steps 7 through 10 cover the less common but real software-level causes. Step 11 is genuine hardware failure — the least likely explanation and the one most people assume first.
+
+## Related buying guides
+
+- [BEST 4K TV under 40000 in India](/best-4k-tv-under-40000-in-india/)
+- [Best 55 Inch Smart QLED TV in India](/best-55-inch-smart-qled-tv-in-india/)

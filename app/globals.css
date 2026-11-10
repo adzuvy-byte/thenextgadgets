@@ -1382,3 +1382,8 @@ a.ap-card:hover { background: #e3eaf6; border-color: #b9c7e2; }
 
 /* contrast fix for the header wordmark subtitle */
 .site-header .wm-text .wm-2 { color: #b45309; }
+
+.author-about { max-width: 760px; margin-top: 18px; }
+.author-about p { font-size: 17px; line-height: 1.65; color: var(--ink-2); margin: 0 0 14px; }
+.author-about a { color: var(--link, #0D47A1); text-decoration: underline; text-underline-offset: 3px; }
+.author-articles-h { font-size: 26px; margin: 36px 0 0; }

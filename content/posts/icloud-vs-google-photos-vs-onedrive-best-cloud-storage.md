@@ -16,6 +16,12 @@ description: iCloud, Google Photos or OneDrive? Compare free storage, pricing ap
 coverTitle: iCloud *vs* Google Photos
 ---
 
+```product
+product: sandisk-extreme-1tb-portable-ssd
+badge: "Local backup option"
+note: "A portable SSD is a one-time-cost backup alongside cloud storage. Listed at about \u20b917,999 on 10 Nov 2026, rated 4.5/5 by over 82,000 buyers on Amazon.in."
+```
+
 ## The Choice No One Warned You About
 
 Most people didn't consciously choose their cloud storage. They ended up with it. iPhone users got iCloud. Android users got Google Photos. Windows users got OneDrive baked into their taskbar. And for years, that default was fine — storage was cheap, libraries were small, and nobody thought much about it.

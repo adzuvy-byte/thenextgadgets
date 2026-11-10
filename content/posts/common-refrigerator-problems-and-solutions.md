@@ -276,3 +276,8 @@ Regular maintenance can help avoid most issues:
 Most refrigerator problems can be fixed with simple troubleshooting if caught early. Regular maintenance not only improves performance but also extends the life of your appliance.
 
 However, for complex issues like compressor failure or electrical faults, it’s always safer to consult a professional technician.
+
+## Related buying guides
+
+- [Best Double Door Refrigerators in India](/best-double-door-refrigerators-in-india/)
+- [Best Single Door Refrigerators in India](/best-single-door-refrigerator-in-india/)

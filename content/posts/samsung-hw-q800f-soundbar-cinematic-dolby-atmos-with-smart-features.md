@@ -104,3 +104,8 @@ Ideal for watching movies or gaming in mid‑to‑large living rooms—with both
 Samsung 360 W 5.1.2 ch (HW-Q800D/XL) Wireless Dolby Atmos Soundbar with Wireless Subwoofer, Center/Up/Side Firing Speakers, Surround Sound, Built-in Alexa, AirPlay2, Wi-Fi, Bluetooth, HDMI (Black) Samsung HW-Q800F
 
 Read more at 
+
+## Related buying guides
+
+- [Best Soundbar Under ₹10,000 in India](/best-soundbar-under-10000-in-india/)
+- [Best LG Soundbars in India: Top Picks for Your Apartment](/best-lg-soundbars-in-india-top-picks-for-your-apartment/)

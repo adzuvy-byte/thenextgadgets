@@ -159,16 +159,3 @@ If budget is the main concern, Qubo's Dashcam Pro 2K at ₹3,990 is the lowest-p
 
 If you want remote monitoring, only Qubo's 4G Live in this comparison offers it, and that comes with a subscription.
 
-## Sources
-
-Checked on 3 November 2026. Specs and prices are as stated on these pages.
-
-- [Qubo Dashcam Pro 4K product page](https://quboworld.com/dashcam-4k)
-- [Qubo Dashcam Pro X (2026 Edition) retailer listing](https://happycart.in/qubo-dashcam-pro-x-2026-edition.html)
-- [Qubo Dashcam Pro 2K product page](https://quboworld.com/dashcam-pro-2k)
-- [Smartprix: Qubo launches three dashcams in India (May 2025)](https://us.smartprix.com/bytes/qubo-launches-three-dashcams-in-india-price-features-availability)
-- [Digit: Qubo Dashcam 4G Live and Dashcam Trio (January 2026)](https://www.digit.in/news/general/qubo-launches-dashcam-4g-live-and-dashcam-trio-in-india-price-features-explained.html)
-- [DDPAI True 4K Dual Channel product page](https://en.ddpai.com/)
-- [Fone Arena: DDPAI Z50 and Z40 launched in India (July 2024)](https://www.fonearena.com/blog/428507/ddpai-z50-z40-price-india-features.html)
-
-Also Read [BEST Dashcam for Cars in India](/best-dashcam-for-cars-in-india/)

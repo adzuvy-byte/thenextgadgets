@@ -280,3 +280,8 @@ Also Read [BEST Water Purifier for home in India](/best-water-purifier-for-home-
 ### Conclusion
 
 Finally, recognizing the various error codes that may appear on your Godrej refrigerator's display may help you properly troubleshoot and address common difficulties. We've gone over a variety of problem codes and their answers, allowing you to take proactive steps to keep your refrigerator functioning properly. Remember to disconnect your refrigerator before attempting any troubleshooting or repairs, and if you experience chronic or complex issues, it's better to obtain professional assistance to guarantee the safety and lifespan of your appliance.
+
+## Related buying guides
+
+- [Best Double Door Refrigerators in India](/best-double-door-refrigerators-in-india/)
+- [Best Single Door Refrigerators in India](/best-single-door-refrigerator-in-india/)

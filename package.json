@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "og": "python3 tools/og.py",
+    "check:products": "node tools/check-products.mjs",
     "deploy": "next build && wrangler deploy"
   },
   "dependencies": {

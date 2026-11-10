@@ -120,3 +120,7 @@ note: "Listed on Amazon.in: Blue Star 1.5 Ton 5 Star Inverter Split AC (IA518ZXU
 
 Buying an AC is a long-term investment, especially in a country like India where summers are getting harsher each year. Avoiding these common mistakes will help you choose the right air conditioner that keeps you cool, saves electricity, and offers value for money.
 
+## Related buying guides
+
+- [Best Air Conditioners in India](/best-air-conditioners-in-india/)
+- [Best 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)

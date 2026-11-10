@@ -11,6 +11,7 @@ date: '2026-07-17'
 updated: '2026-07-14'
 excerpt: Phone speaker sounds muffled after getting wet? Here's exactly why water does this, the safe way to fix it, and when it's actually permanent damage.
 description: Phone speaker sounds muffled after getting wet? Here's exactly why water does this, the safe way to fix it, and when it's actually permanent damage.
+seoTitle: Phone Speaker Muffled After Getting Wet? Why and How to Fix
 freshness: fresh
 coverTitle: Muffled phone *speaker*
 ---

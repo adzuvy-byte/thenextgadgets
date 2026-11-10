@@ -147,3 +147,7 @@ The **Motorola Edge 70 Fusion** is one of the most powerful mid-premium smartpho
 
 If battery life and a premium experience matter to you, the **Motorola Edge 70 Fusion** is absolutely worth considering.
 
+## Related buying guides
+
+- [Best Big-Battery 5G Phones Under ₹20,000 in India](/best-5g-smartphone-under-20000-in-india/)
+- [Best Smartphones Under ₹15,000 in India](/best-smartphones-under-15000-in-india/)

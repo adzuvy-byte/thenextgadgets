@@ -72,3 +72,8 @@ The Amazon Fire TV Stick 4K stands out as a versatile and powerful streaming dev
 Amazon Fire TV Stick 4K, Alexa Voice Remote, power cable and power adapter, HDMI extender cable for Fire TV Stick 4K, 2 AAA batteries
 
 Read more at 
+
+## Related buying guides
+
+- [BEST 4K TV under 40000 in India](/best-4k-tv-under-40000-in-india/)
+- [Best 55 Inch Smart QLED TV in India](/best-55-inch-smart-qled-tv-in-india/)

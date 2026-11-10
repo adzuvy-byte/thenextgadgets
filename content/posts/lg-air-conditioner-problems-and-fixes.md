@@ -11,6 +11,7 @@ date: '2026-07-27'
 updated: '2026-07-24'
 excerpt: LG air conditioner problems not cooling, leaking water, making noise, or showing error codes? Here's every common LG AC problem and how to fix it.
 description: LG air conditioner problems not cooling, leaking water, making noise, or showing error codes? Here's every common LG AC problem and how to fix it.
+seoTitle: 'LG AC Problems: Common Issues, Fixes and Error Codes'
 freshness: fresh
 coverTitle: LG Air Conditioner *Problems*
 ---
@@ -173,3 +174,8 @@ Most LG AC problems are either preventable or made significantly worse by skippi
 If your unit is within warranty, always contact LG first before arranging third-party service, as using an unauthorized technician can void the remaining warranty. LG's warranty covers 1 year parts and labor on most units, and 5 to 10 years specifically on the compressor depending on the model.
 
 If you're considering replacing an aging LG AC unit or comparing LG with another brand, [our LG refrigerator problems guide](/lg-refrigerator-problems-and-fixes/) covers the broader reliability picture of LG appliances, and [our Samsung vs LG comparison](/samsung-vs-lg-refrigerator/) gives a category-by-category breakdown if you're weighing both brands.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

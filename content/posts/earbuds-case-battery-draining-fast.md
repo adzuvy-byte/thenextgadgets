@@ -84,3 +84,8 @@ If you just want the short version to work through right now: clean both sets of
 Walking through these in order takes about ten minutes and resolves the overwhelming majority of cases, regardless of which brand of earbuds you're actually using.
 
 ## FAQ — Earbuds Case Battery Draining Fast
+
+## Related buying guides
+
+- [Best Wireless Earbuds Under ₹5,000 in India](/best-wireless-earbuds-under-5000-in-india/)
+- [Best TWS Earbuds Under ₹7,000 in India](/best-tws-earbuds-under-7000-in-india/)

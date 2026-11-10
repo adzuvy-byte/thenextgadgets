@@ -149,3 +149,7 @@ If you want a reliable, future-proof, and feature-packed smartphone under budget
 
 If you want, I can also create a **comparison blog (Samsung Galaxy M17e vs Poco / Realme)** or **Amazon affiliate SEO article** for higher ranking.
 
+## Related buying guides
+
+- [Best Big-Battery 5G Phones Under ₹20,000 in India](/best-5g-smartphone-under-20000-in-india/)
+- [Best Smartphones Under ₹15,000 in India](/best-smartphones-under-15000-in-india/)

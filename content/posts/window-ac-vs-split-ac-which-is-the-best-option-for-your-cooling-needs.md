@@ -11,6 +11,7 @@ date: '2023-04-16'
 updated: '2025-02-01'
 excerpt: 'Window AC vs Split AC: Find the best cooling option for your needs. Learn about the differences and make an informed decision.'
 description: 'Window AC vs Split AC: Find the best cooling option for your needs. Learn about the differences and make an informed decision.'
+seoTitle: 'Window AC vs Split AC: Which Is Better for Your Cooling Needs?'
 freshness: fresh
 coverTitle: Window AC *vs* Split AC
 ---

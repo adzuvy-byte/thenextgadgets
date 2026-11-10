@@ -139,3 +139,8 @@ A: It's not recommended to attempt fixing Blue Star AC error codes yourself unle
 ### Q: How can I prevent Blue Star AC error codes?
 
 A: Regular maintenance and timely servicing of your Blue Star AC can help prevent error codes. It's important to follow the manufacturer's recommended maintenance schedule and avoid any improper use or installation that may cause issues.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

@@ -111,3 +111,8 @@ During humid weather, keep doors and windows closed while the AC runs, and avoid
 - Do not block the airflow in front of the indoor unit.
 
 Also see our guides on [how much electricity a split AC uses](/how-much-electricity-does-a-split-ac-consume-complete-guide-for-indian-users/) and [what to do when the compressor turns off after a few minutes](/split-ac-compressor-turning-off-after-a-few-minutes/).
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

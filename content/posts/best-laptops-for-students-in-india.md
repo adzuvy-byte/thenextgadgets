@@ -10,7 +10,7 @@ author: editorial-team
 date: '2024-03-24'
 updated: '2026-11-03'
 excerpt: Eight current laptops for students in India, from the MacBook Neo and MacBook Air to Lenovo, HP, ASUS and Samsung Windows laptops, with specs, trade-offs and how to choose.
-description: Eight current laptops for students in India, from the MacBook Neo and MacBook Air to Lenovo, HP, ASUS and Samsung Windows laptops, with specs, trade-offs and how to choose.
+description: Eight current laptops for students in India, from MacBooks to Lenovo, HP, ASUS and Samsung, with specs, trade-offs and how to choose.
 freshness: fresh
 faq:
 - q: How much RAM does a student need?

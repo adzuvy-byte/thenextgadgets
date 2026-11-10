@@ -3,18 +3,50 @@
     "slug": "editorial-team",
     "name": "TheNextGadgets Editorial Team",
     "role": "Editorial team",
-    "bio": "We research, compare and explain gadgets for buyers in India."
+    "bio": "The team behind our TV, laptop, phone, camera, soundbar and accessory guides for buyers in India.",
+    "about": [
+      "The editorial team writes most of the buying guides, comparisons and reviews on TheNextGadgets: TVs and soundbars, laptops, smartphones, cameras, earbuds, power banks, chargers and other accessories.",
+      "Our approach is simple. We compare products on the specifications and prices listed on Amazon.in and by the maker, we explain who each product suits and who should skip it, and we say plainly when something is the maker's own claim. Unless an article says we tested a product, we have not tested it.",
+      "We update guides when models, prices or availability change, and every article shows when it was last updated. If you spot a mistake, tell us through the contact page and we will correct it."
+    ],
+    "focus": [
+      "TVs and soundbars",
+      "Laptops and tablets",
+      "Smartphones and earbuds",
+      "Cameras and accessories"
+    ]
   },
   {
     "slug": "lucilla",
     "name": "Lucilla",
-    "role": "Writer",
-    "bio": "Writes buying guides, comparisons and fix-it guides for TheNextGadgets."
+    "role": "Writer, home and kitchen appliances",
+    "bio": "Writes our guides to air conditioners, refrigerators, air purifiers, water heaters and kitchen appliances for Indian homes.",
+    "about": [
+      "Lucilla writes about the appliances that run a home: air conditioners, refrigerators, air purifiers, geysers and heaters, vacuum cleaners and kitchen appliances such as microwaves, kettles and induction cooktops. She also writes our fix-it guides for common appliance problems.",
+      "Her articles focus on what matters in Indian homes: capacity for the size of the family, electricity use and power ratings, voltage fluctuations, service networks and warranty terms. Each pick lists who it suits and who should skip it.",
+      "She works from manufacturer specifications and Amazon.in listings, and marks claims that are the maker's own. Unless an article says a product was tested, it was not. Fix-it guides give safe checks first and say clearly when to call a technician."
+    ],
+    "focus": [
+      "Air conditioners",
+      "Refrigerators and washing machines",
+      "Air purifiers, geysers and heaters",
+      "Kitchen appliances and fix-it guides"
+    ]
   },
   {
     "slug": "daniel",
     "name": "Daniel",
-    "role": "Writer",
-    "bio": "Writes buying guides, comparisons and fix-it guides for TheNextGadgets."
+    "role": "Writer, cars and dashcams",
+    "bio": "Writes our dashcam reviews, comparisons and buying guides, and covers car accessories for Indian roads.",
+    "about": [
+      "Daniel writes about dashcams and car accessories: front and dual-channel dashcams, night-recording sensors, parking monitoring, memory cards and what to check before fitting one.",
+      "His articles compare models on the specifications the maker and the retailer list, such as sensor, resolution, field of view, storage and warranty, and explain how those translate to everyday use on Indian roads. He notes where a feature, such as a subscription or a hardwiring kit, adds cost.",
+      "Unless an article says a product was tested, the figures come from the listings and the maker, and we say so. Guides are revised when models are replaced."
+    ],
+    "focus": [
+      "Dashcams",
+      "Dual-channel and 4K dashcams",
+      "Memory cards and car accessories"
+    ]
   }
 ]

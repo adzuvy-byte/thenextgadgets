@@ -138,3 +138,7 @@ Keep an eye out for the official launch date and full reviews — and as always,
 
 **Related Reads:**
 
+## Related buying guides
+
+- [Best Big-Battery 5G Phones Under ₹20,000 in India](/best-5g-smartphone-under-20000-in-india/)
+- [Best Smartphones Under ₹15,000 in India](/best-smartphones-under-15000-in-india/)

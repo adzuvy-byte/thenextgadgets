@@ -8330,5 +8330,189 @@
     "status": "active",
     "image": "https://m.media-amazon.com/images/I/61gjngI-XtL._AC_SL500_.jpg",
     "imageAlt": "Amazon Fire TV Stick 4K Plus"
+  },
+  {
+    "id": "spinbot-icedot-mag-v1-magnetic-phone-cooler",
+    "name": "SpinBot IceDot Mag V1 Magnetic Phone Cooler",
+    "asin": "B0D93S7LDZ",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71i2oqeE65L._AC_SL500_.jpg",
+    "imageAlt": "SpinBot IceDot Mag V1 Magnetic Phone Cooler"
+  },
+  {
+    "id": "sandisk-extreme-1tb-portable-ssd",
+    "name": "SanDisk Extreme 1TB Portable External SSD (1050MB/s)",
+    "asin": "B08GTYFC37",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61zuR3UMnWL._AC_SL500_.jpg",
+    "imageAlt": "SanDisk Extreme 1TB Portable External SSD (1050MB/s)"
+  },
+  {
+    "id": "samsung-27-odyssey-qd-oled-g5-gaming-monitor",
+    "name": "Samsung 27\" Odyssey QD-OLED G5 Gaming Monitor (QHD, 180Hz)",
+    "asin": "B0G12R9WG3",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61bjbIkBw4L._AC_SL500_.jpg",
+    "imageAlt": "Samsung 27\" Odyssey QD-OLED G5 Gaming Monitor (QHD, 180Hz)"
+  },
+  {
+    "id": "lenovo-loq-27q-10-27-qhd-ips-180hz-monitor",
+    "name": "Lenovo LOQ 27Q-10 27\" QHD IPS 180Hz Gaming Monitor",
+    "asin": "B0H696XFPH",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/81-thKLwmiL._AC_SL500_.jpg",
+    "imageAlt": "Lenovo LOQ 27Q-10 27\" QHD IPS 180Hz Gaming Monitor"
+  },
+  {
+    "id": "portronics-toad-one-bluetooth-mouse",
+    "name": "Portronics Toad One Bluetooth Mouse",
+    "asin": "B0BG8LZNYL",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/51hZtBRUFBL._AC_SL500_.jpg",
+    "imageAlt": "Portronics Toad One Bluetooth Mouse"
+  },
+  {
+    "id": "amkette-hush-pro-epic-m-wireless-mouse",
+    "name": "Amkette Hush Pro Epic M Rechargeable Wireless Mouse",
+    "asin": "B0DZHFMKJW",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/517pP0FU8pL._AC_SL500_.jpg",
+    "imageAlt": "Amkette Hush Pro Epic M Rechargeable Wireless Mouse"
+  },
+  {
+    "id": "wipro-16a-wifi-smart-plug-energy-monitoring",
+    "name": "Wipro 16A Wi-Fi Smart Plug with Energy Monitoring",
+    "asin": "B08HN9Q2SZ",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61GRHX4pTaL._AC_SL500_.jpg",
+    "imageAlt": "Wipro 16A Wi-Fi Smart Plug with Energy Monitoring"
+  },
+  {
+    "id": "bonkaso-5000mah-mini-power-bank",
+    "name": "BonKaso 5000mAh Mini Power Bank with Built-in Cable",
+    "asin": "B0GX6T27KQ",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61s0xRMDf7L._AC_SL500_.jpg",
+    "imageAlt": "BonKaso 5000mAh Mini Power Bank with Built-in Cable"
+  },
+  {
+    "id": "borosil-1-2l-electric-glass-kettle",
+    "name": "Borosil 1.2 L Electric Glass Kettle",
+    "asin": "B0FMYJCKDD",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61SD93-73+L._AC_SL500_.jpg",
+    "imageAlt": "Borosil 1.2 L Electric Glass Kettle"
+  },
+  {
+    "id": "godrej-20l-solo-microwave-gmx-20sa2",
+    "name": "Godrej 20 L Solo Microwave Oven (GMX 20SA2)",
+    "asin": "B01MF8590A",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71lk7TX-jXL._AC_SL500_.jpg",
+    "imageAlt": "Godrej 20 L Solo Microwave Oven (GMX 20SA2)"
+  },
+  {
+    "id": "haier-20l-solo-microwave-hil2001mfph",
+    "name": "Haier 20 L Solo Microwave Oven (HIL2001MFPH)",
+    "asin": "B01NC3A1X4",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/81ksmjweiHL._AC_SL500_.jpg",
+    "imageAlt": "Haier 20 L Solo Microwave Oven (HIL2001MFPH)"
+  },
+  {
+    "id": "panasonic-20l-grill-microwave-nn-gt221wfdg",
+    "name": "Panasonic 20L Grill Microwave Oven (NN-GT221WFDG)",
+    "asin": "B00KPSSR20",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/81cHUoIIcqL._AC_SL500_.jpg",
+    "imageAlt": "Panasonic 20L Grill Microwave Oven (NN-GT221WFDG)"
+  },
+  {
+    "id": "godrej-23l-airfry-convection-microwave-gme-523-cf1-rm",
+    "name": "Godrej 23 L Air Fry Convection Microwave Oven (GME 523 CF1 RM)",
+    "asin": "B07RY7Q5YV",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71sqlg9U-wL._AC_SL500_.jpg",
+    "imageAlt": "Godrej 23 L Air Fry Convection Microwave Oven (GME 523 CF1 RM)"
+  },
+  {
+    "id": "whirlpool-20l-convection-microwave-magicook-pro-22ce",
+    "name": "Whirlpool 20 L Convection Microwave Oven (Magicook Pro 22CE)",
+    "asin": "B08GQ8MHK9",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71Z6CYzjWzL._AC_SL500_.jpg",
+    "imageAlt": "Whirlpool 20 L Convection Microwave Oven (Magicook Pro 22CE)"
+  },
+  {
+    "id": "samsung-28l-convection-microwave-mc28a5013ak-curd",
+    "name": "Samsung 28L Convection Microwave Oven with Curd Making (MC28A5013AK/TL)",
+    "asin": "B09XBMXQ34",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71XXjl2cZhL._AC_SL500_.jpg",
+    "imageAlt": "Samsung 28L Convection Microwave Oven with Curd Making (MC28A5013AK/TL)"
+  },
+  {
+    "id": "lg-28l-convection-microwave-mc2846bv",
+    "name": "LG 28 L Convection Microwave Oven (MC2846BV)",
+    "asin": "B06XKC8S71",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71X4oAhYufL._AC_SL500_.jpg",
+    "imageAlt": "LG 28 L Convection Microwave Oven (MC2846BV)"
+  },
+  {
+    "id": "ifb-28l-air-fry-convection-microwave-28sc5",
+    "name": "IFB 28 L Air Fry Convection Microwave (28SC5)",
+    "asin": "B0GDF8RZZG",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61zlzrtIXwL._AC_SL500_.jpg",
+    "imageAlt": "IFB 28 L Air Fry Convection Microwave (28SC5)"
+  },
+  {
+    "id": "bajaj-majesty-rh-13f-plus-oil-filled-heater",
+    "name": "Bajaj Majesty RH 13F Plus 13 Fin Oil Filled Room Heater",
+    "asin": "B01N1XVVLC",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61MVyfpwFeL._AC_SL500_.jpg",
+    "imageAlt": "Bajaj Majesty RH 13F Plus 13 Fin Oil Filled Room Heater"
+  },
+  {
+    "id": "usha-13-fin-oil-filled-room-heater-b0bqz2gmtx",
+    "name": "USHA 13 Fin Oil Filled Room Heater (U Shaped Fins, 2900W)",
+    "asin": "B0BQZ2GMTX",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/51Izj1DWx8L._AC_SL500_.jpg",
+    "imageAlt": "USHA 13 Fin Oil Filled Room Heater (U Shaped Fins, 2900W)"
+  },
+  {
+    "id": "usha-cook-joy-3616-induction-cooktop",
+    "name": "Usha Cook Joy (3616) 1600W Induction Cooktop",
+    "asin": "B072PXYG1R",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71gtJ+MYiKL._AC_SL500_.jpg",
+    "imageAlt": "Usha Cook Joy (3616) 1600W Induction Cooktop"
+  },
+  {
+    "id": "bosch-truesafe-2100w-induction-cooktop",
+    "name": "Bosch TrueSafe 2100W Induction Cooktop with Touch Panel",
+    "asin": "B0H4GFB9M6",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71ozQuCHEBL._AC_SL500_.jpg",
+    "imageAlt": "Bosch TrueSafe 2100W Induction Cooktop with Touch Panel"
+  },
+  {
+    "id": "black-decker-wdbd15-wet-dry-vacuum-cleaner",
+    "name": "BLACK+DECKER WDBD15 15L 1400W Wet and Dry Vacuum Cleaner",
+    "asin": "B07HJGMPJQ",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71Bil7zg-8L._AC_SL500_.jpg",
+    "imageAlt": "BLACK+DECKER WDBD15 15L 1400W Wet and Dry Vacuum Cleaner"
+  },
+  {
+    "id": "ecovacs-deebot-y1-pro-robot-vacuum-mop",
+    "name": "ECOVACS DEEBOT Y1 PRO 2 in 1 Robot Vacuum Cleaner and Mop",
+    "asin": "B0D17XGQX7",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/51l8wLBBe2L._AC_SL500_.jpg",
+    "imageAlt": "ECOVACS DEEBOT Y1 PRO 2 in 1 Robot Vacuum Cleaner and Mop"
   }
 ]

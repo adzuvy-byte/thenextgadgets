@@ -10,7 +10,7 @@ author: lucilla
 date: '2024-03-24'
 updated: '2026-11-03'
 excerpt: Seven electric room heaters sold in India, from a 400/800 W quartz heater to 2000 W PTC fan heaters, with their listed specs, who each suits, and how to heat a room safely.
-description: Seven electric room heaters sold in India, from a 400/800 W quartz heater to 2000 W PTC fan heaters, with their listed specs, who each suits, and how to heat a room safely.
+description: Seven electric room heaters sold in India, from quartz to 2000 W PTC fan heaters, with listed specs, who each suits and safe use.
 freshness: fresh
 faq:
 - q: How do I choose the right wattage?

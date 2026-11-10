@@ -166,3 +166,8 @@ Here are some additional tips for hiding or decorating split AC piping:
 - If you're using PVC pipe covers, make sure they are the right size for the pipes. You don't want the pipes to be too tight in the covers, as this could damage them.
 - If you're building a box around the pipes, make sure it is big enough to accommodate the pipes and any insulation that you're using.
 - If you're planting shrubs or bushes around the pipes, make sure they are not too close to the unit. This could block the airflow and reduce the efficiency of the AC unit.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)

@@ -150,3 +150,8 @@ The odds of being in an accident, witnessing a hit-and-run, encountering a fraud
 For less than the cost of a single insurance excess, you can ensure that the next time something happens on the road, you don't have to rely on your word against theirs. You have the tape. And the tape doesn't forget, doesn't exaggerate, and doesn't have a reason to lie.
 
 Get the dashcam.
+
+## Related buying guides
+
+- [Best Dashcam for Cars in India](/best-dashcam-for-cars-in-india/)
+- [Best microSD Card for Dashcam — Don't Buy the Wrong One](/best-microsd-card-for-dashcam/)

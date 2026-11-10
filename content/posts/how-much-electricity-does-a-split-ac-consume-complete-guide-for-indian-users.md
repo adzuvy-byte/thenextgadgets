@@ -159,3 +159,8 @@ Use curtains or blinds during the day.
 So, **how much electricity does a split AC consume?** It depends on tonnage, usage, and efficiency—but on average, a typical Indian household spends **₹2,500–₹3,500/month** running a split AC during peak summer.
 
 Choosing the right AC, using it efficiently, and maintaining it properly can significantly reduce your electricity bills.
+
+## Related buying guides
+
+- [BEST 1.5 Ton 5 Star Split AC in India](/best-1-5-ton-5-star-split-ac-in-india/)
+- [Best Air Conditioners in India: Top Picks to Beat the Heat (1.5 Ton, Inverter, Split ACs)](/best-air-conditioners-in-india/)
