@@ -258,7 +258,7 @@ tbody th { font-weight: 600; }
 .not-found-links { margin-top: 32px; display: flex; flex-wrap: wrap; gap: 16px; align-items: center; }
 @media (max-width: 760px) {
   .main-nav { display: none; }
-  .menu { display: block; order: -1; }
+  .menu { display: block; order: 2; }
   .header-row { flex-wrap: nowrap; }
   .wordmark { font-size: 24px; margin-right: auto; }
 }
@@ -1087,7 +1087,8 @@ a:hover { color: var(--accent-hover); }
 .wm-text { display: inline-flex; flex-direction: column; line-height: 1; }
 .wm-text .wm-1 { font-family: var(--serif); font-size: 28px; font-weight: 700; letter-spacing: -.5px; color: var(--ink); }
 .wm-text .wm-1 i { font-style: italic; font-weight: 500; color: var(--accent); }
-.wm-text .wm-2 { font-family: var(--sans); font-size: 9.5px; font-weight: 600; letter-spacing: .42em; text-transform: uppercase; color: var(--amber); margin-top: 5px; padding-left: 2px; }
+.wm-text .wm-2 { font-family: var(--sans); font-size: 9.5px; font-weight: 600; letter-spacing: .42em; text-transform: uppercase; color: #b45309; margin-top: 5px; padding-left: 2px; }
+.wordmark-sm .wm-text .wm-2 { color: var(--amber); }
 .wordmark-sm .wm-text .wm-1 { color: #fff; font-size: 24px; }
 .wordmark-sm .wm-text .wm-1 i { color: #8fb8ff; }
 @media (max-width: 760px) { .wm-text .wm-1 { font-size: 24px; } .wm-text .wm-2 { font-size: 8.5px; } }
@@ -1391,3 +1392,10 @@ a.ap-card:hover { background: #e3eaf6; border-color: #b9c7e2; }
 .recommend-pick p { margin: 0 0 8px; }
 .recommend-note { margin: 14px 0 0; font-size: 13.5px; color: var(--muted, #5b6270); }
 @media (max-width: 640px) { .recommend { padding: 16px 14px; } .recommend-pick { grid-template-columns: 1fr; } .recommend-pick img { width: 96px; height: 96px; } }
+
+/* Author pages */
+.author-about { margin: 18px 0 8px; max-width: 760px; }
+.author-about p { margin: 0 0 14px; font-size: 16.5px; line-height: 1.7; color: var(--ink-2); }
+.author-topics a, .author-how a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.author-topics { color: var(--ink); }
+.author-articles-h { margin: 36px 0 16px; font-size: 26px; }

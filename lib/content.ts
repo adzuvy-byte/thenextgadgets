@@ -23,7 +23,7 @@ export type Product = {
   specs?: {label: string; value: string}[]
 }
 export type Category = {slug: string; title: string; kind: 'topic' | 'format'; group?: string; description?: string; sortOrder: number; showInNav?: boolean}
-export type Author = {slug: string; name: string; role?: string; bio?: string}
+export type Author = {slug: string; name: string; role?: string; bio?: string; about?: string[]; focus?: string[]}
 export type SiteSettings = {
   siteName?: string
   amazonDomain?: string
