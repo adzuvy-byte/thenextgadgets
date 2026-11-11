@@ -23,7 +23,7 @@ export type Product = {
   specs?: {label: string; value: string}[]
 }
 export type Category = {slug: string; title: string; kind: 'topic' | 'format'; group?: string; description?: string; sortOrder: number; showInNav?: boolean}
-export type Author = {slug: string; name: string; role?: string; bio?: string; about?: string[]; focus?: string[]}
+export type Author = {slug: string; name: string; role?: string; bio?: string}
 export type SiteSettings = {
   siteName?: string
   amazonDomain?: string
@@ -77,6 +77,7 @@ export type Block =
   | {_type: 'bestTenList'; heading?: string; showSummaryTable?: boolean; items: BestItem[]}
   | {_type: 'versus'; a: VersusSide; b: VersusSide; rows: {label: string; a: string; b: string; win?: 'a' | 'b'}[]; note?: string}
   | {_type: 'choose'; a: ChooseSide; b: ChooseSide}
+  | {_type: 'recommend'; heading: string; intro?: string; checked?: string; picks: {product: Product; label?: string; why?: string; chooseIf?: string}[]}
 
 export type VersusSide = {name: string; tag?: string; price?: string; product?: Product | null}
 export type ChooseSide = {name: string; points: string[]; product?: Product | null}
@@ -95,7 +96,7 @@ export type BestItem = {
 function parseBody(source: string, file: string): Block[] {
   const products = getProductMap()
   const blocks: Block[] = []
-  const re = /^```(best|product|versus|choose)[ \t]*\n([\s\S]*?)\n```[ \t]*$/gm
+  const re = /^```(best|product|versus|choose|recommend)[ \t]*\n([\s\S]*?)\n```[ \t]*$/gm
   let last = 0
   let m: RegExpExecArray | null
   const pushMd = (s: string) => {
@@ -115,6 +116,8 @@ function parseBody(source: string, file: string): Block[] {
     } else if (m[1] === 'versus') {
       const side = (x: any): VersusSide => ({name: x.name, tag: x.tag, price: x.price, product: x.product ? need(x.product) : null})
       blocks.push({_type: 'versus', a: side(data.a ?? {}), b: side(data.b ?? {}), rows: data.rows ?? [], note: data.note})
+    } else if (m[1] === 'recommend') {
+      blocks.push({_type: 'recommend', heading: data.heading ?? 'TheNextGadgets recommendation', intro: data.intro, checked: data.checked, picks: (data.picks ?? []).map((x: any) => ({product: need(x.product), label: x.label, why: x.why, chooseIf: x.chooseIf}))})
     } else if (m[1] === 'choose') {
       const side = (x: any): ChooseSide => ({name: x.name, points: x.points ?? [], product: x.product ? need(x.product) : null})
       blocks.push({_type: 'choose', a: side(data.a ?? {}), b: side(data.b ?? {})})
@@ -262,6 +265,7 @@ export function articleProducts(p: Post) {
     if (b._type === 'productBox') add(b.product)
     else if (b._type === 'versus' || b._type === 'choose') { add(b.a.product); add(b.b.product) }
     else if (b._type === 'bestTenList') b.items.forEach((i) => add(i.product))
+    else if (b._type === 'recommend') b.picks.forEach((i) => add(i.product))
   }
   return [...seen.values()]
 }

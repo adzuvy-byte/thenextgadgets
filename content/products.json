@@ -8514,5 +8514,117 @@
     "status": "active",
     "image": "https://m.media-amazon.com/images/I/51l8wLBBe2L._AC_SL500_.jpg",
     "imageAlt": "ECOVACS DEEBOT Y1 PRO 2 in 1 Robot Vacuum Cleaner and Mop"
+  },
+  {
+    "id": "mijia-air-purifier-4-compact-1w1sn",
+    "name": "Mijia by Xiaomi Air Purifier 4 Compact",
+    "asin": "B0HCZ1W1SN",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71c0gNBDDhL._AC_SL500_.jpg",
+    "imageAlt": "Mijia by Xiaomi Air Purifier 4 Compact"
+  },
+  {
+    "id": "dyson-hushjet-purifier-compact-hj10-1ws4",
+    "name": "Dyson Hushjet Purifier Compact HJ10",
+    "asin": "B0FX51DWS4",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/51fFErlxSvL._AC_SL500_.jpg",
+    "imageAlt": "Dyson Hushjet Purifier Compact HJ10"
+  },
+  {
+    "id": "dyson-air-purifier-hot-cool-hp1-1nt7",
+    "name": "Dyson Purifier Hot+Cool HP1",
+    "asin": "B0FCYF1NT7",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61OYjIShUcL._AC_SL500_.jpg",
+    "imageAlt": "Dyson Purifier Hot+Cool HP1"
+  },
+  {
+    "id": "cuckoo-respure-dlx-air-purifier-hepa-13-covers-600-sqft-cts27",
+    "name": "Cuckoo Respure DLX Air Purifier",
+    "asin": "B0HF8CTS27",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/6185VApUucL._AC_SL500_.jpg",
+    "imageAlt": "Cuckoo Respure DLX Air Purifier"
+  },
+  {
+    "id": "cuckoo-omnipure-kite-air-purifier-true-hepa-h13-covers-1292-sqft-94lj",
+    "name": "Cuckoo OmniPure Kite Air Purifier",
+    "asin": "B0HF8794LJ",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/719GJAmwRuL._AC_SL500_.jpg",
+    "imageAlt": "Cuckoo OmniPure Kite Air Purifier"
+  },
+  {
+    "id": "cuckoo-omnipure-ultra-air-purifier-true-h13-covers-2232-sqft-f3yq",
+    "name": "Cuckoo OmniPure Ultra Air Purifier",
+    "asin": "B0H8YYF3YQ",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61Wu+qkd8nL._AC_SL500_.jpg",
+    "imageAlt": "Cuckoo OmniPure Ultra Air Purifier"
+  },
+  {
+    "id": "coway-airmega-50-ap-0425c-air-purifier-x7f1",
+    "name": "Coway Airmega 50 (AP-0425C)",
+    "asin": "B0DZD4X7F1",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61nNG5witoL._AC_SL500_.jpg",
+    "imageAlt": "Coway Airmega 50 (AP-0425C)"
+  },
+  {
+    "id": "coway-airmega-250-ap-1720h-air-purifier-3jrrt",
+    "name": "Coway Airmega 250 (AP-1720H)",
+    "asin": "B09413JRRT",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71zEjOG6ZhL._AC_SL500_.jpg",
+    "imageAlt": "Coway Airmega 250 (AP-1720H)"
+  },
+  {
+    "id": "philips-ac0920-smart-air-purifier-3lfm3",
+    "name": "Philips AC0920 Smart Air Purifier",
+    "asin": "B0DB83LFM3",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/61JWGk6ok0L._AC_SL500_.jpg",
+    "imageAlt": "Philips AC0920 Smart Air Purifier"
+  },
+  {
+    "id": "dreo-air-purifier-269-cadr-bedroom-home-7kzb2",
+    "name": "DREO Air Purifier (CADR 269 m³/h)",
+    "asin": "B0HK17KZB2",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/814zWvGmtrL._AC_SL500_.jpg",
+    "imageAlt": "DREO Air Purifier (CADR 269 m³/h)"
+  },
+  {
+    "id": "dreo-air-purifier-195-cadr-bedroom-home-zyjqg4",
+    "name": "DREO Air Purifier (CADR 195 m³/h)",
+    "asin": "B0HJZYJQG4",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71XqaXv7bKL._AC_SL500_.jpg",
+    "imageAlt": "DREO Air Purifier (CADR 195 m³/h)"
+  },
+  {
+    "id": "honeywell-4-stage-air-purifier-388-sq-ft-64qjms",
+    "name": "Honeywell 4-Stage Air Purifier (388 sq ft)",
+    "asin": "B09C64QJMS",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/51IACRbkP-L._AC_SL500_.jpg",
+    "imageAlt": "Honeywell 4-Stage Air Purifier (388 sq ft)"
+  },
+  {
+    "id": "qubo-q200-smart-air-purifier-94kpm",
+    "name": "Qubo Q200 Smart Air Purifier",
+    "asin": "B0CMH94KPM",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/71iUzIfliuL._AC_SL500_.jpg",
+    "imageAlt": "Qubo Q200 Smart Air Purifier"
+  },
+  {
+    "id": "blueair-311i-max-air-purifier-2lz9jh",
+    "name": "Blueair 311i Max Air Purifier",
+    "asin": "B0BN2LZ9JH",
+    "status": "active",
+    "image": "https://m.media-amazon.com/images/I/717L1lcSQCL._AC_SL500_.jpg",
+    "imageAlt": "Blueair 311i Max Air Purifier"
   }
 ]

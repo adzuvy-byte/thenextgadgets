@@ -258,8 +258,7 @@ tbody th { font-weight: 600; }
 .not-found-links { margin-top: 32px; display: flex; flex-wrap: wrap; gap: 16px; align-items: center; }
 @media (max-width: 760px) {
   .main-nav { display: none; }
-  .menu { display: block; order: 2; }
-  .menu nav { left: auto; right: 0; }
+  .menu { display: block; order: -1; }
   .header-row { flex-wrap: nowrap; }
   .wordmark { font-size: 24px; margin-right: auto; }
 }
@@ -1381,10 +1380,14 @@ a.ap-card:hover { background: #e3eaf6; border-color: #b9c7e2; }
 .ap-thumb img { width: 100%; height: 100%; object-fit: contain; display: block; mix-blend-mode: multiply; }
 .productbox-media img, .pc-media img { aspect-ratio: 1 / 1; }
 
-/* contrast fix for the header wordmark subtitle */
-.site-header .wm-text .wm-2 { color: #b45309; }
-
-.author-about { max-width: 760px; margin-top: 18px; }
-.author-about p { font-size: 17px; line-height: 1.65; color: var(--ink-2); margin: 0 0 14px; }
-.author-about a { color: var(--link, #0D47A1); text-decoration: underline; text-underline-offset: 3px; }
-.author-articles-h { font-size: 26px; margin: 36px 0 0; }
+/* TheNextGadgets recommendation */
+.recommend { margin: 36px 0; padding: 22px 22px 18px; border-radius: 20px; border: 2px solid var(--accent); background: linear-gradient(180deg, rgba(13,71,161,.06), rgba(13,71,161,0) 70%), #fff; }
+.recommend-kicker { display: inline-block; font-size: 12px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: #fff; background: var(--accent); padding: 5px 12px; border-radius: 999px; }
+.recommend-head p { margin: 12px 0 0; }
+.recommend-picks { display: grid; gap: 14px; margin-top: 16px; }
+.recommend-pick { display: grid; grid-template-columns: 120px 1fr; gap: 16px; align-items: start; padding: 16px; border-radius: 16px; background: #fff; border: 1px solid var(--line); }
+.recommend-pick img { width: 120px; height: 120px; object-fit: contain; }
+.recommend-pick h3 { margin: 2px 0 6px; font-size: 19px; }
+.recommend-pick p { margin: 0 0 8px; }
+.recommend-note { margin: 14px 0 0; font-size: 13.5px; color: var(--muted, #5b6270); }
+@media (max-width: 640px) { .recommend { padding: 16px 14px; } .recommend-pick { grid-template-columns: 1fr; } .recommend-pick img { width: 96px; height: 96px; } }

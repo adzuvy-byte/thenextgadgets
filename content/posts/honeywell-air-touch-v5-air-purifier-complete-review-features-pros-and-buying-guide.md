@@ -1,5 +1,5 @@
 ---
-title: Honeywell Air Touch V5 Air Purifier – Complete Review, Features, Pros, and Buying Guide
+title: "Honeywell Air Touch V5 Review (2026): Specs, Real Performance and Is It Worth Buying?"
 slug: honeywell-air-touch-v5-air-purifier-complete-review-features-pros-and-buying-guide
 type: review
 category: air-purifier
@@ -8,168 +8,126 @@ categories:
 - air-purifier
 author: lucilla
 date: '2025-11-29'
-updated: '2026-11-07'
-excerpt: 'Honeywell Air Touch V5 air purifier review for Indian homes: filtration, coverage, features, pros, cons and who should buy it, with a buying guide.'
+updated: '2026-11-11'
+excerpt: "Honeywell Air Touch V5 reviewed with 2026 data: 380 m³/h CADR, 4-stage H13 HEPA, 9,000-hour filter, independent test results, filter cost and who should buy it."
+description: "Honeywell Air Touch V5 review for India: correct specs (it is not the V3), price, test results, noise, filter cost and who should buy it."
+seoTitle: "Honeywell Air Touch V5 Review (2026): Specs, Price & Test"
 freshness: fresh
-seoTitle: 'Honeywell Air Touch V5 Review: Features and Buying Guide'
-description: 'Honeywell Air Touch V5 air purifier review for Indian homes: filtration, coverage, features, pros, cons and who should buy it, with a buying guide.'
-coverTitle: Honeywell Air Touch V5 *reviewed*
+faq:
+- q: "What is the difference between Honeywell Air Touch V3 and V5?"
+  a: "The V5 (₹11,499) has 4 stages, a CADR of up to 380 m³/h, a claimed 589 sq ft coverage and a filter rated up to 9,000 hours. The V3 (₹10,499) has 5 stages, up to 300 m³/h, 465 sq ft and about 3,000 hours."
+- q: "What is the price of the Honeywell Air Touch V5?"
+  a: "₹11,499 on Amazon.in on 11 Nov 2026. MySmartPrice recorded a launch price of ₹9,699."
+- q: "Does the Honeywell Air Touch V5 have Wi-Fi?"
+  a: "Amazon.in and Croma list Wi-Fi, an app and Alexa support. An independent review did not confirm app control on the unit it tested, so check the listing before buying."
+- q: "How much does a Honeywell V5 filter cost?"
+  a: "About ₹2,500, per MySmartPrice, with Amazon.in quoting up to 9,000 hours or about a year of use."
+- q: "How loud is the Honeywell Air Touch V5?"
+  a: "MySmartPrice measured 30.6 dB on the lowest setting and 55.5 dB at the highest. Croma's page lists 22 dB, which is a claimed minimum."
+- q: "What room size does the Honeywell Air Touch V5 cover?"
+  a: "Honeywell claims 589 sq ft. For heavy smog, plan on about 250 to 350 sq ft."
+- q: "How long did it take to clean a room in testing?"
+  a: "In MySmartPrice's closed-room test, AQI fell from 100 to about 30 in 25 minutes, starting at a PM2.5 level of around 400 µg/m³."
+- q: "Is the Honeywell Air Touch V5 better than the Coway Airmega 150?"
+  a: "The V5 has more claimed airflow and a lower filter price, but far fewer reviews (619 at 3.8) than the Coway (6,821 at 4.7). Choose the V5 for airflow per rupee and the Coway for reliability and ratings."
+coverTitle: "Honeywell Air Touch V5 *reviewed*"
 ---
 
-> **Note:** This article is based on the manufacturer's published specifications and listings. We have not tested this product ourselves.
+The Honeywell Air Touch V5 is a mid-priced, large-room air purifier with a high-capacity H13 HEPA filter and filters rated for up to 9,000 hours. It has been updated in 2026 with a clearer picture than earlier write-ups, many of which mixed it up with its older sibling, the Air Touch V3. This review sets out what the V5 really offers, where it is weak, what it costs to run, and who should buy it. Specs and prices were checked on the Amazon.in listing and Croma on 11 Nov 2026, with test results from an independent review by MySmartPrice. We have not tested the unit ourselves.
 
-If you’re searching for a powerful and future-ready air purifier for Indian homes, the **Honeywell Air Touch V5 Air Purifier**—also known as the **Honeywell Air Purifier V5**—is one of the most advanced models from Honeywell. Designed for high-pollution cities, allergy-prone families, and modern households, it offers a premium multi-stage filtration system, intelligent sensors, and wide room coverage.
+## The short verdict
 
-With rising PM2.5 and PM10 levels in India, the **Honeywell Air Touch V5 Air Purifier** provides reliable, fast, and consistent air purification to keep your home safe from dust, allergens, smoke, and harmful gases.
+The Air Touch V5 is a good-value choice for a bedroom or living room of up to about 350 to 400 sq ft if you want strong airflow and low filter costs. It is not as well supported by buyer reviews as the Coway Airmega 150, and its listing details vary between sellers. Check the app and remote details on the listing before you order.
+
+- **Price:** ₹11,499 on Amazon.in (11 Nov 2026), rated 3.8 out of 5 by 619 buyers. MySmartPrice recorded a launch price of ₹9,699.
+- **Airflow:** CADR of up to 380 m³/h, claimed coverage 589 sq ft.
+- **Filter:** 4 stages with H13 HEPA, and an affordable ₹2,500 replacement.
+
+## Honeywell Air Touch V5 specifications
+
+| Feature | Details | Source |
+|---|---|---|
+| Model | Honeywell Air Touch V5 (HC000027/AP/V5) | Croma |
+| CADR | Up to 380 m³/h | Amazon.in, Croma |
+| Claimed coverage | 589 sq ft (55 m²) | Amazon.in |
+| Filtration | 4 stages: pre-filter, nano-silver anti-bacterial filter, H13 HEPA, activated carbon | Amazon.in, MySmartPrice |
+| Filter life | Up to 9,000 hours, or about 1 year | Amazon.in, Croma |
+| Noise | 22 dB claimed (Croma); 30.6 dB low to 55.5 dB high measured | Croma, MySmartPrice |
+| Power | 35 W | Croma |
+| Weight | About 3.5 kg | MySmartPrice |
+| Warranty | 2 years, carry-in | Croma |
+| Connectivity | Wi-Fi, Honeywell Air Touch app and Alexa per Amazon.in and Croma | See note below |
+| Air quality display | Real-time PM2.5 LED (red, yellow, green) | Amazon.in |
+
+**A note on the app and remote:** Amazon.in and Croma list Wi-Fi app control and Alexa. MySmartPrice's review did not find app control stated for the unit it tested and said it had no remote. Before buying, confirm on the listing and with the seller exactly what comes with your variant.
+
+Sources: [Amazon.in listing](https://www.amazon.in/dp/B0DF7B9H74?tag=thenextgadgets-21), [Croma product page](https://www.croma.com/honeywell-air-touch-v5-smart-air-purifier-with-alexa-enabled-advanced-4-stage-filtration-white-/p/310900) and the [MySmartPrice review](https://www.mysmartprice.com/gear/air-purifiers/air-purifiers-reviews/honeywell-air-touch-v5-review/).
+
+## V5 is not the same as V3
+
+Several older guides, including an earlier version of this one, described the V5 with the V3's specs. They are different machines.
+
+| | Honeywell Air Touch V5 | Honeywell Air Touch V3 |
+|---|---|---|
+| Price on Amazon.in | ₹11,499 | ₹10,499 |
+| Rating | 3.8 (619) | 3.9 (31,441) |
+| Stages | 4 (pre-filter, nano-silver, H13 HEPA, carbon) | 5 (pre-filter, H11 HEPA, H13 HEPA, anti-bacterial, carbon) |
+| CADR | Up to 380 m³/h | Up to 300 m³/h |
+| Claimed coverage | 589 sq ft | 465 sq ft |
+| Filter life | Up to 9,000 hours | Around 3,000 hours |
+
+The V5 moves more air with a simpler filter stack and a longer-life filter. The V3 has far more reviews, so more is known about it. See our [Honeywell Air Touch V3 review](/honeywell-air-touch-v3-air-purifier-for-home-full-review-features-benefits/).
+
+## How well does it clean? Independent test results
+
+MySmartPrice measured the V5 in a closed room. Starting at a PM2.5 level of about 400 µg/m³, the room's AQI reading fell from 100 to about 30 in 25 minutes, in both the corner and centre of the room. That is a quick drop and in line with a purifier moving 380 m³/h. The reviewer also noted that it could take up to 30 minutes to bring PM2.5 down in some conditions, and found it quiet enough on low speeds for bedrooms and offices, if noticeable at the top setting.
+
+One test is not a rating, and it was done in the reviewer's room, not yours. It is still better evidence than the manufacturer's coverage figure.
+
+## Real room size
+
+Honeywell says 589 sq ft. As a rule of thumb, divide CADR by 5 to get the room volume it can clean about five times an hour. 380 divided by 5 is 76 m³, around 270 sq ft at a 10 ft ceiling. For the heavy-smog months in Delhi NCR, a 250 to 350 sq ft room is the realistic range for the V5. In a milder city, or if you accept fewer air changes per hour, it can serve a larger room.
+
+## Running costs
+
+- **Filter:** about ₹2,500 for a replacement, per MySmartPrice, with the Amazon.in listing quoting up to 9,000 hours or about a year. That is cheaper than a Philips FY1700/30 (₹4,995) and in the same range as a Coway filter (₹3,299).
+- **Electricity:** 35 W on Croma's page. Running 12 hours a day at ₹8 a unit costs about ₹100 a month.
+- **Three-year cost:** ₹11,499 + 2 x ₹2,500 = about ₹16,500, one of the lowest in this class.
+
+## Pros and cons
+
+**Pros**
+- High airflow for the price (up to 380 m³/h).
+- H13 HEPA plus activated carbon.
+- Cheap filter, long rated life.
+- Measured clean-down of about 25 minutes in an independent test.
+- 2-year warranty and compact, light body.
+
+**Cons**
+- Only 619 Amazon.in ratings, with an average of 3.8.
+- Noise reaches about 55 dB at full speed in the review.
+- Spec sheets differ between sellers on app support and remote.
+- No published carbon-layer detail beyond "activated carbon".
+- The 589 sq ft claim is a best case.
+
+## Who should buy it?
+
+**Buy the V5 if:**
+- You want strong airflow and cheap filters for a bedroom or living room up to about 350 sq ft.
+- You are on a budget of about ₹10,000 to ₹12,000.
+- You are comfortable with a brand with fewer reviews on this model.
+
+**Choose something else if:**
+- You want the strongest buyer ratings: the [Coway Airmega 150](/coway-air-purifier-india/) is rated 4.7.
+- You need guaranteed app control and a published noise range: consider the Philips AC1715 or a Qubo.
+- You want the older, more reviewed model: the Honeywell Air Touch V3.
 
 ```product
-product: honeywell-5-stage-air-purifier-dual-hepa-465-sq-ft-fc6z
-badge: "Related pick"
-note: "Listed on Amazon.in: Honeywell 5-Stage Air Purifier, Dual HEPA, 465 sq ft. Check the live price and exact model before buying."
+product: honeywell-4-stage-h13-hepa-air-purifier-589-sq-ft-wifi-9h74
+badge: Honeywell Air Touch V5
+note: "Listed at ₹11,499 and rated 3.8 out of 5 by 619 buyers on Amazon.in on 11 Nov 2026. CADR up to 380 m³/h, H13 HEPA, filter life up to 9,000 hours."
 ```
 
-## Why the Honeywell Air Touch V5 Air Purifier Stands Out
+Compare it with others in our [best air purifier for home in India](/best-air-purifier-for-home-in-india/) and [best air purifier for Delhi NCR](/best-air-purifier-for-delhi-ncr/) guides.
 
-The **Honeywell Air Purifier V5** is engineered with cutting-edge technology to deliver maximum efficiency with minimal noise. It focuses on real-world Indian air pollution problems, making it highly effective for metro cities like Delhi, Mumbai, Bangalore, and Kolkata.
-
-### 5-Stage Advanced Filtration System
-
-The Honeywell Air Touch V5 includes:
-
-1. **Pre-Filter** – Captures dust, pet hair, and large airborne particles
-2. **H11 HEPA Filter** – Removes fine dust and allergens
-3. **H13 True HEPA Filter** – Eliminates PM2.5, PM0.3, bacteria, and micro-particles
-4. **Anti-Bacterial Layer** – Prevents growth of germs and microbes
-5. **Activated Carbon Filter** – Absorbs smoke, VOCs, odors, and harmful gases
-
-This filtration system ensures 99.99% removal of pollutants, making the **Honeywell Air Touch V5 Air Purifier** perfect for homes with children, elderly people, or individuals with asthma or allergies.
-
-## Key Features of Honeywell Air Touch V5 Air Purifier
-
-### 1. Large Room Coverage
-
-Covers **up to 465 sq. ft**, ideal for:
-
-- Bedrooms
-- Living rooms
-- Hall spaces
-- Small offices
-
-### 2. High CADR for Faster Cleaning
-
-A Clean Air Delivery Rate (CADR) of around **300 m³/h**, ensuring rapid purification even in polluted environments.
-
-### 3. 3D Airflow for Uniform Cleaning
-
-Air is circulated both **frontally and upward**, ensuring every corner of the room is purified efficiently.
-
-### 4. Real-Time PM2.5 Monitoring
-
-The smart air quality indicator displays the exact pollution level, helping you monitor indoor air quality at a glance.
-
-### 5. Ultra-Quiet Operation
-
-Noise levels range from **30 dB (low)** to **~52 dB (high)**—perfect for bedrooms and nighttime use.
-
-### 6. Multiple Modes & Timer
-
-- Auto Mode
-- Sleep Mode
-- Turbo Mode
-- Timer (1/2/4/8 hours)
-- Child Lock
-
-### 7. Long Filter Life & Low Maintenance
-
-Filters last up to **3000 hours**, roughly **12 months of use**, keeping long-term costs reasonable.
-
-Read more about [Air Purifiers](/best-air-purifier-for-home-in-india/)
-
-## Honeywell Air Purifier V5 – Pros & Cons
-
-### Pros
-
-✔ 5-stage premium filtration ✔ Removes dust, pollen, PM2.5, smoke & VOCs ✔ Covers large rooms effectively ✔ Quiet, energy-efficient, and child-friendly ✔ Strong build quality with a modern design ✔ Easy-to-read PM2.5 air quality display ✔ Long filter lifespan
-
-### Cons
-
-❌ Replacement filters may be costlier than budget brands ❌ No built-in WiFi or app connectivity ❌ Limited color options
-
-## Honeywell Air Touch V5 Air Purifier – Specifications
-
-| Feature | Details |
-|---|---|
-| **Model** | Honeywell Air Touch V5 |
-| **Coverage** | Up to 465 sq. ft |
-| **Filtration** | 5-stage (Pre + H11 + H13 HEPA + Anti-Bacterial + Carbon) |
-| **CADR** | ~300 m³/h |
-| **Noise Level** | 30–52 dB |
-| **Filter Life** | 3000 hours (~1 year) |
-| **Power Consumption** | Around 60–65W |
-| **Modes** | Auto, Sleep, Turbo, Timer |
-| **Safety** | Ozone-free, child lock |
-
-## Is the Honeywell Air Touch V5 Air Purifier Worth Buying?
-
-Absolutely. The **Honeywell Air Purifier V5** offers premium-level air cleaning at a mid-range price, making it an excellent value for Indian homes dealing with pollution, dust, and odors. Its advanced HEPA system, powerful CADR, and long-lasting filters make it one of the most reliable purifiers in its segment.
-
-If you want cleaner air, reduced allergies, and a healthier home environment, the **Honeywell Air Touch V5 Air Purifier** is a dependable and long-lasting choice.
-
-## FAQ – Honeywell Air Purifiers
-
-### 1. Are Honeywell air purifiers good for homes?
-
-Yes. Honeywell air purifiers are known for their reliable HEPA filtration, strong CADR performance, low maintenance, and long filter life. They work effectively for dust, pollen, smoke, pet dander, and VOCs.
-
-### 2. What is the difference between Honeywell Air Touch V3 and V5?
-
-- **Honeywell Air Touch V3**: 5-stage filtration, covers up to 465 sq.ft, H11 + H13 HEPA, 300 m³/h CADR.
-- **Honeywell Air Touch V5**: Higher-grade filtration, larger room coverage, better CADR, more premium features, and smart control options depending on the variant.
-
-### 3. Do Honeywell air purifiers use true HEPA filters?
-
-Yes. Most models, including V3 and V5, use **H13 True HEPA** filters that capture up to **99.97%** of fine pollutants as small as **0.3 microns**.
-
-### 4. How often should I replace Honeywell purifier filters?
-
-Filter life is typically **2,500–3,000 hours**, which means around **9–12 months** under normal use. Some models show automatic filter replacement alerts.
-
-### 5. Are Honeywell air purifiers good for asthma and allergies?
-
-Yes. Their multi-layer HEPA filtration effectively reduces allergens, dust mites, pet hair, smoke, and airborne triggers that commonly affect asthma sufferers.
-
-### 6. Do Honeywell air purifiers produce ozone?
-
-No. Honeywell purifiers are **100% ozone-free** and safe for long-term indoor use.
-
-### 7. Can I use a Honeywell air purifier all day?
-
-Yes. Honeywell purifiers are designed for **continuous operation**, especially in auto or sleep mode to maintain stable indoor air quality.
-
-### 8. What room size can Honeywell air purifiers handle?
-
-Depending on the model:
-
-- **V3**: Up to 465 sq.ft
-- **V5**: Larger rooms (varies by model but generally higher than V3)
-
-### 9. Are Honeywell filters easily available in India?
-
-Yes. Replacement filters for most models are available on **Amazon, Honeywell’s official website, and authorized dealers**.
-
-### 10. Do Honeywell air purifiers remove cigarette smoke?
-
-Yes. With **activated carbon + HEPA filtration**, Honeywell purifiers efficiently remove:
-
-- Cigarette smoke
-- Odor
-- Tar particles
-- VOCs
-
-### 11. Does Honeywell Air Touch V5 have smart features?
-
-Some V5 variants include **WiFi app control, PM2.5 real-time display, auto mode, and intelligent sensors**.
-
-### 12. Which Honeywell air purifier is Best for large rooms?
-
-The **Honeywell Air Touch V5** or higher-range models are Best suited for large living rooms, offices, or open spaces thanks to their higher CADR and large coverage area.
+Affiliate note: if you buy through our links we may earn a commission at no extra cost to you. It does not change what we write.

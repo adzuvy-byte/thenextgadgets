@@ -5,6 +5,7 @@ import {AdSlot} from './AdSlot'
 import {BestList} from './BestList'
 import {ProductBox} from './ProductBox'
 import {Choose, Versus} from './Versus'
+import {Recommend} from './Recommend'
 
 // Renders the parts of a post body: markdown text, product boxes and ranked lists.
 export function Body({value, settings, adAfterIntro = true}: {value: Block[]; settings: SiteSettings; adAfterIntro?: boolean}) {
@@ -29,6 +30,8 @@ export function Body({value, settings, adAfterIntro = true}: {value: Block[]; se
       parts.push({key: String(i), node: <Versus block={b} settings={settings} />})
     } else if (b._type === 'choose') {
       parts.push({key: String(i), node: <Choose block={b} settings={settings} />})
+    } else if (b._type === 'recommend') {
+      parts.push({key: String(i), node: <Recommend block={b} settings={settings} />})
     } else if (b._type === 'bestTenList') {
       parts.push({key: String(i), node: <BestList block={b} settings={settings} offset={pickOffset} />})
       pickOffset += (b.items ?? []).filter((it: any) => it.product).length
