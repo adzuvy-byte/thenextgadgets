@@ -7,7 +7,7 @@ categories:
 - comparisons
 - air-purifier
 author: lucilla
-date: '2026-11-13'
+date: '2026-11-12'
 updated: '2026-11-13'
 excerpt: "Coway Airmega 150 vs Philips AC1715 compared on airflow, noise, filter cost, warranty and smart features, with Amazon.in prices checked on 13 Nov 2026."
 description: "Coway Airmega 150 vs Philips AC1715: real room size, noise, filter cost over three years, warranty and app features, with Amazon.in prices from 13 Nov 2026."

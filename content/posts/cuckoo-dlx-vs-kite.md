@@ -7,7 +7,7 @@ categories:
 - comparisons
 - air-purifier
 author: lucilla
-date: '2026-11-13'
+date: '2026-11-12'
 updated: '2026-11-13'
 excerpt: "Cuckoo DLX vs Kite compared on airflow, real room size, sensors, noise and price, with Amazon.in listings checked on 13 Nov 2026."
 description: "Cuckoo DLX vs Kite: Respure DLX (434 m³/h) against OmniPure Kite (467 m³/h) on airflow, room size, sensors, noise, power and price, checked 13 Nov 2026."

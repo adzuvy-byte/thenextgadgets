@@ -7,7 +7,7 @@ categories:
 - comparisons
 - air-purifier
 author: lucilla
-date: '2026-11-13'
+date: '2026-11-12'
 updated: '2026-11-13'
 excerpt: "Mijia 4 Compact vs Qubo Q200 compared on airflow, real room size, noise, filters, app and price, using Amazon.in data checked on 13 Nov 2026."
 description: "Mijia 4 Compact vs Qubo Q200: airflow, honest room size, noise, filter details and app features compared for bedrooms, with Amazon.in prices from 13 Nov 2026."

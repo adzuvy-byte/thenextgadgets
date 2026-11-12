@@ -7,7 +7,7 @@ categories:
 - comparisons
 - air-purifier
 author: lucilla
-date: '2026-11-13'
+date: '2026-11-12'
 updated: '2026-11-13'
 excerpt: "Xiaomi Mijia 6 vs Qubo Q600 compared on airflow, formaldehyde rating, sensors, noise, filters and price, using Amazon.in data checked on 13 Nov 2026."
 description: "Xiaomi Mijia 6 vs Qubo Q600: near-identical airflow (443 vs 450 m³/h), but a ₹3,009 price gap. See what the extra money buys, with prices from 13 Nov 2026."
